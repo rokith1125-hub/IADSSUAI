@@ -9,7 +9,7 @@
 
 🔗 **Repository**
 
-[https://github.com/murasolimaran-ai/Ulaga_unavu.git](https://github.com/murasolimaran-ai/Ulaga_unavu.git)
+[https://github.com/rokith1125-hub/IADSSUAI/tree/main/Ulaga_unavu-main](https://github.com/rokith1125-hub/IADSSUAI/tree/main/Ulaga_unavu-main)
 
 ---
 
@@ -192,7 +192,7 @@ Additional project screenshots are available inside the **images/** folder.
 
 # 👨‍💻 Developed By
 
-**Murasolimaran E**
+**Rokith M**
 
 AI Engineer • Machine Learning Engineer • Full-Stack Developer
 
@@ -202,20 +202,15 @@ AI Engineer • Machine Learning Engineer • Full-Stack Developer
 
 💼 **LinkedIn**
 
-https://linkedin.com/in/murasoli-maran
-
-🌍 **Portfolio**
-
-https://maran-portfolio-pi.vercel.app/
+linkedin.com/in/rokith-m
 
 🐙 **GitHub**
 
-https://github.com/murasolimaran-ai
+https://github.com/rokith1125-hub/IADSSUAI/tree/main/Ulaga_unavu-main
 
 📧 **Email**
 
-murasoli2846@gmail.com
-
+rokith1125@gmail.com
 ---
 
 # ⭐ Support
@@ -225,5 +220,5 @@ If you found this project useful, please consider giving it a ⭐ on GitHub.
 ---
 
 <p align="center">
-Made with ❤️ by <b>Murasolimaran E</b>
+Made with ❤️ by <b>Rokith M</b>
 </p>
