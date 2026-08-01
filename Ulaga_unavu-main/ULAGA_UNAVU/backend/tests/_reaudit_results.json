@@ -1,0 +1,1426 @@
+{
+  "report": {
+    "login": {
+      "path": "/api/auth/login",
+      "method": "POST",
+      "status": 401,
+      "time_ms": 2219.79,
+      "body": {
+        "success": false,
+        "error": "Invalid email or password."
+      },
+      "resolved": null
+    },
+    "dashboard": {
+      "path": "/api/dashboard",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 7149.08,
+      "body": {
+        "success": true,
+        "dashboard": {
+          "navbar": {
+            "location": "Tamil Nadu",
+            "temperature": "24.3\u00b0C",
+            "condition": "Partly cloudy",
+            "date": "11 Mar 2026",
+            "season": "Rabi"
+          },
+          "cards": {
+            "weather": {
+              "status": "green",
+              "message": "Weather conditions are favorable for farming",
+              "temperature": 24.3,
+              "humidity": 83,
+              "rain_probability": 0,
+              "wind_speed": 5.0,
+              "icon": "\u2600\ufe0f",
+              "updated_at": "2026-03-10T18:54:16.606958"
+            },
+            "soil": {
+              "status": "yellow",
+              "message": "Loamy Soil soil has medium fertility",
+              "soil_name": "Loamy Soil",
+              "fertility": "Medium",
+              "last_checked": "2026-03-10T18:51:06.937503",
+              "icon": "\ud83e\uddf1"
+            },
+            "crop": {
+              "status": "green",
+              "crop_name": "Wheat",
+              "stage": "Not started",
+              "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+              "message": "Wheat is in Not started stage",
+              "icon": "\ud83c\udf31"
+            },
+            "disease": {
+              "status": "red",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity": "High",
+              "message": "\u26a0\ufe0f Corn Northern Leaf Blight detected. Immediate action needed.",
+              "last_detected": "2026-03-10T18:51:36.345480",
+              "icon": "\ud83e\udda0"
+            },
+            "fertilizer": {
+              "status": "green",
+              "message": "No fertilizer schedule available",
+              "icon": "\ud83d\udc8a"
+            },
+            "growth": {
+              "status": "green",
+              "stage": "Vegetative",
+              "progress": 0,
+              "message": "Crop is in Vegetative stage (0% complete)",
+              "icon": "\ud83c\udf3f"
+            },
+            "market": {
+              "status": "yellow",
+              "message": "Real-time market prices unavailable",
+              "icon": "\ud83d\udcca"
+            },
+            "news": {
+              "status": "info",
+              "title": "Latest Headlines",
+              "headlines": [
+                "India\u2019s farm output seen surging to record levels, buoyed by wheat - Mint",
+                "Punjab CM Warns Against India-US Trade Pact's Agriculture Threat - Devdiscourse",
+                "New seed tech, biologicals can be 'game changers' for Indian agriculture - Business Standard"
+              ],
+              "icon": "\ud83d\udcf0"
+            },
+            "recent_results": [
+              {
+                "type": "Soil Analysis",
+                "icon": "\ud83e\uddf1",
+                "summary": "Analysis completed",
+                "date": "2026-03-10T18:51:06.937503"
+              },
+              {
+                "type": "Crop Selection",
+                "icon": "\ud83c\udf3e",
+                "summary": "Analysis completed",
+                "date": "2026-03-10T18:51:24.949230"
+              },
+              {
+                "type": "Disease Detection",
+                "icon": "\ud83e\udda0",
+                "summary": "Analysis completed",
+                "date": "2026-03-10T18:51:36.345480"
+              }
+            ]
+          },
+          "summary": "Wheat workflow is active. Track weather, fertilizer, and growth updates today.",
+          "timestamp": "2026-03-10T18:54:20.488348"
+        },
+        "timestamp": "2026-03-10T18:54:20.488348"
+      },
+      "resolved": null
+    },
+    "soil_analyze": {
+      "path": "/api/soil/analyze",
+      "method": "POST",
+      "status": 200,
+      "time_ms": 54576.38,
+      "body": {
+        "success": true,
+        "data": {
+          "type": "soil_analysis",
+          "analysis_id": "c62d0589b4124f78ac19d6cb",
+          "prediction": {
+            "soil_name": "Loamy Soil",
+            "confidence": 0.3466
+          },
+          "confidence_percentage": "34.66%",
+          "analysis_method": "CNN",
+          "season_context": {
+            "current_month": "March",
+            "season": "Rabi"
+          },
+          "weather_note": {
+            "rain_expected_today": false,
+            "two_line_report": "Today weather: 24.3C, humidity 83%, wind 5.0 km/h. No significant rain expected today. Field operations can continue."
+          },
+          "soil_properties": {
+            "hardness": "Soft",
+            "fertility": "Very High",
+            "water_retention": "High",
+            "drainage": "Good",
+            "ph_range": "6.0-7.0"
+          },
+          "explanation": {
+            "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+            "dos": [
+              "Match crop choice with pH range",
+              "Record pH test once per season",
+              "Use irrigation plan suitable for high water retention"
+            ],
+            "donts": [
+              "Do not assume nutrients without a lab test",
+              "Avoid practices that worsen good drainage",
+              "Do not over-apply fertilizers without soil test values"
+            ]
+          },
+          "created_at": "2026-03-10T18:55:09.512511",
+          "result": {
+            "result_id": "c62d0589b4124f78ac19d6cb",
+            "soil_name": "Loamy Soil",
+            "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+            "confidence": 34.66,
+            "suitable_crops": [
+              "Tomato",
+              "Corn",
+              "Beans",
+              "Sunflower"
+            ],
+            "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+            "soil_properties": {
+              "hardness": "Soft",
+              "fertility": "Very High",
+              "water_retention": "High",
+              "drainage": "Good",
+              "ph_range": "6.0-7.0"
+            },
+            "explanation": {
+              "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+              "dos": [
+                "Match crop choice with pH range",
+                "Record pH test once per season",
+                "Use irrigation plan suitable for high water retention"
+              ],
+              "donts": [
+                "Do not assume nutrients without a lab test",
+                "Avoid practices that worsen good drainage",
+                "Do not over-apply fertilizers without soil test values"
+              ]
+            },
+            "analysis_method": "CNN",
+            "created_at": "2026-03-10T18:55:09.512511"
+          },
+          "unlock_crop_module": true
+        },
+        "message": "Soil analysis completed",
+        "next_step": "Proceed to Crop Recommendation"
+      },
+      "resolved": null
+    },
+    "crop_recommend": {
+      "path": "/api/crop/recommend",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 9517.77,
+      "body": {
+        "success": true,
+        "data": {
+          "soil_result_id": "c62d0589b4124f78ac19d6cb",
+          "recommendations": [
+            {
+              "crop_name": "Wheat",
+              "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+              "scientific_name": "Triticum aestivum",
+              "recommended_season": [
+                "Rabi"
+              ],
+              "season_months": [
+                "Nov-Apr"
+              ],
+              "soil_compatibility": [
+                "Loamy",
+                "Clay Loam"
+              ],
+              "water_requirement": "Medium",
+              "growth_days": 120,
+              "yield_per_acre": "15-20 quintals",
+              "market_price_range": "\u20b92000-\u20b92200/quintal",
+              "estimated_profit_range": "\u20b92000-\u20b92200/quintal",
+              "risk_level": "Low",
+              "location_context": "Tamil Nadu",
+              "season_context": "Rabi",
+              "suitability_score": 55,
+              "confidence_level": "Medium",
+              "score_breakdown": {
+                "soil_match": 20,
+                "season_match": 25,
+                "risk_level": 10,
+                "weather_score": 0,
+                "market_score": 0,
+                "total_score": 55
+              },
+              "weather_available": false,
+              "market_available": false,
+              "market_score_available": false,
+              "selection_method": "adaptive_ai",
+              "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+              "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+              "image_source": "ai_generated"
+            },
+            {
+              "crop_name": "Maize",
+              "tamil_name": "\u0bae\u0b95\u0bcd\u0b95\u0bbe \u0b9a\u0bcb\u0bb3\u0bae\u0bcd",
+              "scientific_name": "Zea mays",
+              "recommended_season": [
+                "Kharif",
+                "Rabi"
+              ],
+              "season_months": [
+                "June-Sep",
+                "Oct-Jan"
+              ],
+              "soil_compatibility": [
+                "Loamy",
+                "Sandy Loam"
+              ],
+              "water_requirement": "Medium",
+              "growth_days": 90,
+              "yield_per_acre": "20-25 quintals",
+              "market_price_range": "\u20b91800-\u20b92200/quintal",
+              "estimated_profit_range": "\u20b91800-\u20b92200/quintal",
+              "risk_level": "Low",
+              "location_context": "Tamil Nadu",
+              "season_context": "Rabi",
+              "suitability_score": 55,
+              "confidence_level": "Medium",
+              "score_breakdown": {
+                "soil_match": 20,
+                "season_match": 25,
+                "risk_level": 10,
+                "weather_score": 0,
+                "market_score": 0,
+                "total_score": 55
+              },
+              "weather_available": false,
+              "market_available": false,
+              "market_score_available": false,
+              "selection_method": "adaptive_ai",
+              "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+              "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+              "image_source": "ai_generated"
+            },
+            {
+              "crop_name": "Rice",
+              "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+              "scientific_name": "Oryza sativa",
+              "recommended_season": [
+                "Kharif",
+                "Rabi"
+              ],
+              "season_months": [
+                "June-Nov",
+                "Nov-Apr"
+              ],
+              "soil_compatibility": [
+                "Alluvial",
+                "Clay",
+                "Loamy"
+              ],
+              "water_requirement": "High",
+              "growth_days": 90,
+              "yield_per_acre": "20-25 quintals",
+              "market_price_range": "\u20b91800-\u20b92500/quintal",
+              "estimated_profit_range": "\u20b91800-\u20b92500/quintal",
+              "risk_level": "Medium",
+              "location_context": "Tamil Nadu",
+              "season_context": "Rabi",
+              "suitability_score": 52,
+              "confidence_level": "Medium",
+              "score_breakdown": {
+                "soil_match": 20,
+                "season_match": 25,
+                "risk_level": 7,
+                "weather_score": 0,
+                "market_score": 0,
+                "total_score": 52
+              },
+              "weather_available": false,
+              "market_available": false,
+              "market_score_available": false,
+              "selection_method": "adaptive_ai",
+              "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+              "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+              "image_source": "ai_generated"
+            },
+            {
+              "crop_name": "Potato",
+              "tamil_name": "\u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1",
+              "scientific_name": "Solanum tuberosum",
+              "recommended_season": [
+                "Rabi"
+              ],
+              "season_months": [
+                "Oct-Feb"
+              ],
+              "soil_compatibility": [
+                "Sandy Loam",
+                "Loamy"
+              ],
+              "water_requirement": "High",
+              "growth_days": 90,
+              "yield_per_acre": "200-250 quintals",
+              "market_price_range": "\u20b9800-\u20b91500/quintal",
+              "estimated_profit_range": "\u20b9800-\u20b91500/quintal",
+              "risk_level": "Medium",
+              "location_context": "Tamil Nadu",
+              "season_context": "Rabi",
+              "suitability_score": 52,
+              "confidence_level": "Medium",
+              "score_breakdown": {
+                "soil_match": 20,
+                "season_match": 25,
+                "risk_level": 7,
+                "weather_score": 0,
+                "market_score": 0,
+                "total_score": 52
+              },
+              "weather_available": false,
+              "market_available": false,
+              "market_score_available": false,
+              "selection_method": "adaptive_ai",
+              "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+              "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+              "image_source": "ai_generated"
+            },
+            {
+              "crop_name": "Tomato",
+              "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+              "scientific_name": "Solanum lycopersicum",
+              "recommended_season": [
+                "Rabi",
+                "Summer"
+              ],
+              "season_months": [
+                "Oct-Feb",
+                "Feb-May"
+              ],
+              "soil_compatibility": [
+                "Loamy",
+                "Sandy Loam"
+              ],
+              "water_requirement": "Medium",
+              "growth_days": 90,
+              "yield_per_acre": "200-250 quintals",
+              "market_price_range": "\u20b9800-\u20b93000/quintal",
+              "estimated_profit_range": "\u20b9800-\u20b93000/quintal",
+              "risk_level": "High",
+              "location_context": "Tamil Nadu",
+              "season_context": "Rabi",
+              "suitability_score": 48,
+              "confidence_level": "Medium",
+              "score_breakdown": {
+                "soil_match": 20,
+                "season_match": 25,
+                "risk_level": 3,
+                "weather_score": 0,
+                "market_score": 0,
+                "total_score": 48
+              },
+              "weather_available": false,
+              "market_available": false,
+              "market_score_available": false,
+              "selection_method": "adaptive_ai",
+              "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+              "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+              "image_source": "ai_generated"
+            },
+            {
+              "crop_name": "Custom Crop",
+              "tamil_name": "Custom Crop",
+              "scientific_name": "Custom",
+              "selection_method": "custom",
+              "explanation": "Select your own crop if not listed",
+              "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Custom%20Crop%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+              "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Custom%20Crop%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+              "image_source": "ai_generated"
+            }
+          ]
+        },
+        "message": "Crop recommendations ready",
+        "next_step": "Select Crop"
+      },
+      "resolved": null
+    },
+    "crop_select": {
+      "path": "/api/crop/select",
+      "method": "POST",
+      "status": 200,
+      "time_ms": 705.78,
+      "body": {
+        "success": true,
+        "data": {
+          "selection_id": "59ac6f5b884e416d8f45ae84",
+          "crop_name": "Wheat",
+          "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+          "image_source": "ai_generated",
+          "image_provider": "pollinations",
+          "lifecycle_preview_images": {
+            "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+            "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+            "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+            "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+            "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+            "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+          },
+          "status": "selected"
+        },
+        "message": "Crop selected successfully",
+        "next_step": "Start Farming"
+      },
+      "resolved": null
+    },
+    "start_farming": {
+      "path": "/api/crop/start-farming",
+      "method": "POST",
+      "status": 200,
+      "time_ms": 2089.67,
+      "body": {
+        "success": true,
+        "data": {
+          "success": true,
+          "status": "farming_started",
+          "start_date": "2026-03-10T18:55:26.720853",
+          "current_stage": "Germination",
+          "total_growth_days": 120,
+          "next_step": "Track Growth"
+        },
+        "message": "Farming started successfully",
+        "next_step": "Track Growth"
+      },
+      "resolved": null
+    },
+    "growth_timeline": {
+      "path": "/api/growth/timeline",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 116.38,
+      "body": {
+        "success": true,
+        "timeline": {
+          "user_id": "Agri_1",
+          "crop_name": "Tomato",
+          "start_date": "2026-03-10T18:55:26.720853",
+          "expected_end_date": "2026-06-08T18:55:26.720853",
+          "total_days": 90,
+          "stages": [
+            {
+              "name": "Germination",
+              "tamil_name": "\u0bae\u0bc1\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+              "duration_days": 10,
+              "start_day": 0,
+              "end_day": 10,
+              "critical_actions": [
+                "Nursery preparation",
+                "Temperature control"
+              ],
+              "irrigation_need": "Mist irrigation",
+              "temperature_range": "20-25\u00b0C",
+              "monitoring_focus": "Seedling emergence",
+              "is_completed": false,
+              "completed_date": null,
+              "notes": ""
+            },
+            {
+              "name": "Seedling",
+              "tamil_name": "\u0ba8\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1",
+              "duration_days": 20,
+              "start_day": 10,
+              "end_day": 30,
+              "critical_actions": [
+                "Transplanting",
+                "Hardening"
+              ],
+              "irrigation_need": "Light irrigation",
+              "temperature_range": "18-25\u00b0C",
+              "monitoring_focus": "Root establishment",
+              "is_completed": false,
+              "completed_date": null,
+              "notes": ""
+            },
+            {
+              "name": "Vegetative",
+              "tamil_name": "\u0ba4\u0bb4\u0bc8 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+              "duration_days": 30,
+              "start_day": 30,
+              "end_day": 60,
+              "critical_actions": [
+                "Staking",
+                "Nitrogen application"
+              ],
+              "irrigation_need": "Regular irrigation",
+              "temperature_range": "20-28\u00b0C",
+              "monitoring_focus": "Leaf growth",
+              "is_completed": false,
+              "completed_date": null,
+              "notes": ""
+            },
+            {
+              "name": "Flowering",
+              "tamil_name": "\u0bae\u0bb2\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+              "duration_days": 15,
+              "start_day": 60,
+              "end_day": 75,
+              "critical_actions": [
+                "Calcium spray",
+                "Pollination support"
+              ],
+              "irrigation_need": "Avoid water stress",
+              "temperature_range": "18-25\u00b0C",
+              "monitoring_focus": "Flower setting",
+              "is_completed": false,
+              "completed_date": null,
+              "notes": ""
+            },
+            {
+              "name": "Fruiting",
+              "tamil_name": "\u0b95\u0bbe\u0baf\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd",
+              "duration_days": 15,
+              "start_day": 75,
+              "end_day": 90,
+              "critical_actions": [
+                "Potassium application",
+                "Pest control"
+              ],
+              "irrigation_need": "Regular irrigation",
+              "temperature_range": "20-25\u00b0C",
+              "monitoring_focus": "Fruit size",
+              "is_completed": false,
+              "completed_date": null,
+              "notes": ""
+            }
+          ],
+          "current_stage": "Germination",
+          "current_stage_index": 0,
+          "days_completed": 0,
+          "days_remaining": 90,
+          "progress_percent": 0.0,
+          "today_message": "Continue Germination activities for Tomato.",
+          "harvest_status": "Not Ready",
+          "harvest_guidance": [
+            "Grade by size",
+            "Cool storage"
+          ],
+          "growth_conditions": {},
+          "yield_estimate": {
+            "estimated_yield": "200-250 quintals",
+            "confidence": "Medium",
+            "factors": [
+              "Soil fertility",
+              "Weather conditions",
+              "Management practices"
+            ]
+          },
+          "created_at": "2026-03-10T18:55:27.453326",
+          "updated_at": "2026-03-10T18:55:27.453326",
+          "is_active": true,
+          "farmer_notes": "",
+          "_id": "156c6fc8fa0647f49f3d7bd5"
+        }
+      },
+      "resolved": null
+    },
+    "fert_today": {
+      "path": "/api/fertilizer/today",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 60.38,
+      "body": {
+        "success": true,
+        "action": {
+          "action": "WAIT",
+          "next_application": "Urea",
+          "days_until": 2,
+          "date": "13 Mar 2026",
+          "reason": "Next application in 2 days"
+        }
+      },
+      "resolved": null
+    },
+    "weather_current": {
+      "path": "/api/weather/current",
+      "method": "GET",
+      "status": 503,
+      "time_ms": 5367.45,
+      "body": {
+        "success": false,
+        "error": "Weather service unavailable"
+      },
+      "resolved": null
+    },
+    "weather_forecast": {
+      "path": "/api/weather/forecast",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 2252.51,
+      "body": {
+        "success": true,
+        "forecast": {
+          "location": "Tamil Nadu",
+          "days": 3,
+          "forecast": [
+            {
+              "date": "2026-03-10",
+              "max_temp": 33.2,
+              "min_temp": 22.0,
+              "condition": "Overcast",
+              "precipitation": 0.0,
+              "sunrise": "2026-03-10T06:25",
+              "sunset": "2026-03-10T18:25",
+              "wind_speed": 16.9
+            },
+            {
+              "date": "2026-03-11",
+              "max_temp": 34.0,
+              "min_temp": 22.4,
+              "condition": "Mainly clear",
+              "precipitation": 0.0,
+              "sunrise": "2026-03-11T06:25",
+              "sunset": "2026-03-11T18:26",
+              "wind_speed": 11.3
+            },
+            {
+              "date": "2026-03-12",
+              "max_temp": 35.2,
+              "min_temp": 21.9,
+              "condition": "Mainly clear",
+              "precipitation": 0.0,
+              "sunrise": "2026-03-12T06:24",
+              "sunset": "2026-03-12T18:26",
+              "wind_speed": 12.6
+            }
+          ],
+          "updated_at": "2026-03-11T00:25:35.183189"
+        }
+      },
+      "resolved": null
+    },
+    "disease_analyze": {
+      "path": "/api/disease/analyze",
+      "method": "POST",
+      "status": 200,
+      "time_ms": 18139.66,
+      "body": {
+        "success": true,
+        "data": {
+          "type": "disease_analysis",
+          "analysis_id": "bcb41d473c5d4b08ac68e7bd",
+          "prediction": {
+            "primary": "Corn Northern Leaf Blight",
+            "confidence": 91.36,
+            "severity": "High",
+            "is_healthy": false
+          },
+          "alternatives": [
+            {
+              "class": "Corn (maize) - Cercospora leaf spot Gray leaf spot",
+              "class_raw": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+              "confidence": 8.64,
+              "index": 7
+            },
+            {
+              "class": "Orange - Haunglongbing (Citrus greening)",
+              "class_raw": "Orange___Haunglongbing_(Citrus_greening)",
+              "confidence": 0.0,
+              "index": 15
+            }
+          ],
+          "warning": null,
+          "confidence_percentage": "91.36%",
+          "weather_context": {
+            "temperature": 24.3,
+            "humidity": 83,
+            "wind_speed": 5.0,
+            "rain_probability": 13
+          },
+          "spray_recommendation": {
+            "is_safe_to_spray": true,
+            "best_time": "Early Morning (6AM-9AM)",
+            "reason": "Humidity is outside ideal 50-80% range",
+            "risk_score": 10
+          },
+          "treatment_plan": {
+            "medicine": "Propiconazole",
+            "dosage": "Follow product label dosage and local agronomist guidance.",
+            "method": "Foliar spray",
+            "repeat_interval_days": 5
+          },
+          "llm_explanation": "Spraying is safer now due to manageable wind and low rain risk. This timing reduces wash-off and drift risk.",
+          "created_at": "2026-03-10T18:55:53.295317",
+          "result": {
+            "user_id": "Agri_1",
+            "disease_name": "Corn Northern Leaf Blight",
+            "tamil_name": "\u0bae\u0b95\u0bcd\u0b95\u0bbe\u0b9a\u0bcb\u0bb3\u0bae\u0bcd \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0bc8 \u0b95\u0bb0\u0bc1\u0b95\u0bb2\u0bcd",
+            "scientific_name": "",
+            "confidence": 91.36,
+            "analysis_method": "CNN",
+            "crop_name": "Corn",
+            "affected_crop": "Corn",
+            "image_path": null,
+            "image_url": null,
+            "prediction": "Corn_(maize)___Northern_Leaf_Blight",
+            "severity_level": "High",
+            "severity": "High",
+            "is_healthy": false,
+            "confidence_percentage": "91.36%",
+            "symptoms": [
+              "Long, cigar-shaped grayish-green or tan lesions (1-6 inches)",
+              "Lesions appear first on lower leaves then move up",
+              "Dirty gray spore masses on lesions in humid conditions",
+              "Premature plant death in severe cases"
+            ],
+            "causes": [
+              "Exserohilum turcicum fungus",
+              "Moderate temperatures 18-27\u00b0C and humid conditions",
+              "Infected crop debris"
+            ],
+            "spread_speed": "Moderate",
+            "weather_conditions": "Moderate temp 18-27\u00b0C with humidity",
+            "treatment": {
+              "organic": [
+                "Destroy infected crop residue",
+                "Trichoderma bio-fungicide application"
+              ],
+              "chemical": [
+                "Propiconazole",
+                "Azoxystrobin"
+              ],
+              "prevention": [
+                "Use resistant hybrids",
+                "Crop rotation",
+                "Residue management after harvest"
+              ],
+              "safety_notes": "Use chemicals with caution. Follow safety guidelines."
+            },
+            "weather_warning": "Weather currently supports safe treatment timing.",
+            "weather_context": {
+              "temperature": 24.3,
+              "humidity": 83,
+              "wind_speed": 5.0,
+              "rain_probability": 13
+            },
+            "spray_recommendation": {
+              "is_safe_to_spray": true,
+              "best_time": "Early Morning (6AM-9AM)",
+              "reason": "Humidity is outside ideal 50-80% range",
+              "risk_score": 10
+            },
+            "spray_safe": true,
+            "weather_snapshot_json": {
+              "temperature": 24.3,
+              "humidity": 83,
+              "wind_speed": 5.0,
+              "rain_probability": 13
+            },
+            "spray_recommendation_json": {
+              "is_safe_to_spray": true,
+              "best_time": "Early Morning (6AM-9AM)",
+              "reason": "Humidity is outside ideal 50-80% range",
+              "risk_score": 10
+            },
+            "treatment_plan": {
+              "medicine": "Propiconazole",
+              "dosage": "Follow product label dosage and local agronomist guidance.",
+              "method": "Foliar spray",
+              "repeat_interval_days": 5
+            },
+            "treatment_plan_json": {
+              "medicine": "Propiconazole",
+              "dosage": "Follow product label dosage and local agronomist guidance.",
+              "method": "Foliar spray",
+              "repeat_interval_days": 5
+            },
+            "llm_explanation": "Spraying is safer now due to manageable wind and low rain risk. This timing reduces wash-off and drift risk.",
+            "plant_template_output": "**Name:** Corn Northern Leaf Blight\n\n**Disease / Problem:** Corn Northern Leaf Blight\n\n**Issue Summary (Short):** Long, cigar-shaped grayish-green or tan lesions (1-6 inches); Lesions appear first on lower leaves then move up\n\n**Organic Solution:** Destroy infected crop residue; Trichoderma bio-fungicide application\n\n**Chemical Solution:** Propiconazole; Azoxystrobin\n\n**Impact Future:** Disease can spread at moderate speed if unmanaged.\n\n**Growth Impact:** High impact expected on plant growth and yield if untreated.\n\n**Action Plan (3-6 Days):**\n- Use resistant hybrids\n- Crop rotation\n- Residue management after harvest",
+            "explanation": {
+              "summary": "Disease detected: Corn Northern Leaf Blight. Severity level is High.",
+              "urgent_action": "Spread speed is Moderate. Prioritize immediate field inspection.",
+              "seek_help_when": "Seek professional help if symptoms spread quickly or affect multiple plants."
+            },
+            "consultation_advised": true,
+            "emergency_contact": "+91-1551",
+            "model_version": "v1.0",
+            "created_at": "2026-03-10T18:55:53.295317",
+            "alternatives": [
+              {
+                "class": "Corn (maize) - Cercospora leaf spot Gray leaf spot",
+                "class_raw": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+                "confidence": 8.64,
+                "index": 7
+              },
+              {
+                "class": "Orange - Haunglongbing (Citrus greening)",
+                "class_raw": "Orange___Haunglongbing_(Citrus_greening)",
+                "confidence": 0.0,
+                "index": 15
+              }
+            ],
+            "analysis_id": "bcb41d473c5d4b08ac68e7bd",
+            "_id": "bcb41d473c5d4b08ac68e7bd",
+            "updated_at": "2026-03-10T18:55:53.295317",
+            "result_id": "bcb41d473c5d4b08ac68e7bd"
+          }
+        },
+        "message": "Disease detection completed",
+        "next_step": "Review treatment plan"
+      },
+      "resolved": null
+    },
+    "disease_history": {
+      "path": "/api/disease/history",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 45.01,
+      "body": {
+        "success": true,
+        "data": {
+          "count": 9,
+          "history": [
+            {
+              "analysis_id": "bcb41d473c5d4b08ac68e7bd",
+              "result_id": "bcb41d473c5d4b08ac68e7bd",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:55:53.295317",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "6421b675da2d476eb67f6a75",
+              "result_id": "6421b675da2d476eb67f6a75",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:51:36.345480",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "8e1d1d433d984441bbc92cbc",
+              "result_id": "8e1d1d433d984441bbc92cbc",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:44:19.689325",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "a4506ddc890446ceb5a9c587",
+              "result_id": "a4506ddc890446ceb5a9c587",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:38:45.352614",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "cefd0a63c2444be6a43b5a8a",
+              "result_id": "cefd0a63c2444be6a43b5a8a",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:29:42.153180",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "18e1b2ecac934c269cd0fd39",
+              "result_id": "18e1b2ecac934c269cd0fd39",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:20:55.644751",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "e7cb7365bbd640c7874db25e",
+              "result_id": "e7cb7365bbd640c7874db25e",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:11:00.033007",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "efa4d2e0480146bd9679b1cc",
+              "result_id": "efa4d2e0480146bd9679b1cc",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T17:40:59.743526",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "abcb483ef41642ed994270fd",
+              "result_id": "abcb483ef41642ed994270fd",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T17:20:55.479263",
+              "thumbnail_url": ""
+            }
+          ],
+          "results": [
+            {
+              "analysis_id": "bcb41d473c5d4b08ac68e7bd",
+              "result_id": "bcb41d473c5d4b08ac68e7bd",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:55:53.295317",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "6421b675da2d476eb67f6a75",
+              "result_id": "6421b675da2d476eb67f6a75",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:51:36.345480",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "8e1d1d433d984441bbc92cbc",
+              "result_id": "8e1d1d433d984441bbc92cbc",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:44:19.689325",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "a4506ddc890446ceb5a9c587",
+              "result_id": "a4506ddc890446ceb5a9c587",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:38:45.352614",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "cefd0a63c2444be6a43b5a8a",
+              "result_id": "cefd0a63c2444be6a43b5a8a",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:29:42.153180",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "18e1b2ecac934c269cd0fd39",
+              "result_id": "18e1b2ecac934c269cd0fd39",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:20:55.644751",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "e7cb7365bbd640c7874db25e",
+              "result_id": "e7cb7365bbd640c7874db25e",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T18:11:00.033007",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "efa4d2e0480146bd9679b1cc",
+              "result_id": "efa4d2e0480146bd9679b1cc",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T17:40:59.743526",
+              "thumbnail_url": ""
+            },
+            {
+              "analysis_id": "abcb483ef41642ed994270fd",
+              "result_id": "abcb483ef41642ed994270fd",
+              "disease_name": "Corn Northern Leaf Blight",
+              "severity_level": "High",
+              "confidence": 91.36,
+              "confidence_percentage": "91.36%",
+              "analysis_method": "CNN",
+              "affected_crop": "Corn",
+              "is_healthy": false,
+              "created_at": "2026-03-10T17:20:55.479263",
+              "thumbnail_url": ""
+            }
+          ]
+        },
+        "message": "Disease history fetched",
+        "next_step": ""
+      },
+      "resolved": null
+    },
+    "smart_mandi": {
+      "path": "/api/smart-mandi/snapshot",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 20926.07,
+      "body": {
+        "success": true,
+        "snapshot": {
+          "crop": "Wheat",
+          "normalized_crop": "wheat",
+          "location": {
+            "district": "All",
+            "state": "Tamil Nadu",
+            "lat": null,
+            "lon": null
+          },
+          "source": "Curated Market Dataset",
+          "prices": [
+            {
+              "market": "Delhi",
+              "district": "Tamil Nadu",
+              "modal_price": 2075.0,
+              "min_price": null,
+              "max_price": null,
+              "arrivals": null,
+              "date": "2026-03-10",
+              "source": "Curated Market Dataset",
+              "trend": "STABLE",
+              "change_percent": 0.0
+            }
+          ],
+          "series": [],
+          "prediction": {
+            "error": "No series data",
+            "forecasts": [],
+            "moving_average": [],
+            "trend": "STABLE",
+            "confidence": 40
+          },
+          "sell_score": {
+            "score": 40,
+            "label": "WAIT",
+            "trend": "STABLE",
+            "confidence": 40,
+            "msp": 2275,
+            "msp_gap_percent": -8.79,
+            "weather_impact": "neutral",
+            "arrivals": null,
+            "recommendation": {
+              "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd.\n\n\u0ba8\u0bbf\u0bb2\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8: \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8.\n\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb3\u0bb5\u0bc1: \u0b9a\u0bb0\u0bbf\u0baf\u0bbe"
+            }
+          },
+          "current_price": 2075.0,
+          "min_price": null,
+          "max_price": null
+        }
+      },
+      "resolved": null
+    },
+    "news_today": {
+      "path": "/api/news/today",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 307.11,
+      "body": {
+        "success": true,
+        "news": [
+          {
+            "title": "Cabinet approves seven major schemes for improving farmers\u2019 lives and livelihoods with total outlay of Rs 13,966 Crore | Prime Minister of India",
+            "description": "#### News Updates. ## Cabinet approves seven major schemes for improving farmers\u2019 lives and livelihoods with total outlay of Rs 13,966 Crore. The Union Cabinet chaired by Prime Minister, Shri Narendra...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.498064+00:00",
+            "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-seven-major-schemes-for-improving-farmers-lives-and-livelihoods-with-total-outlay-of-rs-13966-crore/",
+            "relevance_score": 65.0,
+            "category": "government"
+          },
+          {
+            "title": "PM launches two major schemes in the agriculture sector with an outlay of Rs 35,440 crore | Prime Minister of India",
+            "description": "**Prime Minister Shri Narendra Modi launches two major schemes in the agriculture sector with an outlay of Rs 35,440 crore**. Marking the significant occasion, the Prime Minister\u00a0 underscored that the...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.497048+00:00",
+            "url": "https://www.pmindia.gov.in/en/news_updates/pm-launches-two-major-schemes-in-the-agriculture-sector-with-an-outlay-of-rs-35440-crore/",
+            "relevance_score": 65.0,
+            "category": "market"
+          },
+          {
+            "title": "#Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season ... - Facebook",
+            "description": "Oct 1, 2025 \u00b7 300 per quintal \u2733 For Rapeseed & Mustard, gram, barley, and wheat, there is an increase of Rs.250 per quintal, Rs.225 per quintal, Rs.170 per...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.497048+00:00",
+            "url": "https://www.facebook.com/pibindia/posts/cabinet-approves-minimum-support-prices-msp-for-rabi-crops-for-marketing-season-/1350290743805387/",
+            "relevance_score": 65.0,
+            "category": "crop"
+          },
+          {
+            "title": "Union Budget 2026\u201327 signals a new chapter for Indian agriculture. From AI-powered ...",
+            "description": "Feb 3, 2026 \u00b7 Among the other agriculture sector schemes, the budgetary allocation of Pradhan Mantri Krishi Sinchai Yojna has been reduced to Rs 10,787 for...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.496043+00:00",
+            "url": "https://www.facebook.com/SwitchONIndia/posts/union-budget-202627-signals-a-new-chapter-for-indian-agriculturefrom-ai-powered-/1210699404545620/",
+            "relevance_score": 65.0,
+            "category": "government"
+          },
+          {
+            "title": "Minimum Support Prices: From Safety Net to Self-Sufficiency - PIB",
+            "description": "**RABI CROPS** **S.N.****Crops****MSP 2026-27 (\u20b9/quintal)****Cost of Production 2026-27 (\u20b9/quintal)****Margin Over Cost (%)****MSP 2025-26 (\u20b9/quintal)****Increase in MSP (Absolute)** 1 Wheat 2,585 1,2...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.496043+00:00",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2177219",
+            "relevance_score": 65.0,
+            "category": "market"
+          },
+          {
+            "title": "Agriculture Policy India News Today: 2026 USDA Reforms",
+            "description": "# Agriculture Policy India News Today: 2026 USDA Reforms. ## **Agriculture Policy India News Today**: Digital Transformation in the Agricultural Sector. Farmonaut Web App - agriculture policy india ne...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.495344+00:00",
+            "url": "https://farmonaut.com/asia/agriculture-policy-india-news-today-2026-usda-reforms",
+            "relevance_score": 65.0,
+            "category": "market"
+          },
+          {
+            "title": "PM Modi rolls out over Rs 35,000 crore agri schemes, urges farmers to look at global markets | India News - The Indian Express",
+            "description": "# PM Modi rolls out over Rs 35,000 crore agri schemes, urges farmers to look at global markets. PM Modi launches major agri schemes, Dhan Dhaanya Krishi Yojana and Mission for Aatmanirbharta in Pulses...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.495344+00:00",
+            "url": "https://indianexpress.com/article/india/pm-modi-agri-schemes-dhan-dhaanya-krishi-yojana-mission-aatmanirbharta-pulses-10301362/",
+            "relevance_score": 65.0,
+            "category": "market"
+          },
+          {
+            "title": "Agriculture India Policy News Today: Tech & Climate 2026",
+            "description": "# **Agriculture India Policy News Today: Tech & Climate 2026**. In this in-depth blog, we analyze how **India, the United States, and South Korea** are launching innovative **2025\u20132026** **policies** ...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.494509+00:00",
+            "url": "https://farmonaut.com/asia/agriculture-india-policy-news-today-tech-climate-2026",
+            "relevance_score": 65.0,
+            "category": "market"
+          },
+          {
+            "title": "Latest Agriculture Schemes India 2025: New Updates",
+            "description": "# Latest Agriculture Schemes India 2025: New Updates for Sustainable Growth. This year, as we journey through **2025**, the **government** continues to introduce and refine **agriculture schemes in In...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.493002+00:00",
+            "url": "https://farmonaut.com/asia/latest-agriculture-schemes-india-2025-new-updates",
+            "relevance_score": 65.0,
+            "category": "market"
+          },
+          {
+            "title": "New Schemes Implemented by Government of India for Farmers",
+            "description": "New Schemes Implemented by Government of India for Farmers. # New Schemes Implemented by Government of India for Farmers. **07 August 2024,\u00a0**New Delhi**:**\u00a0The government of India is implementing var...",
+            "source": "Unknown",
+            "published_at": "2026-03-10T18:16:13.493002+00:00",
+            "url": "https://www.global-agriculture.com/india-region/new-schemes-implemented-by-government-of-india-for-farmers/",
+            "relevance_score": 65.0,
+            "category": "market"
+          }
+        ],
+        "cache_used": true
+      },
+      "resolved": null
+    },
+    "chatbot_ask": {
+      "path": "/api/chatbot/ask",
+      "method": "POST",
+      "status": 200,
+      "time_ms": 9195.48,
+      "body": {
+        "success": true,
+        "response": "Your current active crop is Wheat.",
+        "session_id": "session_20260310185620",
+        "source": "DATASTORE",
+        "agriculture_related": true,
+        "tokens_used": 0,
+        "response_time_ms": 3031,
+        "timestamp": "2026-03-10T18:56:23.797814"
+      },
+      "resolved": null
+    },
+    "settings": {
+      "path": "/api/settings",
+      "method": "GET",
+      "status": 200,
+      "time_ms": 112.47,
+      "body": {
+        "success": true,
+        "settings": {
+          "language": "en",
+          "notifications": true,
+          "theme": "light",
+          "units": "metric",
+          "dashboard_layout": "standard"
+        },
+        "profile": {
+          "name": "Test Farmer",
+          "email": "testuser@example.com",
+          "phone": "",
+          "farm_info": {
+            "district": "",
+            "state": "Tamil Nadu",
+            "farm_size": "",
+            "soil_type": "",
+            "primary_crop": ""
+          },
+          "photo_url": "/static/images/default-avatar.png"
+        }
+      },
+      "resolved": null
+    },
+    "dashboard_unauthorized": {
+      "path": "/api/dashboard",
+      "method": "GET",
+      "status": 401,
+      "time_ms": 24.05,
+      "body": {
+        "success": false,
+        "error": "Authorization header is missing or empty."
+      },
+      "resolved": null
+    },
+    "soil_invalid_file": {
+      "path": "/api/soil/analyze",
+      "method": "POST",
+      "status": 400,
+      "time_ms": 30.64,
+      "body": {
+        "success": false,
+        "error": "Invalid file type: .txt"
+      },
+      "resolved": null
+    },
+    "chatbot_empty": {
+      "path": "/api/chatbot/ask",
+      "method": "POST",
+      "status": 400,
+      "time_ms": 32.46,
+      "body": {
+        "success": false,
+        "error": "Question cannot be empty"
+      },
+      "resolved": null
+    }
+  },
+  "checks": {
+    "login": {
+      "schema_ok": true,
+      "note": "expects success + token/error"
+    },
+    "dashboard": {
+      "schema_ok": true,
+      "note": "expects success + dashboard/error"
+    },
+    "soil_analyze": {
+      "schema_ok": true,
+      "note": "expects success + data/error"
+    },
+    "crop_recommend": {
+      "schema_ok": true,
+      "note": "expects success + data/error"
+    },
+    "crop_select": {
+      "schema_ok": true,
+      "note": "expects success"
+    },
+    "start_farming": {
+      "schema_ok": true,
+      "note": "expects success"
+    },
+    "growth_timeline": {
+      "schema_ok": true,
+      "note": "expects success + timeline/error"
+    },
+    "fert_today": {
+      "schema_ok": true,
+      "note": "expects success + action/error"
+    },
+    "weather_current": {
+      "schema_ok": true,
+      "note": "expects success + weather/error"
+    },
+    "weather_forecast": {
+      "schema_ok": true,
+      "note": "expects success + forecast/error"
+    },
+    "disease_analyze": {
+      "schema_ok": true,
+      "note": "expects success"
+    },
+    "disease_history": {
+      "schema_ok": true,
+      "note": "expects success"
+    },
+    "smart_mandi": {
+      "schema_ok": true,
+      "note": "expects success + snapshot/message"
+    },
+    "news_today": {
+      "schema_ok": true,
+      "note": "expects success + news/error"
+    },
+    "chatbot_ask": {
+      "schema_ok": true,
+      "note": "expects success + response/error"
+    },
+    "settings": {
+      "schema_ok": true,
+      "note": "expects success + settings/error"
+    }
+  }
+}

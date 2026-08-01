@@ -1,0 +1,70 @@
+{
+  "model_labels_total": 38,
+  "dataset_diseases_total": 13,
+  "skipped_healthy_labels": 12,
+  "resolvable_labels": 6,
+  "unresolved_labels": 20,
+  "coverage_percent": 23.08,
+  "unresolved": [
+    {
+      "label": "Apple___Apple_scab"
+    },
+    {
+      "label": "Apple___Black_rot"
+    },
+    {
+      "label": "Apple___Cedar_apple_rust"
+    },
+    {
+      "label": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot"
+    },
+    {
+      "label": "Corn_(maize)___Common_rust_"
+    },
+    {
+      "label": "Corn_(maize)___Northern_Leaf_Blight"
+    },
+    {
+      "label": "Grape___Esca_(Black_Measles)"
+    },
+    {
+      "label": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)"
+    },
+    {
+      "label": "Orange___Haunglongbing_(Citrus_greening)"
+    },
+    {
+      "label": "Peach___Bacterial_spot"
+    },
+    {
+      "label": "Pepper,_bell___Bacterial_spot"
+    },
+    {
+      "label": "Strawberry___Leaf_scorch"
+    },
+    {
+      "label": "Tomato___Bacterial_spot"
+    },
+    {
+      "label": "Tomato___Late_blight"
+    },
+    {
+      "label": "Tomato___Leaf_Mold"
+    },
+    {
+      "label": "Tomato___Septoria_leaf_spot"
+    },
+    {
+      "label": "Tomato___Spider_mites Two-spotted_spider_mite"
+    },
+    {
+      "label": "Tomato___Target_Spot"
+    },
+    {
+      "label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+    },
+    {
+      "label": "Tomato___Tomato_mosaic_virus"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+﻿# Core
+Flask==2.3.3
+flask-cors==4.0.0
+fastapi==0.115.6
+uvicorn==0.32.1
+python-dotenv==1.0.0
+gunicorn==21.2.0
+
+# Storage (Local JSON - no database required)
+# Data stored in backend/data/ folder
+
+# Authentication
+firebase-admin==6.2.0
+pyjwt==2.8.0
+flask-jwt-extended==4.5.3
+
+# AI/ML
+# tensorflow==2.13.0  # Optional - enable for CNN models
+numpy==1.26.4
+Pillow==10.0.0
+scikit-learn==1.3.0
+
+# LLM APIs
+groq==0.3.0
+openai==1.3.0
+tavily-python==0.3.0
+
+# External APIs
+requests==2.31.0
+httpx==0.24.1
+aiohttp==3.8.5
+
+# Web Scraping & News
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+lxml==4.9.3
+
+# Cloud Storage
+cloudinary==1.34.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+tzlocal==5.0.1
+
+# Rate limiting
+flask-limiter==3.5.0
+
+# File handling
+werkzeug==2.3.7
+reportlab==4.0.4
+
+# Development
+pytest==7.4.2
+black==23.9.1
+flake8==6.1.0
+pytest-cov==4.1.0
+
+
+# TensorFlow stack (keep these versions compatible)
+tensorflow==2.18.0
+keras>=3.5.0,<4
+protobuf>=5.28.0,<6
+tensorboard>=2.18.0,<2.19
+

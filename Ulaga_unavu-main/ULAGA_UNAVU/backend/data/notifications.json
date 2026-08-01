@@ -1,0 +1,1778 @@
+[
+  {
+    "user_id": "Agri_12",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-02-28T08:00:00.329566",
+    "created_at": "2026-02-28T19:13:38.330578",
+    "updated_at": "2026-02-28T19:13:38.398930",
+    "delivered_at": "2026-02-28T19:13:38.397936",
+    "notification_id": "1fcee07f65184503a0adf38f"
+  },
+  {
+    "user_id": "Agri_12",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-03-02T09:00:00.448110",
+    "created_at": "2026-02-28T19:13:38.448110",
+    "updated_at": "2026-02-28T19:13:38.448110",
+    "notification_id": "8d091b4f50934ff09c643f2f"
+  },
+  {
+    "user_id": "Agri_12",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-03-07T08:00:00.397296",
+    "created_at": "2026-03-07T05:02:48.401427",
+    "updated_at": "2026-03-07T05:02:48.401427",
+    "_id": "a445dd8c2b7a40418a53ec7e"
+  },
+  {
+    "user_id": "Agri_12",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-03-09T09:00:00.428562",
+    "created_at": "2026-03-07T05:02:48.429562",
+    "updated_at": "2026-03-07T05:02:48.429562",
+    "_id": "0134c5dc270a43bcaf54d7c6"
+  },
+  {
+    "user_id": "Agri_12",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Tomato farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-07T08:58:41.839906",
+    "_id": "46c6fed8188f403f8b705f28",
+    "updated_at": "2026-03-07T08:58:41.839906"
+  },
+  {
+    "user_id": "Agri_12",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Tomato farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-07T13:48:41.481487",
+    "_id": "6c8bb88e165c43ecaecdd6d4",
+    "updated_at": "2026-03-07T13:48:41.481487"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.363600",
+    "created_at": "2026-03-07T17:20:14.366385",
+    "updated_at": "2026-03-07T18:46:34.051776",
+    "_id": "b7cce2adec004f3b8c768a19",
+    "delivered_at": "2026-03-07T17:20:14.371375",
+    "read_at": "2026-03-07T18:46:34.051776"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.716429",
+    "created_at": "2026-03-07T17:24:38.719220",
+    "updated_at": "2026-03-07T18:46:34.051776",
+    "_id": "933e09d241be45eea0f6b6f9",
+    "delivered_at": "2026-03-07T17:24:38.734200",
+    "read_at": "2026-03-07T18:46:34.051776"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.080191",
+    "created_at": "2026-03-07T17:25:08.080191",
+    "updated_at": "2026-03-07T18:46:34.051776",
+    "_id": "4e7d5649eb5343688429a463",
+    "delivered_at": "2026-03-07T17:25:08.082537",
+    "read_at": "2026-03-07T18:46:34.051776"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.845734",
+    "created_at": "2026-03-07T17:40:48.017630",
+    "updated_at": "2026-03-07T18:46:34.051776",
+    "_id": "47fc5c62fd844f8593811d86",
+    "delivered_at": "2026-03-07T17:40:48.157426",
+    "read_at": "2026-03-07T18:46:34.051776"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.945366",
+    "created_at": "2026-03-07T17:59:15.947218",
+    "updated_at": "2026-03-07T18:46:29.800228",
+    "_id": "bf5f5bccbfa942208e91851d",
+    "delivered_at": "2026-03-07T17:59:16.130360",
+    "read_at": "2026-03-07T18:46:29.800228"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.098897",
+    "created_at": "2026-03-07T18:33:34.117282",
+    "updated_at": "2026-03-07T18:46:30.768555",
+    "_id": "ffd479abd0074b82a75be284",
+    "delivered_at": "2026-03-07T18:33:34.133013",
+    "read_at": "2026-03-07T18:46:30.768555"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.519124",
+    "created_at": "2026-03-07T18:33:36.519124",
+    "updated_at": "2026-03-07T18:46:31.675392",
+    "_id": "19f4996c794a4dc4beb8c526",
+    "delivered_at": "2026-03-07T18:33:36.534118",
+    "read_at": "2026-03-07T18:46:31.675392"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.739906",
+    "created_at": "2026-03-07T18:45:26.789888",
+    "updated_at": "2026-03-07T18:46:32.968336",
+    "_id": "16d4575385764dac8a4b003f",
+    "delivered_at": "2026-03-07T18:45:26.854822",
+    "read_at": "2026-03-07T18:46:32.968336"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.229054",
+    "created_at": "2026-03-07T18:45:27.231220",
+    "updated_at": "2026-03-07T18:46:34.051776",
+    "_id": "64b83eb0bcca4cd094ff2552",
+    "delivered_at": "2026-03-07T18:45:27.359499",
+    "read_at": "2026-03-07T18:46:34.051776"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.411993",
+    "created_at": "2026-03-07T18:46:48.411993",
+    "updated_at": "2026-03-07T18:51:18.653230",
+    "_id": "ad3d6444a1ca4f9e8fe49b1c",
+    "delivered_at": "2026-03-07T18:46:48.416009",
+    "read_at": "2026-03-07T18:51:18.592410"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.772567",
+    "created_at": "2026-03-07T18:47:15.774126",
+    "updated_at": "2026-03-07T18:51:18.653230",
+    "_id": "e555c1ddf49a42308c8a97b1",
+    "delivered_at": "2026-03-07T18:47:15.821750",
+    "read_at": "2026-03-07T18:51:18.592410"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.883759",
+    "created_at": "2026-03-07T18:48:52.884064",
+    "updated_at": "2026-03-07T18:51:18.653230",
+    "_id": "174667fd3a094975bceca872",
+    "delivered_at": "2026-03-07T18:48:52.900326",
+    "read_at": "2026-03-07T18:51:18.592410"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.798719",
+    "created_at": "2026-03-07T18:48:53.798719",
+    "updated_at": "2026-03-07T18:51:18.653230",
+    "_id": "c6833731c0ab4e099ee89fd8",
+    "delivered_at": "2026-03-07T18:48:53.849113",
+    "read_at": "2026-03-07T18:51:18.592410"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.845062",
+    "created_at": "2026-03-07T18:49:03.845062",
+    "updated_at": "2026-03-07T18:51:18.653230",
+    "_id": "c38c1248c5044082abab335b",
+    "delivered_at": "2026-03-07T18:49:03.848586",
+    "read_at": "2026-03-07T18:51:18.592410"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.791674",
+    "created_at": "2026-03-07T18:58:42.806259",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "cc5c18e0b0fc4b249acd22ad",
+    "delivered_at": "2026-03-07T18:58:42.900512",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.834192",
+    "created_at": "2026-03-07T19:14:41.834192",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "b3dff1cdb11042ccaa7def16",
+    "delivered_at": "2026-03-07T19:14:41.857704",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.613227",
+    "created_at": "2026-03-07T19:14:42.613227",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "719543a30a154f3686b43136",
+    "delivered_at": "2026-03-07T19:14:42.675638",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.085782",
+    "created_at": "2026-03-07T19:14:47.087010",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "783ba651045b4bdf896a76f1",
+    "delivered_at": "2026-03-07T19:14:47.096260",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.209395",
+    "created_at": "2026-03-07T19:15:43.209395",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "d9e322207dc1468b9d10be23",
+    "delivered_at": "2026-03-07T19:15:43.216012",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.966224",
+    "created_at": "2026-03-07T19:25:05.969645",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "5224cf6957254ac6ad95d83e",
+    "delivered_at": "2026-03-07T19:25:05.990514",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.484021",
+    "created_at": "2026-03-07T19:25:13.484021",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "f304badb14b44c238cf12958",
+    "delivered_at": "2026-03-07T19:25:13.545938",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.234061",
+    "created_at": "2026-03-07T19:25:17.234061",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "558a7f3bed994b648d285391",
+    "delivered_at": "2026-03-07T19:25:17.734769",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.783435",
+    "created_at": "2026-03-07T19:29:49.853883",
+    "updated_at": "2026-03-07T19:30:00.462596",
+    "_id": "48c62a195eb246e880b0a073",
+    "delivered_at": "2026-03-07T19:29:50.234315",
+    "read_at": "2026-03-07T19:30:00.449632"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.860033",
+    "created_at": "2026-03-07T19:30:02.862111",
+    "updated_at": "2026-03-07T20:49:11.335893",
+    "_id": "8a975e152ef8408c8a55e6b4",
+    "delivered_at": "2026-03-07T19:30:02.884619",
+    "read_at": "2026-03-07T20:49:11.311526"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.965208",
+    "created_at": "2026-03-07T19:30:03.965208",
+    "updated_at": "2026-03-07T20:49:11.335893",
+    "_id": "7ff9df09c9b74873b82e5c90",
+    "delivered_at": "2026-03-07T19:30:03.998906",
+    "read_at": "2026-03-07T20:49:11.311526"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.230667",
+    "created_at": "2026-03-07T19:30:05.230667",
+    "updated_at": "2026-03-07T20:49:11.335893",
+    "_id": "59845dab33df45c3902f999c",
+    "delivered_at": "2026-03-07T19:30:05.282890",
+    "read_at": "2026-03-07T20:49:11.311526"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.277781",
+    "created_at": "2026-03-07T19:55:50.280491",
+    "updated_at": "2026-03-07T20:49:11.335893",
+    "_id": "353b0cadd7394228a95f1944",
+    "delivered_at": "2026-03-07T19:55:50.297392",
+    "read_at": "2026-03-07T20:49:11.311526"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.250641",
+    "created_at": "2026-03-07T19:55:52.250641",
+    "updated_at": "2026-03-07T20:49:11.335893",
+    "_id": "3c6b2484f1484b0f96381bb2",
+    "delivered_at": "2026-03-07T19:55:52.284545",
+    "read_at": "2026-03-07T20:49:11.311526"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.912764",
+    "created_at": "2026-03-07T19:57:02.928990",
+    "updated_at": "2026-03-07T20:49:11.335893",
+    "_id": "6a2e135d0e1545b08ff10a1a",
+    "delivered_at": "2026-03-07T19:57:03.001141",
+    "read_at": "2026-03-07T20:49:11.311526"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.727644",
+    "created_at": "2026-03-07T19:57:12.727644",
+    "updated_at": "2026-03-07T20:49:11.335893",
+    "_id": "80a64f5831bf4986925840aa",
+    "delivered_at": "2026-03-07T19:57:12.800498",
+    "read_at": "2026-03-07T20:49:11.311526"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.818264",
+    "created_at": "2026-03-07T20:49:14.818264",
+    "updated_at": "2026-03-10T10:46:27.256811",
+    "_id": "555e580cadad440db55a09c9",
+    "delivered_at": "2026-03-07T20:49:14.871045",
+    "read_at": "2026-03-10T10:46:27.255811"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-07T08:00:00.555137",
+    "created_at": "2026-03-07T20:49:16.555137",
+    "updated_at": "2026-03-10T10:46:27.131066",
+    "_id": "649eb27070e04de7b7cc9d56",
+    "delivered_at": "2026-03-07T20:49:16.786092",
+    "read_at": "2026-03-10T10:46:27.131066"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": true,
+    "scheduled_for": "2026-03-09T09:00:00.826953",
+    "created_at": "2026-03-07T20:49:16.834507",
+    "updated_at": "2026-03-10T10:46:27.256811",
+    "_id": "6e88319780394849b17972e7",
+    "read_at": "2026-03-10T10:46:27.255811"
+  },
+  {
+    "user_id": "Agri_33",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Rice farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T16:31:03.854130",
+    "_id": "8aab32958c1f418191caed56",
+    "updated_at": "2026-03-10T16:31:03.854130"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.361308",
+    "created_at": "2026-03-10T16:56:08.361308",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "888105cf918e4cc8bd5d5d07",
+    "delivered_at": "2026-03-10T16:56:08.459812",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.296770",
+    "created_at": "2026-03-10T16:56:12.296770",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "c0753a6843be4b73a42f601e",
+    "delivered_at": "2026-03-10T16:56:12.381002",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.061777",
+    "created_at": "2026-03-10T16:56:22.061777",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "47258ca65374455b8787fd06",
+    "delivered_at": "2026-03-10T16:56:23.026172",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.839266",
+    "created_at": "2026-03-10T16:56:27.839266",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "e9327e93b0e44101a9a64c36",
+    "delivered_at": "2026-03-10T16:56:28.460891",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.481734",
+    "created_at": "2026-03-10T17:18:12.482735",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "5a90376bf8a34299a0ccc9e1",
+    "delivered_at": "2026-03-10T17:18:12.567320",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.845262",
+    "created_at": "2026-03-10T17:20:27.845262",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "f1bfa18e9ffa49f4bc55a709",
+    "delivered_at": "2026-03-10T17:20:27.877908",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.490210",
+    "created_at": "2026-03-10T17:22:38.490210",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "1d1409ae8e1d4199aec3f85b",
+    "delivered_at": "2026-03-10T17:22:38.541969",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.106131",
+    "created_at": "2026-03-10T17:22:42.106131",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "d2f53c77ed9f4632b6672863",
+    "delivered_at": "2026-03-10T17:22:42.153632",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.783094",
+    "created_at": "2026-03-10T17:22:57.783094",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "9c8d7ab51d1b4fbd9ffd9326",
+    "delivered_at": "2026-03-10T17:22:58.365903",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.867272",
+    "created_at": "2026-03-10T17:22:59.867272",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "a7cddc637db746a99a5cfbab",
+    "delivered_at": "2026-03-10T17:23:00.115880",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.162237",
+    "created_at": "2026-03-10T17:23:06.162237",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "41cc46a045a5402395e3617e",
+    "delivered_at": "2026-03-10T17:23:06.199726",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.924868",
+    "created_at": "2026-03-10T17:23:11.925862",
+    "updated_at": "2026-03-10T17:36:55.113456",
+    "_id": "b51b57bfa2804fdab0d0408f",
+    "delivered_at": "2026-03-10T17:23:11.947393",
+    "read_at": "2026-03-10T17:36:55.112597"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-10T08:00:00.177493",
+    "created_at": "2026-03-10T17:23:15.177493",
+    "updated_at": "2026-03-10T17:36:52.278320",
+    "_id": "aae10c04be254fbeb4ddf736",
+    "delivered_at": "2026-03-10T17:23:15.191310",
+    "read_at": "2026-03-10T17:36:52.278320"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T09:00:00.198917",
+    "created_at": "2026-03-10T17:23:15.198917",
+    "updated_at": "2026-03-10T17:36:52.979940",
+    "_id": "6e53e3f9c3a747da872627ba",
+    "read_at": "2026-03-10T17:36:52.979940"
+  },
+  {
+    "user_id": "Agri_1",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Tomato farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T17:39:17.524035",
+    "_id": "76e802461f004b51b1f77130",
+    "updated_at": "2026-03-10T17:39:17.524035"
+  },
+  {
+    "user_id": "Agri_1",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T18:10:26.045257",
+    "_id": "9aca7773d2334c44b27ede81",
+    "updated_at": "2026-03-10T18:10:26.045257"
+  },
+  {
+    "user_id": "Agri_1",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T18:20:19.781239",
+    "_id": "86f68c0d4b2b4e01aaf3d961",
+    "updated_at": "2026-03-10T18:20:19.781239"
+  },
+  {
+    "user_id": "Agri_1",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T18:29:14.435564",
+    "_id": "0b2196fd35614dbb84a864f7",
+    "updated_at": "2026-03-10T18:29:14.435564"
+  },
+  {
+    "user_id": "Agri_1",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T18:43:43.947684",
+    "_id": "9e334b5428764b1ca184c71f",
+    "updated_at": "2026-03-10T18:43:43.947684"
+  },
+  {
+    "user_id": "Agri_1",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T18:51:27.096133",
+    "_id": "591a2e7dad6b467d9f219742",
+    "updated_at": "2026-03-10T18:51:27.096133"
+  },
+  {
+    "user_id": "Agri_1",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-10T18:55:27.367031",
+    "_id": "ecc3db19fb2e484093020efc",
+    "updated_at": "2026-03-10T18:55:27.367031"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": true,
+    "status": "active",
+    "created_at": "2026-03-10T19:00:29.283039",
+    "_id": "a3c0fd1686494f539c5b3f56",
+    "updated_at": "2026-04-09T19:38:10.776318",
+    "read_at": "2026-04-09T19:38:10.775316"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Maize farming lifecycle started",
+    "is_read": true,
+    "status": "active",
+    "created_at": "2026-03-10T19:04:17.666293",
+    "_id": "bed1af6c854d4dba8689d3b7",
+    "updated_at": "2026-04-09T19:38:10.776318",
+    "read_at": "2026-04-09T19:38:10.775316"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.513233",
+    "created_at": "2026-03-16T16:42:06.514254",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "c26144d5036c4d64ac6610ca",
+    "delivered_at": "2026-03-16T16:42:06.850280",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.133762",
+    "created_at": "2026-03-16T16:42:14.149232",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "fb7405df13a64de2a947bba3",
+    "delivered_at": "2026-03-16T16:42:14.263252",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.261597",
+    "created_at": "2026-03-16T16:42:16.261597",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "4e63547b87104d4582a4a0e5",
+    "delivered_at": "2026-03-16T16:42:16.646348",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.161429",
+    "created_at": "2026-03-16T16:42:24.161429",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "40d76e47e52c4251b3e32b2c",
+    "delivered_at": "2026-03-16T16:42:24.278660",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.963434",
+    "created_at": "2026-03-16T16:42:25.963434",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "2c5547a506974c81bc6f8147",
+    "delivered_at": "2026-03-16T16:42:26.138759",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.384537",
+    "created_at": "2026-03-16T16:42:28.384537",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "804e8f36f0b84515a35524c7",
+    "delivered_at": "2026-03-16T16:42:28.458492",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.494950",
+    "created_at": "2026-03-16T17:29:57.495968",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "a01102e7ba434a90aa334e89",
+    "delivered_at": "2026-03-16T17:29:58.163386",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.280997",
+    "created_at": "2026-03-16T17:30:00.146361",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "a426b4909a9841a38323a788",
+    "delivered_at": "2026-03-16T17:30:01.412449",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Cotton farming lifecycle started",
+    "is_read": true,
+    "status": "active",
+    "created_at": "2026-03-16T17:39:02.118316",
+    "_id": "0b216f2c0ff54c80a027238f",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Cotton farming lifecycle started",
+    "is_read": true,
+    "status": "active",
+    "created_at": "2026-03-16T17:42:21.281499",
+    "_id": "6903d9c83e324790a59b5e71",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.181892",
+    "created_at": "2026-03-16T18:07:43.198008",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "603461f20e024549bbea6bbb",
+    "delivered_at": "2026-03-16T18:07:43.265528",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.998000",
+    "created_at": "2026-03-16T18:07:50.998000",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "fa3db5fad0934827bae4c250",
+    "delivered_at": "2026-03-16T18:07:51.081978",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.646817",
+    "created_at": "2026-03-16T18:08:19.646817",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "24078fe2968c44519adde1f0",
+    "delivered_at": "2026-03-16T18:08:20.357906",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.362613",
+    "created_at": "2026-03-16T18:08:25.362613",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "a983a0c9a1f346f698bb75a6",
+    "delivered_at": "2026-03-16T18:08:25.407686",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-16T08:00:00.879615",
+    "created_at": "2026-03-16T18:08:30.879615",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "86c7d79900254a6a8f9ff9b0",
+    "delivered_at": "2026-03-16T18:08:31.228585",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-18T08:00:00.119700",
+    "created_at": "2026-03-18T15:07:16.467452",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "21092844d2b94668a10b2c3b",
+    "delivered_at": "2026-03-18T15:07:20.077466",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-18T08:00:00.874957",
+    "created_at": "2026-03-18T15:08:46.875948",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "cf7f407ad3164d21abb20082",
+    "delivered_at": "2026-03-18T15:08:48.650130",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-18T08:00:00.142351",
+    "created_at": "2026-03-18T15:09:03.142351",
+    "updated_at": "2026-03-18T15:09:06.345227",
+    "_id": "bf788e75559440b894183a18",
+    "delivered_at": "2026-03-18T15:09:03.346197",
+    "read_at": "2026-03-18T15:09:05.797417"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-18T08:00:00.494295",
+    "created_at": "2026-03-18T15:09:06.343220",
+    "updated_at": "2026-03-18T15:09:06.939232",
+    "_id": "61cb525ba64c40a3b184570c",
+    "read_at": "2026-03-18T15:09:05.797417",
+    "delivered_at": "2026-03-18T15:09:06.447187"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": true,
+    "scheduled_for": "2026-03-18T08:00:00.197483",
+    "created_at": "2026-03-18T15:09:06.393453",
+    "updated_at": "2026-03-18T15:13:42.274155",
+    "_id": "af12d43fe2124d3c8ca8ce7e",
+    "delivered_at": "2026-03-18T15:09:06.935654",
+    "read_at": "2026-03-18T15:13:42.273145"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.969953",
+    "created_at": "2026-03-18T15:16:29.970987",
+    "updated_at": "2026-03-18T15:16:30.207423",
+    "_id": "319fd10f253d47ab81480811",
+    "delivered_at": "2026-03-18T15:16:30.207423"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.338687",
+    "created_at": "2026-03-18T15:16:32.430493",
+    "updated_at": "2026-03-18T15:16:32.971563",
+    "_id": "3a5c816342984a718a037d08",
+    "delivered_at": "2026-03-18T15:16:32.971563"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.054945",
+    "created_at": "2026-03-18T15:16:39.054945",
+    "updated_at": "2026-03-18T15:16:39.171821",
+    "_id": "df2526cfd0bf4ea994b1c845",
+    "delivered_at": "2026-03-18T15:16:39.171821"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Rice farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:22:07.376366",
+    "_id": "94adeaff19bf4ca4bb4d024a",
+    "updated_at": "2026-03-18T15:22:07.376366"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Rice farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:25:20.120127",
+    "_id": "afb0acea58cb4d859cbff0b2",
+    "updated_at": "2026-03-18T15:25:20.120127"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Cotton farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:36:05.489557",
+    "_id": "27fd554b4afa49e7a426806b",
+    "updated_at": "2026-03-18T15:36:05.489557"
+  },
+  {
+    "user_id": "Agri_39",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Rice farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:40:12.253088",
+    "_id": "d3b75d0993dd485ab76ed0cf",
+    "updated_at": "2026-03-18T15:40:12.253088"
+  },
+  {
+    "user_id": "Agri_42",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Sugarcane farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:50:18.857408",
+    "_id": "f20ef39242824a549f9b3b52",
+    "updated_at": "2026-03-18T15:50:18.857408"
+  },
+  {
+    "user_id": "Agri_42",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Sugarcane farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:56:34.600978",
+    "_id": "85ece5fec76548b4b1771264",
+    "updated_at": "2026-03-18T15:56:34.600978"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Sugarcane farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:58:26.979991",
+    "_id": "04a810c5132c48bf82c45acb",
+    "updated_at": "2026-03-18T15:58:26.979991"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Sugarcane farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T15:59:36.403251",
+    "_id": "a0dd29d4e3134f8a9101cfb8",
+    "updated_at": "2026-03-18T15:59:36.403251"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Sugarcane farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T16:31:08.284947",
+    "_id": "b813fe77cd7346539b4779ef",
+    "updated_at": "2026-03-18T16:31:08.284947"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-03-18T16:34:29.567001",
+    "_id": "fa65501e57574ea5b741838a",
+    "updated_at": "2026-03-18T16:34:29.567001"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.958893",
+    "created_at": "2026-03-18T16:54:13.958893",
+    "updated_at": "2026-03-18T16:54:13.991130",
+    "_id": "00e063c1e9444d89a88193d0",
+    "delivered_at": "2026-03-18T16:54:13.991130"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.996643",
+    "created_at": "2026-03-18T17:01:08.996643",
+    "updated_at": "2026-03-18T17:01:09.022109",
+    "_id": "85ab983e138441b7a2044af4",
+    "delivered_at": "2026-03-18T17:01:09.021109"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.444715",
+    "created_at": "2026-03-18T17:07:07.444715",
+    "updated_at": "2026-03-18T17:07:07.544777",
+    "_id": "7d6a3b3b1a5a4c48ad9c4689",
+    "delivered_at": "2026-03-18T17:07:07.544209"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.379344",
+    "created_at": "2026-03-18T17:11:01.385488",
+    "updated_at": "2026-03-18T17:11:01.410179",
+    "_id": "3c87106209ea4755abe57cc8",
+    "delivered_at": "2026-03-18T17:11:01.410179"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-18T08:00:00.752580",
+    "created_at": "2026-03-18T17:11:05.752580",
+    "updated_at": "2026-03-18T17:11:05.808085",
+    "_id": "9f5cd203cf7c460a84561639",
+    "delivered_at": "2026-03-18T17:11:05.808085"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-03-19T08:00:00.647509",
+    "created_at": "2026-03-19T18:06:03.647509",
+    "updated_at": "2026-03-19T18:06:04.514524",
+    "_id": "e78b34662c314420b241bc19",
+    "delivered_at": "2026-03-19T18:06:04.514524"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-03-23T09:00:00.711800",
+    "created_at": "2026-03-19T18:06:04.778721",
+    "updated_at": "2026-03-19T18:06:04.778721",
+    "_id": "63bd538e632a4e9788a97bd0"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "delivered",
+    "is_read": false,
+    "scheduled_for": "2026-04-09T08:00:00.789926",
+    "created_at": "2026-04-09T19:38:19.991739",
+    "updated_at": "2026-04-09T19:38:21.201920",
+    "_id": "659c79e4daab49999a3f2c69",
+    "delivered_at": "2026-04-09T19:38:20.659277"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-04-09T08:00:00.969955",
+    "created_at": "2026-04-09T19:38:21.203163",
+    "updated_at": "2026-04-09T19:38:21.203163",
+    "_id": "2160bd79dfde4b628b634abf"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Your Daily Farming Summary",
+    "message": "Check today's weather, tasks, and recommendations",
+    "priority": "info",
+    "data": {
+      "summary_data": {}
+    },
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-04-09T08:00:00.201920",
+    "created_at": "2026-04-09T19:38:21.357015",
+    "updated_at": "2026-04-09T19:38:21.357015",
+    "_id": "6038252e166c41529a44f5ad"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-04-13T09:00:00.321061",
+    "created_at": "2026-04-09T19:38:21.908525",
+    "updated_at": "2026-04-09T19:38:21.908525",
+    "_id": "a2de1880205a4277a728f07b"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-04-13T09:00:00.840024",
+    "created_at": "2026-04-09T19:38:21.908525",
+    "updated_at": "2026-04-09T19:38:21.908525",
+    "_id": "b934d27c8b3342b885ab7e49"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-04-13T09:00:00.805843",
+    "created_at": "2026-04-09T19:38:22.854008",
+    "updated_at": "2026-04-09T19:38:22.854008",
+    "_id": "88493645a3414954a2057748"
+  },
+  {
+    "user_id": "Agri_25",
+    "type": "system",
+    "title": "Weekly Farming Check",
+    "message": "Time for your weekly farm inspection and planning",
+    "priority": "low",
+    "data": {},
+    "status": "pending",
+    "is_read": false,
+    "scheduled_for": "2026-04-13T09:00:00.854008",
+    "created_at": "2026-04-09T19:38:22.854008",
+    "updated_at": "2026-04-09T19:38:22.854008",
+    "_id": "c4f182770ed04c999fe4aec5"
+  },
+  {
+    "user_id": "Agri_35",
+    "type": "farming_started",
+    "title": "Farming Process Started",
+    "message": "Wheat farming lifecycle started",
+    "is_read": false,
+    "status": "active",
+    "created_at": "2026-04-10T05:01:24.087634",
+    "_id": "90e683f851ca40a6aa1ec11e",
+    "updated_at": "2026-04-10T05:01:24.087634"
+  }
+]

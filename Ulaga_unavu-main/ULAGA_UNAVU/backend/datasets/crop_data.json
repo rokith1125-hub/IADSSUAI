@@ -1,0 +1,555 @@
+[
+  {
+    "crop_id": "CR001",
+    "crop_name": "Rice",
+    "tamil_name": "அரிசி",
+    "scientific_name": "Oryza sativa",
+    "growing_season": [
+      "Kharif",
+      "Rabi"
+    ],
+    "season_months": [
+      "June-Nov",
+      "Nov-Apr"
+    ],
+    "soil_compatibility": [
+      "Alluvial",
+      "Clay",
+      "Loamy"
+    ],
+    "water_requirement": "High",
+    "growth_days": 90,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 7
+      },
+      {
+        "stage": "Seedling",
+        "days": 21
+      },
+      {
+        "stage": "Tillering",
+        "days": 28
+      },
+      {
+        "stage": "Flowering",
+        "days": 14
+      },
+      {
+        "stage": "Ripening",
+        "days": 20
+      }
+    ],
+    "temperature_range": "20-35°C",
+    "rainfall_needed": "150-200 cm",
+    "yield_per_acre": "20-25 quintals",
+    "market_price_range": "₹1800-₹2500/quintal",
+    "risk_level": "Medium",
+    "special_notes": "Needs standing water in initial stage"
+  },
+  {
+    "crop_id": "CR002",
+    "crop_name": "Wheat",
+    "tamil_name": "கோதுமை",
+    "scientific_name": "Triticum aestivum",
+    "growing_season": [
+      "Rabi"
+    ],
+    "season_months": [
+      "Nov-Apr"
+    ],
+    "soil_compatibility": [
+      "Loamy",
+      "Clay Loam"
+    ],
+    "water_requirement": "Medium",
+    "growth_days": 120,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 7
+      },
+      {
+        "stage": "Tillering",
+        "days": 30
+      },
+      {
+        "stage": "Stem Extension",
+        "days": 35
+      },
+      {
+        "stage": "Heading",
+        "days": 28
+      },
+      {
+        "stage": "Ripening",
+        "days": 20
+      }
+    ],
+    "temperature_range": "10-25°C",
+    "rainfall_needed": "50-75 cm",
+    "yield_per_acre": "15-20 quintals",
+    "market_price_range": "₹2000-₹2200/quintal",
+    "risk_level": "Low",
+    "special_notes": "Sensitive to high temperature during flowering"
+  },
+  {
+    "crop_id": "CR003",
+    "crop_name": "Cotton",
+    "tamil_name": "பருத்தி",
+    "scientific_name": "Gossypium spp",
+    "growing_season": [
+      "Kharif"
+    ],
+    "season_months": [
+      "June-Dec"
+    ],
+    "soil_compatibility": [
+      "Black Soil",
+      "Alluvial"
+    ],
+    "water_requirement": "Medium",
+    "growth_days": 150,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 7
+      },
+      {
+        "stage": "Seedling",
+        "days": 21
+      },
+      {
+        "stage": "Square Formation",
+        "days": 42
+      },
+      {
+        "stage": "Flowering",
+        "days": 35
+      },
+      {
+        "stage": "Boll Development",
+        "days": 45
+      }
+    ],
+    "temperature_range": "21-30°C",
+    "rainfall_needed": "50-100 cm",
+    "yield_per_acre": "8-12 quintals",
+    "market_price_range": "₹6000-₹7000/quintal",
+    "risk_level": "High",
+    "special_notes": "Prone to pest attacks, needs careful monitoring"
+  },
+  {
+    "crop_id": "CR004",
+    "crop_name": "Sugarcane",
+    "tamil_name": "கரும்பு",
+    "scientific_name": "Saccharum officinarum",
+    "growing_season": [
+      "Throughout year"
+    ],
+    "season_months": [
+      "Feb-Nov",
+      "Oct-Sep"
+    ],
+    "soil_compatibility": [
+      "Black Soil",
+      "Alluvial",
+      "Loamy"
+    ],
+    "water_requirement": "Very High",
+    "growth_days": 300,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 30
+      },
+      {
+        "stage": "Tillering",
+        "days": 60
+      },
+      {
+        "stage": "Grand Growth",
+        "days": 150
+      },
+      {
+        "stage": "Maturity",
+        "days": 60
+      }
+    ],
+    "temperature_range": "20-35°C",
+    "rainfall_needed": "150-200 cm",
+    "yield_per_acre": "350-400 quintals",
+    "market_price_range": "₹2800-₹3200/ton",
+    "risk_level": "Medium",
+    "special_notes": "Long duration crop, requires consistent water"
+  },
+  {
+    "crop_id": "CR005",
+    "crop_name": "Groundnut",
+    "tamil_name": "நிலக்கடலை",
+    "scientific_name": "Arachis hypogaea",
+    "growing_season": [
+      "Kharif",
+      "Rabi"
+    ],
+    "season_months": [
+      "June-Sep",
+      "Oct-Jan"
+    ],
+    "soil_compatibility": [
+      "Sandy Loam",
+      "Red Soil"
+    ],
+    "water_requirement": "Low",
+    "growth_days": 100,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 7
+      },
+      {
+        "stage": "Vegetative",
+        "days": 35
+      },
+      {
+        "stage": "Flowering",
+        "days": 28
+      },
+      {
+        "stage": "Pegging",
+        "days": 20
+      },
+      {
+        "stage": "Pod Development",
+        "days": 10
+      }
+    ],
+    "temperature_range": "25-35°C",
+    "rainfall_needed": "50-75 cm",
+    "yield_per_acre": "10-15 quintals",
+    "market_price_range": "₹5000-₹6000/quintal",
+    "risk_level": "Medium",
+    "special_notes": "Avoid waterlogging, well-drained soil needed"
+  },
+  {
+    "crop_id": "CR006",
+    "crop_name": "Maize",
+    "tamil_name": "மக்கா சோளம்",
+    "scientific_name": "Zea mays",
+    "growing_season": [
+      "Kharif",
+      "Rabi"
+    ],
+    "season_months": [
+      "June-Sep",
+      "Oct-Jan"
+    ],
+    "soil_compatibility": [
+      "Loamy",
+      "Sandy Loam"
+    ],
+    "water_requirement": "Medium",
+    "growth_days": 90,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 7
+      },
+      {
+        "stage": "Vegetative",
+        "days": 35
+      },
+      {
+        "stage": "Tasseling",
+        "days": 21
+      },
+      {
+        "stage": "Silking",
+        "days": 14
+      },
+      {
+        "stage": "Maturity",
+        "days": 13
+      }
+    ],
+    "temperature_range": "18-27°C",
+    "rainfall_needed": "60-100 cm",
+    "yield_per_acre": "20-25 quintals",
+    "market_price_range": "₹1800-₹2200/quintal",
+    "risk_level": "Low",
+    "special_notes": "Good for intercropping with pulses"
+  },
+  {
+    "crop_id": "CR007",
+    "crop_name": "Tomato",
+    "tamil_name": "தக்காளி",
+    "scientific_name": "Solanum lycopersicum",
+    "growing_season": [
+      "Rabi",
+      "Summer"
+    ],
+    "season_months": [
+      "Oct-Feb",
+      "Feb-May"
+    ],
+    "soil_compatibility": [
+      "Loamy",
+      "Sandy Loam"
+    ],
+    "water_requirement": "Medium",
+    "growth_days": 90,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 10
+      },
+      {
+        "stage": "Seedling",
+        "days": 20
+      },
+      {
+        "stage": "Vegetative",
+        "days": 30
+      },
+      {
+        "stage": "Flowering",
+        "days": 15
+      },
+      {
+        "stage": "Fruiting",
+        "days": 15
+      }
+    ],
+    "temperature_range": "15-30°C",
+    "rainfall_needed": "60-100 cm",
+    "yield_per_acre": "200-250 quintals",
+    "market_price_range": "₹800-₹3000/quintal",
+    "risk_level": "High",
+    "special_notes": "Price fluctuation high, needs staking support"
+  },
+  {
+    "crop_id": "CR008",
+    "crop_name": "Millets",
+    "tamil_name": "தினை/சாமை",
+    "scientific_name": "Pennisetum glaucum",
+    "growing_season": [
+      "Kharif"
+    ],
+    "season_months": [
+      "June-Oct"
+    ],
+    "soil_compatibility": [
+      "Sandy",
+      "Red Soil"
+    ],
+    "water_requirement": "Very Low",
+    "growth_days": 75,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 5
+      },
+      {
+        "stage": "Seedling",
+        "days": 20
+      },
+      {
+        "stage": "Tillering",
+        "days": 25
+      },
+      {
+        "stage": "Flowering",
+        "days": 15
+      },
+      {
+        "stage": "Maturity",
+        "days": 10
+      }
+    ],
+    "temperature_range": "25-35°C",
+    "rainfall_needed": "40-60 cm",
+    "yield_per_acre": "8-12 quintals",
+    "market_price_range": "₹3000-₹4000/quintal",
+    "risk_level": "Low",
+    "special_notes": "Drought resistant, low input cost"
+  },
+  {
+    "crop_id": "CR009",
+    "crop_name": "Onion",
+    "tamil_name": "வெங்காயம்",
+    "scientific_name": "Allium cepa",
+    "growing_season": [
+      "Rabi",
+      "Kharif"
+    ],
+    "season_months": [
+      "Oct-Mar",
+      "June-Nov"
+    ],
+    "soil_compatibility": [
+      "Sandy Loam",
+      "Loamy"
+    ],
+    "water_requirement": "Medium",
+    "growth_days": 120,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 10
+      },
+      {
+        "stage": "Seedling",
+        "days": 30
+      },
+      {
+        "stage": "Bulb Formation",
+        "days": 50
+      },
+      {
+        "stage": "Maturity",
+        "days": 30
+      }
+    ],
+    "temperature_range": "13-24°C",
+    "rainfall_needed": "50-100 cm",
+    "yield_per_acre": "150-200 quintals",
+    "market_price_range": "₹1000-₹5000/quintal",
+    "risk_level": "High",
+    "special_notes": "High price volatility, storage important"
+  },
+  {
+    "crop_id": "CR010",
+    "crop_name": "Potato",
+    "tamil_name": "உருளைக்கிழங்கு",
+    "scientific_name": "Solanum tuberosum",
+    "growing_season": [
+      "Rabi"
+    ],
+    "season_months": [
+      "Oct-Feb"
+    ],
+    "soil_compatibility": [
+      "Sandy Loam",
+      "Loamy"
+    ],
+    "water_requirement": "High",
+    "growth_days": 90,
+    "stages": [
+      {
+        "stage": "Sprouting",
+        "days": 20
+      },
+      {
+        "stage": "Vegetative",
+        "days": 30
+      },
+      {
+        "stage": "Tuber Initiation",
+        "days": 20
+      },
+      {
+        "stage": "Tuber Bulking",
+        "days": 20
+      }
+    ],
+    "temperature_range": "15-20°C",
+    "rainfall_needed": "50-75 cm",
+    "yield_per_acre": "200-250 quintals",
+    "market_price_range": "₹800-₹1500/quintal",
+    "risk_level": "Medium",
+    "special_notes": "Cool season crop, avoid waterlogging"
+  },
+  {
+    "crop_id": "CR011",
+    "crop_name": "Banana",
+    "tamil_name": "Banana",
+    "scientific_name": "Musa paradisiaca",
+    "growing_season": [
+      "Throughout year"
+    ],
+    "season_months": [
+      "Jan-Dec"
+    ],
+    "soil_compatibility": [
+      "Loamy",
+      "Alluvial",
+      "Clay Loam"
+    ],
+    "water_requirement": "High",
+    "growth_days": 300,
+    "stages": [
+      {
+        "stage": "Planting",
+        "days": 20
+      },
+      {
+        "stage": "Vegetative",
+        "days": 120
+      },
+      {
+        "stage": "Flowering",
+        "days": 80
+      },
+      {
+        "stage": "Bunch Development",
+        "days": 80
+      }
+    ],
+    "temperature_range": "20-35C",
+    "rainfall_needed": "100-180 cm",
+    "yield_per_acre": "250-320 quintals",
+    "market_price_range": "Rs 1200-Rs 2600/quintal",
+    "risk_level": "Medium",
+    "special_notes": "Needs regular irrigation and wind protection."
+  },
+  {
+    "crop_id": "CR012",
+    "crop_name": "Chilli",
+    "tamil_name": "Chilli",
+    "scientific_name": "Capsicum annuum",
+    "growing_season": [
+      "Kharif",
+      "Rabi"
+    ],
+    "season_months": [
+      "Jun-Oct",
+      "Nov-Mar"
+    ],
+    "soil_compatibility": [
+      "Sandy Loam",
+      "Loamy",
+      "Red Soil"
+    ],
+    "water_requirement": "Medium",
+    "growth_days": 150,
+    "stages": [
+      {
+        "stage": "Germination",
+        "days": 10
+      },
+      {
+        "stage": "Seedling",
+        "days": 25
+      },
+      {
+        "stage": "Vegetative",
+        "days": 45
+      },
+      {
+        "stage": "Flowering",
+        "days": 30
+      },
+      {
+        "stage": "Fruiting",
+        "days": 40
+      }
+    ],
+    "temperature_range": "20-32C",
+    "rainfall_needed": "60-90 cm",
+    "yield_per_acre": "18-28 quintals",
+    "market_price_range": "Rs 6000-Rs 12000/quintal",
+    "risk_level": "High",
+    "special_notes": "Sensitive to excess moisture; requires pest monitoring."
+  }
+]

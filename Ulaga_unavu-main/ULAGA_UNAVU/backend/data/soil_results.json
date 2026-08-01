@@ -1,0 +1,4175 @@
+[
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "suitable_crops": [
+      "Groundnut",
+      "Millets",
+      "Tobacco",
+      "Potato"
+    ],
+    "explanation": {
+      "response": "```json\n{\n  \"summary\": \"Your red soil has medium hardness, fertility, and pH range, but low water retention. It drains well, so water won't stay for long.\",\n  \"dos\": [\n    \"Apply organic manure to improve fertility and water retention.\",\n    \"Use balanced fertilizers with NPK ratio to support plant growth.\",\n    \"Mulch the soil to retain moisture and reduce soil temperature.\"\n  ],\n  \"donts\": [\n    \"Don't overwater, as the soil drains well and water retention is low.\",\n    \"Avoid using excessive chemical fertilizers, as they can harm the soil's fertility.\",\n    \"Don't cultivate the soil when it's too wet, as it can lead to erosion.\"\n  ]\n}\n```"
+    },
+    "created_at": "2026-02-24T08:04:32.372777",
+    "_id": "6a5af324-8d1f-495c-94fe-",
+    "updated_at": "2026-02-24T08:04:32.373345",
+    "result_id": "6a5af324-8d1f-495c-94fe-"
+  },
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "summary": "Your Black Soil (\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd) is hard, fertile, and retains water well, but has poor drainage. It has a slightly alkaline pH range of 7.0-8.5.",
+      "dos": [
+        "Use a balanced fertilizer to maintain soil fertility.",
+        "Plant crops that require well-draining soil, like sugarcane or cotton.",
+        "Add organic matter like compost to improve drainage."
+      ],
+      "donts": [
+        "Don't plant crops that require acidic soil, like tea or coffee.",
+        "Avoid overwatering, as it may exacerbate poor drainage.",
+        "Don't use high amounts of nitrogen-based fertilizers, as it may increase soil salinity."
+      ]
+    },
+    "created_at": "2026-02-24T08:39:01.719311",
+    "_id": "c195f7eb-1a3b-4628-9ef3-",
+    "updated_at": "2026-02-24T08:39:01.719311"
+  },
+  {
+    "user_id": "Agri_4",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "response": "```json\n{\n  \"summary\": \"Your black soil is hard, fertile, and retains water well, but drains poorly. It's slightly alkaline, so we need to be careful with pH.\",\n  \"dos\": [\n    \"Add organic matter like compost to improve drainage and soil structure.\",\n    \"Use a balanced fertilizer with NPK ratio to maintain soil fertility.\",\n    \"Choose crops that prefer slightly alkaline soil, like sugarcane or cotton.\"\n  ],\n  \"donts\": [\n    \"Don't overwater, as poor drainage can lead to waterlogging.\",\n    \"Don't use acidic fertilizers, as they can lower the pH further.\",\n    \"Don't plant crops that prefer acidic soil, like tea or coffee.\"\n  ]\n}\n```"
+    },
+    "created_at": "2026-02-24T09:04:43.820938",
+    "_id": "3824cc5356ed478d8969b578",
+    "updated_at": "2026-02-24T09:04:43.820938",
+    "result_id": "3824cc5356ed478d8969b578"
+  },
+  {
+    "user_id": "Agri_5",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "summary": "Your black soil is hard, fertile, and retains water well, but drains poorly. This means it's suitable for crops that prefer well-draining soil, but with some adjustments.",
+      "dos": [
+        "Use mulching to improve drainage and prevent waterlogging.",
+        "Apply balanced fertilizers like NPK to maintain soil fertility.",
+        "Use crop rotation to maintain soil health and prevent nutrient depletion."
+      ],
+      "donts": [
+        "Don't plant crops that prefer acidic soil, as your soil pH is too high.",
+        "Don't overwater, as poor drainage can lead to waterlogging and root rot.",
+        "Don't use heavy machinery, as it can compact the hard soil and reduce fertility."
+      ]
+    },
+    "created_at": "2026-02-24T09:05:19.249138",
+    "_id": "5f0150ca45b6438e80f608fb",
+    "updated_at": "2026-02-24T09:05:19.249138",
+    "result_id": "5f0150ca45b6438e80f608fb"
+  },
+  {
+    "user_id": "Agri_6",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "response": "```json\n{\n  \"summary\": \"Your black soil is hard, fertile, and retains water well, but drains poorly. It has a slightly alkaline pH level.\",\n  \"dos\": [\n    \"Use deep tillage to loosen the hard soil and improve drainage.\",\n    \"Apply fertilizers with a balanced NPK ratio to maintain soil fertility.\",\n    \"Use mulching to retain moisture and regulate soil temperature.\"\n  ],\n  \"donts\": [\n    \"Avoid overwatering, as poor drainage can lead to waterlogging.\",\n    \"Don't use acidic fertilizers, as they can further increase the pH level.\",\n    \"Don't cultivate during heavy rainfall, as it can cause erosion.\"\n  ]\n}\n```"
+    },
+    "created_at": "2026-02-24T09:25:41.183872",
+    "_id": "741f7d0959394b23b4ff6e5b",
+    "updated_at": "2026-02-24T09:25:41.183872"
+  },
+  {
+    "user_id": "Agri_7",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "summary": "Your black soil is hard, fertile, and retains water well, but drains poorly. This means it needs careful management to maintain its fertility and prevent waterlogging.",
+      "dos": [
+        "Apply organic manure to maintain soil fertility",
+        "Use irrigation systems to control water flow and prevent waterlogging",
+        "Add lime to adjust pH levels if necessary"
+      ],
+      "donts": [
+        "Don't over-fertilize, as this can damage the soil's fertility",
+        "Don't plant water-intensive crops without proper drainage",
+        "Don't neglect to check pH levels regularly"
+      ]
+    },
+    "created_at": "2026-02-24T09:36:21.495576",
+    "_id": "a3272ce172a74525aad4cd34",
+    "updated_at": "2026-02-24T09:36:21.495576"
+  },
+  {
+    "user_id": "Agri_8",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "summary": "Your black soil is hard, fertile, and retains water well, but drains poorly. This means you need to be careful with irrigation and fertilizers.",
+      "dos": [
+        "Use mulch to improve drainage and reduce soil temperature.",
+        "Apply fertilizers carefully, as high pH levels can affect nutrient availability.",
+        "Use conservation tillage to prevent soil erosion and preserve water retention."
+      ],
+      "donts": [
+        "Don't over-irrigate, as poor drainage can lead to waterlogging.",
+        "Don't apply too much fertilizer, as high pH levels can harm crops.",
+        "Don't use heavy machinery, as it can damage the hard soil structure."
+      ]
+    },
+    "created_at": "2026-02-24T09:40:28.947983",
+    "_id": "768301541e904933b4d4aee8",
+    "updated_at": "2026-02-24T09:40:28.947983"
+  },
+  {
+    "user_id": "Agri_9",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "response": "```json\n{\n  \"summary\": \"Your black soil is hard and fertile, but has poor drainage and high pH. This means it can be challenging to grow certain crops.\",\n  \"dos\": [\n    \"Use crop rotation to maintain soil fertility and structure.\",\n    \"Apply organic matter like compost to improve drainage and reduce pH.\",\n    \"Choose crops that are tolerant of high pH and poor drainage.\"\n  ],\n  \"donts\": [\n    \"Don't plant crops that require well-draining soil, like rice.\",\n    \"Don't over-fertilize, as this can further increase pH.\",\n    \"Don't ignore the need for proper irrigation, as poor drainage can lead to waterlogging.\"\n  ]\n}\n```"
+    },
+    "created_at": "2026-02-24T09:46:08.274772",
+    "_id": "62ffcda5291f4a04b414d692",
+    "updated_at": "2026-02-24T09:46:08.274772"
+  },
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": 82.87,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Your black soil is hard and fertile, but it retains too much water and drains poorly. This means you need to take special care to avoid waterlogging and nutrient deficiencies.",
+      "dos": [
+        "Use mulching to improve drainage and retain moisture evenly.",
+        "Apply organic fertilizers to maintain soil fertility and structure.",
+        "Plant crops that prefer well-drained soil, like vegetables and fruits."
+      ],
+      "donts": [
+        "Don't plant crops that require consistent moisture, like rice, in this soil.",
+        "Don't overwater, as this can lead to waterlogging and root rot.",
+        "Don't use heavy machinery, as this can compact the soil further."
+      ]
+    },
+    "created_at": "2026-02-24T10:43:05.154244",
+    "_id": "f88b05efe5f847de902bfa23",
+    "updated_at": "2026-02-24T10:43:05.154244",
+    "result_id": "f88b05efe5f847de902bfa23"
+  },
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": 57.96,
+    "confidence_warning": "Low confidence (57.96%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Your black soil is hard, fertile, and retains water well, but drains poorly. It has a pH level of 7.0-8.5, which is slightly alkaline.",
+      "dos": [
+        "Use organic matter like compost to improve drainage and structure.",
+        "Choose crops that prefer well-draining and fertile soil, like sugarcane or cotton.",
+        "Apply balanced fertilizers to maintain soil fertility."
+      ],
+      "donts": [
+        "Don't plant water-intensive crops like paddy, as drainage is poor.",
+        "Avoid over-fertilizing, as the soil is already fertile.",
+        "Don't use heavy machinery, as the hard soil can be damaged."
+      ]
+    },
+    "created_at": "2026-02-24T10:44:41.388621",
+    "_id": "0af680abb76045bd96c99829",
+    "updated_at": "2026-02-24T10:44:41.388621"
+  },
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": 57.96,
+    "confidence_warning": "Low confidence (57.96%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Your black soil is very fertile and retains water well, but it drains poorly and has a high pH level. This means you need to be careful with your farming practices to avoid waterlogging and nutrient imbalances.",
+      "dos": [
+        "Use mulching to improve drainage and reduce soil temperature.",
+        "Apply organic fertilizers to maintain soil fertility and balance pH levels.",
+        "Plant crops that are tolerant of high pH levels, such as pigeon pea or groundnut."
+      ],
+      "donts": [
+        "Don't over-irrigate, as this can exacerbate drainage issues.",
+        "Avoid using high-nitrogen fertilizers, as this can further increase pH levels.",
+        "Don't plant water-intensive crops, such as paddy, which can worsen drainage problems."
+      ]
+    },
+    "created_at": "2026-02-24T10:58:25.871999",
+    "_id": "623b8eeff8974c7aa88da757",
+    "updated_at": "2026-02-24T10:58:25.871999"
+  },
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Sandy Soil",
+    "tamil_name": "\u0bae\u0ba3\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence": 29.78,
+    "confidence_warning": "Low confidence (29.78%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST005",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Low",
+      "water_retention": "Very Low",
+      "drainage": "Excellent",
+      "ph_range": "6.0-7.5"
+    },
+    "suitable_crops": [
+      "Watermelon",
+      "Carrot",
+      "Cucumber",
+      "Groundnut"
+    ],
+    "crop_recommendations": [
+      {
+        "crop_name": "Groundnut",
+        "tamil_name": "\u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0b9f\u0bb2\u0bc8",
+        "scientific_name": "Arachis hypogaea",
+        "recommended_season": [
+          "Kharif",
+          "Rabi"
+        ],
+        "season_months": [
+          "June-Sep",
+          "Oct-Jan"
+        ],
+        "soil_compatibility": [
+          "Sandy Loam",
+          "Red Soil"
+        ],
+        "water_level_needs": "Low",
+        "expected_duration": 100,
+        "yield_potential": "10-15 quintals",
+        "market_price_range": "\u20b95000-\u20b96000/quintal",
+        "risk_level": "Medium",
+        "season_fit": "High",
+        "soil_fit": "Medium",
+        "data_source": "crop_data.json"
+      }
+    ],
+    "explanation": {
+      "summary": "Sandy Soil identified from image. Dataset pH range is 6.0-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-24T13:14:22.795869",
+    "_id": "defd39f98be44e5fb1195599",
+    "updated_at": "2026-02-24T13:14:22.795869",
+    "result_id": "defd39f98be44e5fb1195599"
+  },
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": 52.01,
+    "confidence_warning": "Low confidence (52.01%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST002",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "crop_recommendations": [
+      {
+        "crop_name": "Wheat",
+        "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+        "scientific_name": "Triticum aestivum",
+        "recommended_season": [
+          "Rabi"
+        ],
+        "season_months": [
+          "Nov-Apr"
+        ],
+        "soil_compatibility": [
+          "Loamy",
+          "Clay Loam"
+        ],
+        "water_level_needs": "Medium",
+        "expected_duration": 120,
+        "yield_potential": "15-20 quintals",
+        "market_price_range": "\u20b92000-\u20b92200/quintal",
+        "risk_level": "Low",
+        "season_fit": "High",
+        "soil_fit": "Medium",
+        "data_source": "crop_data.json"
+      },
+      {
+        "crop_name": "Cotton",
+        "tamil_name": "\u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+        "scientific_name": "Gossypium spp",
+        "recommended_season": [
+          "Kharif"
+        ],
+        "season_months": [
+          "June-Dec"
+        ],
+        "soil_compatibility": [
+          "Black Soil",
+          "Alluvial"
+        ],
+        "water_level_needs": "Medium",
+        "expected_duration": 150,
+        "yield_potential": "8-12 quintals",
+        "market_price_range": "\u20b96000-\u20b97000/quintal",
+        "risk_level": "High",
+        "season_fit": "Medium",
+        "soil_fit": "High",
+        "data_source": "crop_data.json"
+      },
+      {
+        "crop_name": "Sugarcane",
+        "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+        "scientific_name": "Saccharum officinarum",
+        "recommended_season": [
+          "Throughout year"
+        ],
+        "season_months": [
+          "Feb-Nov",
+          "Oct-Sep"
+        ],
+        "soil_compatibility": [
+          "Black Soil",
+          "Alluvial",
+          "Loamy"
+        ],
+        "water_level_needs": "Very High",
+        "expected_duration": 300,
+        "yield_potential": "350-400 quintals",
+        "market_price_range": "\u20b92800-\u20b93200/ton",
+        "risk_level": "Medium",
+        "season_fit": "Medium",
+        "soil_fit": "High",
+        "data_source": "crop_data.json"
+      }
+    ],
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-24T13:14:50.514060",
+    "_id": "4683fbe42d7b493484b32a45",
+    "updated_at": "2026-02-24T13:14:50.514060",
+    "result_id": "4683fbe42d7b493484b32a45"
+  },
+  {
+    "user_id": "Agri_3",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence": 72.68,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST004",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-24T13:15:09.201598",
+    "_id": "771ad9072b2c46b0b0925f73",
+    "updated_at": "2026-02-24T13:15:09.201598"
+  },
+  {
+    "user_id": "Agri_13",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "confidence": 48.37,
+    "confidence_warning": "Low confidence (48.37%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST007",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "crop_recommendations": [
+      {
+        "crop_name": "Tomato",
+        "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+        "scientific_name": "Solanum lycopersicum",
+        "recommended_season": [
+          "Rabi",
+          "Summer"
+        ],
+        "season_months": [
+          "Oct-Feb",
+          "Feb-May"
+        ],
+        "soil_compatibility": [
+          "Loamy",
+          "Sandy Loam"
+        ],
+        "water_level_needs": "Medium",
+        "expected_duration": 90,
+        "yield_potential": "200-250 quintals",
+        "market_price_range": "\u20b9800-\u20b93000/quintal",
+        "risk_level": "High",
+        "season_fit": "High",
+        "soil_fit": "High",
+        "data_source": "crop_data.json"
+      }
+    ],
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-25T06:36:19.389539",
+    "_id": "93e7e5b96fee4e718c64cb1c",
+    "updated_at": "2026-02-25T06:36:19.389539",
+    "result_id": "93e7e5b96fee4e718c64cb1c"
+  },
+  {
+    "user_id": "Agri_14",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "confidence": 79.77,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST007",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "crop_recommendations": [
+      {
+        "crop_name": "Tomato",
+        "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+        "scientific_name": "Solanum lycopersicum",
+        "recommended_season": [
+          "Rabi",
+          "Summer"
+        ],
+        "season_months": [
+          "Oct-Feb",
+          "Feb-May"
+        ],
+        "soil_compatibility": [
+          "Loamy",
+          "Sandy Loam"
+        ],
+        "water_level_needs": "Medium",
+        "expected_duration": 90,
+        "yield_potential": "200-250 quintals",
+        "market_price_range": "\u20b9800-\u20b93000/quintal",
+        "risk_level": "High",
+        "season_fit": "High",
+        "soil_fit": "High",
+        "data_source": "crop_data.json"
+      }
+    ],
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-25T06:48:51.305176",
+    "_id": "4496d19aaf9644c4bbefbc3d",
+    "updated_at": "2026-02-25T06:48:51.305176"
+  },
+  {
+    "user_id": "Agri_14",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence": 91.06,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST009",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-25T08:26:49.893147",
+    "_id": "588c96f06f7546a58b99532f",
+    "updated_at": "2026-02-25T08:26:49.893147",
+    "result_id": "588c96f06f7546a58b99532f"
+  },
+  {
+    "user_id": "Agri_14",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence": 91.06,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST009",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-25T08:26:55.200068",
+    "_id": "bc80d2bed18446d7bb6deb11",
+    "updated_at": "2026-02-25T08:26:55.200068"
+  },
+  {
+    "user_id": "Agri_23",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST001",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "suitable_crops": [
+      "Groundnut",
+      "Millets",
+      "Tobacco",
+      "Potato"
+    ],
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-26T19:16:05.560822",
+    "_id": "6f301f62e9404c73be73e139",
+    "updated_at": "2026-02-26T19:16:05.560822"
+  },
+  {
+    "user_id": "Agri_23",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence": 36.66,
+    "confidence_warning": "Low confidence (36.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST009",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-27T06:54:50.920525",
+    "_id": "66b9b378d1124c47b8155524",
+    "updated_at": "2026-02-27T06:54:50.920525",
+    "result_id": "66b9b378d1124c47b8155524"
+  },
+  {
+    "user_id": "Agri_23",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence": 36.66,
+    "confidence_warning": "Low confidence (36.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST009",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-27T06:55:23.346488",
+    "_id": "35fcdbfad1a446a684a134b8",
+    "updated_at": "2026-02-27T06:55:23.346488",
+    "result_id": "35fcdbfad1a446a684a134b8"
+  },
+  {
+    "user_id": "Agri_23",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST002",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-27T06:55:54.240762",
+    "_id": "af136cc217e0402bb8e9b436",
+    "updated_at": "2026-02-27T06:55:54.240762",
+    "result_id": "af136cc217e0402bb8e9b436"
+  },
+  {
+    "user_id": "Agri_23",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence": "Manual Selection",
+    "analysis_method": "Manual",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST003",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Jute"
+    ],
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-27T06:56:01.024238",
+    "_id": "20a8d5319ff04e68833151d9",
+    "updated_at": "2026-02-27T06:56:01.024238",
+    "result_id": "20a8d5319ff04e68833151d9"
+  },
+  {
+    "user_id": "Agri_24",
+    "soil_name": "Sandy Soil",
+    "tamil_name": "\u0bae\u0ba3\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence": 45.32,
+    "confidence_warning": "Low confidence (45.32%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST005",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Low",
+      "water_retention": "Very Low",
+      "drainage": "Excellent",
+      "ph_range": "6.0-7.5"
+    },
+    "suitable_crops": [
+      "Watermelon",
+      "Carrot",
+      "Cucumber",
+      "Groundnut"
+    ],
+    "crop_recommendations": [
+      {
+        "crop_name": "Groundnut",
+        "tamil_name": "\u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0b9f\u0bb2\u0bc8",
+        "scientific_name": "Arachis hypogaea",
+        "recommended_season": [
+          "Kharif",
+          "Rabi"
+        ],
+        "season_months": [
+          "June-Sep",
+          "Oct-Jan"
+        ],
+        "soil_compatibility": [
+          "Sandy Loam",
+          "Red Soil"
+        ],
+        "water_level_needs": "Low",
+        "expected_duration": 100,
+        "yield_potential": "10-15 quintals",
+        "market_price_range": "\u20b95000-\u20b96000/quintal",
+        "risk_level": "Medium",
+        "season_fit": "High",
+        "soil_fit": "Medium",
+        "data_source": "crop_data.json"
+      }
+    ],
+    "explanation": {
+      "summary": "Sandy Soil identified from image. Dataset pH range is 6.0-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-27T07:28:22.129846",
+    "_id": "3cf9b54f176c41ecaf0f5ad5",
+    "updated_at": "2026-02-27T07:28:22.129846"
+  },
+  {
+    "user_id": "Agri_24",
+    "soil_name": "Sandy Soil",
+    "tamil_name": "\u0bae\u0ba3\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence": 45.32,
+    "confidence_warning": "Low confidence (45.32%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST005",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Low",
+      "water_retention": "Very Low",
+      "drainage": "Excellent",
+      "ph_range": "6.0-7.5"
+    },
+    "suitable_crops": [
+      "Watermelon",
+      "Carrot",
+      "Cucumber",
+      "Groundnut"
+    ],
+    "crop_recommendations": [
+      {
+        "crop_name": "Groundnut",
+        "tamil_name": "\u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0b9f\u0bb2\u0bc8",
+        "scientific_name": "Arachis hypogaea",
+        "recommended_season": [
+          "Kharif",
+          "Rabi"
+        ],
+        "season_months": [
+          "June-Sep",
+          "Oct-Jan"
+        ],
+        "soil_compatibility": [
+          "Sandy Loam",
+          "Red Soil"
+        ],
+        "water_level_needs": "Low",
+        "expected_duration": 100,
+        "yield_potential": "10-15 quintals",
+        "market_price_range": "\u20b95000-\u20b96000/quintal",
+        "risk_level": "Medium",
+        "season_fit": "High",
+        "soil_fit": "Medium",
+        "data_source": "crop_data.json"
+      }
+    ],
+    "explanation": {
+      "summary": "Sandy Soil identified from image. Dataset pH range is 6.0-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-27T08:11:46.443625",
+    "_id": "ddce027359ed4de894f9838e",
+    "updated_at": "2026-02-27T08:11:46.443625",
+    "result_id": "ddce027359ed4de894f9838e"
+  },
+  {
+    "user_id": "Agri_24",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence": 82.49,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "dataset_match": {
+      "matched_profiles": 1,
+      "selected_profile_id": "ST009",
+      "selection_strategy": "dataset_best_match"
+    },
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "crop_recommendations": [],
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-27T08:18:06.940808",
+    "_id": "e45e1c0583f3477190edf1b2",
+    "updated_at": "2026-02-27T08:18:06.940808"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence_value": 36.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (36.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T09:42:00.323625",
+    "updated_at": "2026-02-28T09:42:00.323625",
+    "result_id": "941439a312b64d458a92825d"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence_value": 86.6,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T09:45:36.270363",
+    "updated_at": "2026-02-28T09:45:36.270363",
+    "result_id": "abb73a31384d4a63bb791383"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T09:50:32.105351",
+    "updated_at": "2026-02-28T09:50:32.105351",
+    "result_id": "821143946b5a442f86707bf4"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Gravelly Soil",
+    "tamil_name": "Gravelly Soil",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "6.5-8.0"
+    },
+    "explanation": {
+      "summary": "Gravelly Soil identified from image. Dataset pH range is 6.5-8.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T09:50:49.703126",
+    "_id": "59d01c633aba4e6182b85126",
+    "updated_at": "2026-02-28T09:50:49.703126"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Peaty Soil",
+    "tamil_name": "\u0baa\u0bc0\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": 29.87,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (29.87%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "High",
+      "water_retention": "Very High",
+      "drainage": "Poor",
+      "ph_range": "3.5-5.0"
+    },
+    "explanation": {
+      "summary": "Peaty Soil identified from image. Dataset pH range is 3.5-5.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T15:04:02.795921",
+    "updated_at": "2026-02-28T15:04:02.795921",
+    "result_id": "ed0a5e68a99f4461b471216e"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Peaty Soil",
+    "tamil_name": "\u0baa\u0bc0\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": 29.87,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (29.87%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "High",
+      "water_retention": "Very High",
+      "drainage": "Poor",
+      "ph_range": "3.5-5.0"
+    },
+    "explanation": {
+      "summary": "Peaty Soil identified from image. Dataset pH range is 3.5-5.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T15:17:05.819358",
+    "updated_at": "2026-02-28T15:17:05.819358",
+    "result_id": "d279cdcf9bb248b2a73e6b13"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Clay Soil",
+    "tamil_name": "\u0b95\u0bb3\u0bbf\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Very Hard",
+      "fertility": "Medium",
+      "water_retention": "Very High",
+      "drainage": "Poor",
+      "ph_range": "6.0-7.5"
+    },
+    "explanation": {
+      "summary": "Clay Soil identified from image. Dataset pH range is 6.0-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T15:17:33.552037",
+    "updated_at": "2026-02-28T15:17:33.552037",
+    "result_id": "32215087b63b4d7b86339351"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": 88.94,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T18:29:28.629123",
+    "_id": "3324ecc02858443398425003",
+    "updated_at": "2026-02-28T18:29:28.629123",
+    "result_id": "3324ecc02858443398425003"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": 88.94,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T18:29:36.391041",
+    "updated_at": "2026-02-28T18:29:36.391041",
+    "result_id": "17a9b7fcf869426da87c5169"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Sandy Soil",
+    "tamil_name": "\u0bae\u0ba3\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": 38.17,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (38.17%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Low",
+      "water_retention": "Very Low",
+      "drainage": "Excellent",
+      "ph_range": "6.0-7.5"
+    },
+    "explanation": {
+      "summary": "Sandy Soil identified from image. Dataset pH range is 6.0-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T18:50:28.828147",
+    "updated_at": "2026-02-28T18:50:28.828147",
+    "result_id": "c4385ad13b9f4ffda756f858"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": 52.77,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (52.77%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-02-28T19:01:54.954679",
+    "updated_at": "2026-02-28T19:01:54.954679",
+    "result_id": "b75aee6d279343afb4ed78a0"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Mountain Soil",
+    "tamil_name": "\u0bae\u0bb2\u0bc8 \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Low",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "5.0-6.5"
+    },
+    "explanation": {
+      "summary": "Mountain Soil identified from image. Dataset pH range is 5.0-6.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T05:11:44.895727",
+    "updated_at": "2026-03-07T05:11:44.895727",
+    "result_id": "c57d2eb3695f4284a1605070"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": 88.94,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T05:14:07.127865",
+    "_id": "634eaa2678a048aab83c1939",
+    "updated_at": "2026-03-07T05:14:07.127865",
+    "result_id": "634eaa2678a048aab83c1939"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": 88.94,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T05:14:17.255560",
+    "updated_at": "2026-03-07T05:14:17.255560",
+    "result_id": "9d3051a3cf6a4c8687f3cf55"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "confidence_value": 34.89,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.89%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:40:40.407286",
+    "updated_at": "2026-03-07T07:40:40.407286",
+    "result_id": "64fd555a8457403bbe20149f"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Sandy Soil",
+    "tamil_name": "\u0bae\u0ba3\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": 38.17,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (38.17%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Low",
+      "water_retention": "Very Low",
+      "drainage": "Excellent",
+      "ph_range": "6.0-7.5"
+    },
+    "explanation": {
+      "summary": "Sandy Soil identified from image. Dataset pH range is 6.0-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:42:05.801949",
+    "_id": "d0ccd7bd7038460c907d2176",
+    "updated_at": "2026-03-07T07:42:05.801949",
+    "result_id": "d0ccd7bd7038460c907d2176"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": 93.24,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:42:44.586834",
+    "updated_at": "2026-03-07T07:42:44.586834",
+    "result_id": "4da0d431427d458d8320de8e"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:51:53.226674",
+    "updated_at": "2026-03-07T07:51:53.226674",
+    "result_id": "cf5fe9cdabdf4618a420f679"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.181272",
+    "updated_at": "2026-03-07T07:53:03.181272",
+    "result_id": "655cbbe4d855438ca62a8e05"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.303720",
+    "_id": "f3336e5f909f4af1ab151076",
+    "updated_at": "2026-03-07T07:53:03.303720",
+    "result_id": "f3336e5f909f4af1ab151076"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.327531",
+    "_id": "ee86017cbbcb4d8f97542da0",
+    "updated_at": "2026-03-07T07:53:03.327531",
+    "result_id": "ee86017cbbcb4d8f97542da0"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.339100",
+    "_id": "75140e028f074449b6924605",
+    "updated_at": "2026-03-07T07:53:03.339100",
+    "result_id": "75140e028f074449b6924605"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.351409",
+    "_id": "822b10d5006848c39fe88cca",
+    "updated_at": "2026-03-07T07:53:03.351409",
+    "result_id": "822b10d5006848c39fe88cca"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.371910",
+    "_id": "46e95d19b0b647559737db95",
+    "updated_at": "2026-03-07T07:53:03.371910",
+    "result_id": "46e95d19b0b647559737db95"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.398409",
+    "_id": "02c2edf8307348629ed8919d",
+    "updated_at": "2026-03-07T07:53:03.398409",
+    "result_id": "02c2edf8307348629ed8919d"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.420460",
+    "_id": "5efaae3e57364480a7f9a953",
+    "updated_at": "2026-03-07T07:53:03.420460",
+    "result_id": "5efaae3e57364480a7f9a953"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.445588",
+    "_id": "db62d90e7f1f476c8bae1fe1",
+    "updated_at": "2026-03-07T07:53:03.445588",
+    "result_id": "db62d90e7f1f476c8bae1fe1"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.604287",
+    "_id": "40c6b1c687554f14a88560fb",
+    "updated_at": "2026-03-07T07:53:03.604287",
+    "result_id": "40c6b1c687554f14a88560fb"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:53:03.626783",
+    "_id": "5973227b498b4eebbf24099d",
+    "updated_at": "2026-03-07T07:53:03.626783",
+    "result_id": "5973227b498b4eebbf24099d"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:54:22.713945",
+    "updated_at": "2026-03-07T07:54:22.713945",
+    "result_id": "361151e6a3134cee879b3769"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Silty Soil",
+    "tamil_name": "Silty Soil",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.0-7.2"
+    },
+    "explanation": {
+      "summary": "Silty Soil identified from image. Dataset pH range is 6.0-7.2.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T07:56:33.552167",
+    "_id": "9737822e438d452f84ef8657",
+    "updated_at": "2026-03-07T07:56:33.552167"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:06.001655",
+    "_id": "47d123ada022411bb0d4ff9b",
+    "updated_at": "2026-03-07T08:07:06.001655",
+    "result_id": "47d123ada022411bb0d4ff9b"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:08.801430",
+    "_id": "975c2d765111438ca6decc0f",
+    "updated_at": "2026-03-07T08:07:08.801430",
+    "result_id": "975c2d765111438ca6decc0f"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:09.605647",
+    "_id": "8939ef6820b84b65a0d3c9d3",
+    "updated_at": "2026-03-07T08:07:09.605647",
+    "result_id": "8939ef6820b84b65a0d3c9d3"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:09.739170",
+    "_id": "cfdad5cf3f4a4d8d9f6b6acb",
+    "updated_at": "2026-03-07T08:07:09.739170",
+    "result_id": "cfdad5cf3f4a4d8d9f6b6acb"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:09.857305",
+    "_id": "ad4986c350ff4b71b98f266f",
+    "updated_at": "2026-03-07T08:07:09.857305",
+    "result_id": "ad4986c350ff4b71b98f266f"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:10.000317",
+    "_id": "ad3f69a5df014778bbe193db",
+    "updated_at": "2026-03-07T08:07:10.000317",
+    "result_id": "ad3f69a5df014778bbe193db"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:10.000317",
+    "_id": "bc23ffe3864d4c00b5fd13f7",
+    "updated_at": "2026-03-07T08:07:10.000317",
+    "result_id": "bc23ffe3864d4c00b5fd13f7"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:10.001334",
+    "_id": "48e2e743f5134a3cab634f44",
+    "updated_at": "2026-03-07T08:07:10.001334",
+    "result_id": "48e2e743f5134a3cab634f44"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:10.522637",
+    "_id": "33e6be0fe81a45bf88ee9a5d",
+    "updated_at": "2026-03-07T08:07:10.522637",
+    "result_id": "33e6be0fe81a45bf88ee9a5d"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:10.522637",
+    "_id": "c7fdfcf1ad834d0fb5726d85",
+    "updated_at": "2026-03-07T08:07:10.522637",
+    "result_id": "c7fdfcf1ad834d0fb5726d85"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:07:10.650355",
+    "_id": "2cc6fc580feb4e0b861330dc",
+    "updated_at": "2026-03-07T08:07:10.650355",
+    "result_id": "2cc6fc580feb4e0b861330dc"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "confidence_value": 59.59,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (59.59%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:49:16.542489",
+    "_id": "391ec6b9735d465ebbedc8bd",
+    "updated_at": "2026-03-07T08:49:16.542489",
+    "result_id": "391ec6b9735d465ebbedc8bd"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:51:30.128340",
+    "_id": "17ec8ab422574ab48f9a8b69",
+    "updated_at": "2026-03-07T08:51:30.128340",
+    "result_id": "17ec8ab422574ab48f9a8b69"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:54:11.878802",
+    "_id": "5c15c8f5acf240aab8d446db",
+    "updated_at": "2026-03-07T08:54:11.878802",
+    "result_id": "5c15c8f5acf240aab8d446db"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:55:05.479426",
+    "_id": "ee125cbb3b234627b1b44e7e",
+    "updated_at": "2026-03-07T08:55:05.479426"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T08:57:40.821079",
+    "_id": "1591fe1fe51b417ea18f0923",
+    "updated_at": "2026-03-07T08:57:40.821079"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T09:01:01.590690",
+    "_id": "c5108b3d60ea4f59a5958889",
+    "updated_at": "2026-03-07T09:01:01.590690"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Red Soil",
+    "tamil_name": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Groundnut",
+      "Millets",
+      "Tobacco",
+      "Potato"
+    ],
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Medium",
+      "fertility": "Medium",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "5.5-7.0"
+    },
+    "explanation": {
+      "summary": "Red Soil identified from image. Dataset pH range is 5.5-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T14:19:08.286688",
+    "_id": "b79f9582bd134549a991feb8",
+    "updated_at": "2026-03-07T14:19:08.286688",
+    "result_id": "b79f9582bd134549a991feb8"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 71.65,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T14:21:00.241898",
+    "_id": "d035714076334be1af1fcd1d",
+    "updated_at": "2026-03-07T14:21:00.241898",
+    "result_id": "d035714076334be1af1fcd1d"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 71.65,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T14:21:14.401765",
+    "_id": "b5ca92057d784709af6dfeef",
+    "updated_at": "2026-03-07T14:21:14.401765",
+    "result_id": "b5ca92057d784709af6dfeef"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 71.65,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T14:21:25.434403",
+    "_id": "67a46376f6f64caab4471c99",
+    "updated_at": "2026-03-07T14:21:25.434403",
+    "result_id": "67a46376f6f64caab4471c99"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Jute"
+    ],
+    "confidence_value": 34.11,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.11%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T14:37:41.732164",
+    "_id": "4ede65750f2c467fb9395f88",
+    "updated_at": "2026-03-07T14:37:41.732164",
+    "result_id": "4ede65750f2c467fb9395f88"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Jute"
+    ],
+    "confidence_value": 34.11,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.11%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T14:37:59.430353",
+    "_id": "3c9bf3de466442d99c820498",
+    "updated_at": "2026-03-07T14:37:59.430353"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 93.24,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T15:10:08.069092",
+    "_id": "30037a16aea5438dbf2e9282",
+    "updated_at": "2026-03-07T15:10:08.069092",
+    "result_id": "30037a16aea5438dbf2e9282"
+  },
+  {
+    "user_id": "Agri_12",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 93.24,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T15:10:14.017449",
+    "_id": "8158660638474065b6cf2bcf",
+    "updated_at": "2026-03-07T15:10:14.017449"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 93.24,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T17:27:41.978644",
+    "_id": "e4cbb346d2f543769ff02f73",
+    "updated_at": "2026-03-07T17:27:41.978644"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 93.24,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T17:27:53.713545",
+    "_id": "0396046379444f6086d0201e",
+    "updated_at": "2026-03-07T17:27:53.713545"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Peaty Soil",
+    "tamil_name": "\u0baa\u0bc0\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cabbage",
+      "Celery",
+      "Onion",
+      "Potato"
+    ],
+    "confidence_value": 26.97,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (26.97%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "High",
+      "water_retention": "Very High",
+      "drainage": "Poor",
+      "ph_range": "3.5-5.0"
+    },
+    "explanation": {
+      "summary": "Peaty Soil identified from image. Dataset pH range is 3.5-5.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for very high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-07T20:48:05.654388",
+    "_id": "ced736b39d7a4eadb3c1c3c6",
+    "updated_at": "2026-03-07T20:48:05.661055"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Jute"
+    ],
+    "confidence_value": 34.54,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.54%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T10:49:28.911251",
+    "_id": "2582845acaf3411db61d7827",
+    "updated_at": "2026-03-10T10:49:28.911251"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Jute"
+    ],
+    "confidence_value": 34.54,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.54%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T10:50:12.331242",
+    "_id": "24c7be433a9d4cfd82800be9",
+    "updated_at": "2026-03-10T10:50:12.331242"
+  },
+  {
+    "user_id": "Agri_32",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "\u0bb2\u0bc7\u0b9f\u0bb0\u0bc8\u0b9f\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "confidence_value": 83.22,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Low",
+      "water_retention": "Low",
+      "drainage": "Excellent",
+      "ph_range": "4.5-6.0"
+    },
+    "explanation": {
+      "summary": "Laterite Soil identified from image. Dataset pH range is 4.5-6.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen excellent drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T16:07:10.954867",
+    "_id": "974c21e5a2a04231a61907d8",
+    "updated_at": "2026-03-10T16:07:10.954867"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Red Soil",
+    "test_field": "test_value",
+    "_id": "5b11a1d683984fda983ac910",
+    "created_at": "2026-03-10T16:19:50.915774",
+    "updated_at": "2026-03-10T16:19:50.915774"
+  },
+  {
+    "user_id": "Agri_33",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Jute"
+    ],
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "Medium",
+      "drainage": "Good",
+      "ph_range": "6.5-7.5"
+    },
+    "explanation": {
+      "summary": "Alluvial Soil identified from image. Dataset pH range is 6.5-7.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for medium water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T16:21:08.880478",
+    "_id": "315abe17e7d348e6a7acd7de",
+    "updated_at": "2026-03-10T16:21:08.880478"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "confidence_value": 82.49,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T17:12:02.603888",
+    "_id": "d1d920bd488a4df3bd8f8019",
+    "updated_at": "2026-03-10T17:12:02.603888"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Saline Soil",
+    "tamil_name": "\u0b89\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "confidence_value": 82.49,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "Very Low",
+      "water_retention": "Low",
+      "drainage": "Poor",
+      "ph_range": "7.5-8.5"
+    },
+    "explanation": {
+      "summary": "Saline Soil identified from image. Dataset pH range is 7.5-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for low water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T17:12:14.113216",
+    "_id": "3cb4d7c89eeb429f8834997c",
+    "updated_at": "2026-03-10T17:12:14.113216"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T17:13:57.225068",
+    "_id": "5d17726ca75043979de657f7",
+    "updated_at": "2026-03-10T17:13:57.225068"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T17:32:47.633895",
+    "_id": "accdcd35171b488d83b258a3",
+    "updated_at": "2026-03-10T17:32:47.633895"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T18:10:04.521240",
+    "_id": "11c734a8e72543e196dcf18e",
+    "updated_at": "2026-03-10T18:10:04.521240"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T18:19:53.505562",
+    "_id": "a506d0f927fe4499ab43989a",
+    "updated_at": "2026-03-10T18:19:53.505562"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T18:28:57.207726",
+    "_id": "ae2442a398394ad0a86a244c",
+    "updated_at": "2026-03-10T18:28:57.207726"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T18:43:32.717094",
+    "_id": "abc5f321aa1f4a0996619010",
+    "updated_at": "2026-03-10T18:43:32.717094"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T18:51:06.937503",
+    "_id": "75f86ae5295a47879b71b56d",
+    "updated_at": "2026-03-10T18:51:06.937503"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T18:55:09.512511",
+    "_id": "c62d0589b4124f78ac19d6cb",
+    "updated_at": "2026-03-10T18:55:09.512511"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T19:08:41.528134",
+    "_id": "ec2e69ca84594ea29083b306",
+    "updated_at": "2026-03-10T19:08:41.528134"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T19:08:45.252522",
+    "_id": "7435e771c5284dd6a53fb445",
+    "updated_at": "2026-03-10T19:08:45.252522"
+  },
+  {
+    "user_id": "Agri_1",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "\u0bb5\u0bb3\u0bae\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "confidence_value": 34.66,
+    "confidence_label": null,
+    "confidence_warning": "Low confidence (34.66%). The image may be unclear. Consider uploading a clearer photo or selecting soil type manually.",
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Soft",
+      "fertility": "Very High",
+      "water_retention": "High",
+      "drainage": "Good",
+      "ph_range": "6.0-7.0"
+    },
+    "explanation": {
+      "summary": "Loamy Soil identified from image. Dataset pH range is 6.0-7.0.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen good drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-10T19:08:45.858488",
+    "_id": "cdd929d0d3c643bf8127a444",
+    "updated_at": "2026-03-10T19:08:45.858488"
+  },
+  {
+    "user_id": "Agri_35",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": 83.38,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-16T17:34:15.897287",
+    "_id": "705bd6ab44fe4f188d9c05ae",
+    "updated_at": "2026-03-16T17:34:15.897287"
+  },
+  {
+    "user_id": "Agri_35",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": 83.38,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-16T17:35:04.173977",
+    "_id": "d5cde0951c0b481899c91209",
+    "updated_at": "2026-03-16T17:35:04.173977"
+  },
+  {
+    "user_id": "Agri_35",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": 65.71,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-18T15:21:19.055686",
+    "_id": "66e85bfc3bbe4324967d5908",
+    "updated_at": "2026-03-18T15:21:19.055686"
+  },
+  {
+    "user_id": "Agri_35",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": 74.01,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-18T15:24:33.561697",
+    "_id": "3e3d7fd517554b6b9913dcf7",
+    "updated_at": "2026-03-18T15:24:33.561697"
+  },
+  {
+    "user_id": "Agri_38",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": null,
+    "confidence_label": "Manual Selection",
+    "confidence_warning": null,
+    "analysis_method": "Manual",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-03-18T15:39:48.872708",
+    "_id": "3116acd99e8a4d2cbe8aa4c4",
+    "updated_at": "2026-03-18T15:39:48.872708"
+  },
+  {
+    "user_id": "Agri_25",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": 83.38,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-04-09T19:39:20.408133",
+    "_id": "7742819e8cfd480fad0fd631",
+    "updated_at": "2026-04-09T19:39:20.408133"
+  },
+  {
+    "user_id": "Agri_35",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": 83.38,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-04-10T05:04:20.300799",
+    "_id": "537c9c81946d47d5baa64f24",
+    "updated_at": "2026-04-10T05:04:20.300799"
+  },
+  {
+    "user_id": "Agri_35",
+    "soil_name": "Black Soil",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0ba3\u0bcd",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "confidence_value": 83.38,
+    "confidence_label": null,
+    "confidence_warning": null,
+    "analysis_method": "CNN",
+    "soil_properties": {
+      "hardness": "Hard",
+      "fertility": "High",
+      "water_retention": "High",
+      "drainage": "Poor",
+      "ph_range": "7.0-8.5"
+    },
+    "explanation": {
+      "summary": "Black Soil identified from image. Dataset pH range is 7.0-8.5.",
+      "dos": [
+        "Match crop choice with pH range",
+        "Record pH test once per season",
+        "Use irrigation plan suitable for high water retention"
+      ],
+      "donts": [
+        "Do not assume nutrients without a lab test",
+        "Avoid practices that worsen poor drainage",
+        "Do not over-apply fertilizers without soil test values"
+      ]
+    },
+    "created_at": "2026-04-10T05:05:00.623586",
+    "_id": "25281bbed06b4c3fbdee8482",
+    "updated_at": "2026-04-10T05:05:00.623586"
+  }
+]

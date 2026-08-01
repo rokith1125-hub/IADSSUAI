@@ -1,0 +1,1294 @@
+[
+  {
+    "disease_id": "DS001",
+    "disease_name": "Bacterial Leaf Blight of Rice",
+    "tamil_name": "நெல் பாக்டீரியல் இலை கருகல்",
+    "affected_crop": "Rice",
+    "symptoms": [
+      "Water-soaked lesions on leaves",
+      "Yellow to white stripes",
+      "Leaf tips dry up",
+      "Wilting of young leaves"
+    ],
+    "causes": [
+      "Xanthomonas oryzae bacteria",
+      "High humidity (>70%)",
+      "Temperature 25-30°C",
+      "Wind-driven rain"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Spray neem oil extract",
+        "Use copper-based fungicides",
+        "Remove infected plants"
+      ],
+      "chemical": [
+        "Streptomycin sulfate (500ppm)",
+        "Copper oxychloride (0.3%)"
+      ],
+      "prevention": [
+        "Use disease-free seeds",
+        "Avoid nitrogen excess",
+        "Proper field drainage"
+      ]
+    },
+    "weather_conditions": "Humid, rainy",
+    "risk_period": "Monsoon season",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS002",
+    "disease_name": "Powdery Mildew",
+    "tamil_name": "பவுடர் பூஞ்சை",
+    "affected_crop": "Wheat",
+    "symptoms": [
+      "White powdery spots on leaves",
+      "Yellowing of leaves",
+      "Reduced photosynthesis",
+      "Premature leaf drop"
+    ],
+    "causes": [
+      "Blumeria graminis fungus",
+      "High humidity",
+      "Low light intensity",
+      "Poor air circulation"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Milk spray (1:9 ratio)",
+        "Baking soda solution",
+        "Neem oil spray"
+      ],
+      "chemical": [
+        "Sulfur dust",
+        "Triadimefon (0.1%)",
+        "Propiconazole"
+      ],
+      "prevention": [
+        "Resistant varieties",
+        "Proper spacing",
+        "Avoid overhead irrigation"
+      ]
+    },
+    "weather_conditions": "Humid, cool",
+    "risk_period": "Winter months",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS003",
+    "disease_name": "Cotton Leaf Curl Virus",
+    "tamil_name": "பருத்தி இலை சுருட்டு வைரஸ்",
+    "affected_crop": "Cotton",
+    "symptoms": [
+      "Upward leaf curling",
+      "Leaf thickening",
+      "Vein darkening",
+      "Stunted growth"
+    ],
+    "causes": [
+      "Whitefly transmission",
+      "Virus infection",
+      "High temperature",
+      "Susceptible varieties"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Yellow sticky traps",
+        "Neem-based insecticides",
+        "Remove infected plants"
+      ],
+      "chemical": [
+        "Imidacloprid seed treatment",
+        "Acetamiprid spray"
+      ],
+      "prevention": [
+        "Whitefly control",
+        "Resistant varieties",
+        "Early sowing"
+      ]
+    },
+    "weather_conditions": "Hot, dry",
+    "risk_period": "Summer",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS004",
+    "disease_name": "Red Rot of Sugarcane",
+    "tamil_name": "கரும்பு சிவப்பு அழுகல்",
+    "affected_crop": "Sugarcane",
+    "symptoms": [
+      "Reddish internal tissue",
+      "Sour smell",
+      "Wilting of leaves",
+      "Drying of shoots"
+    ],
+    "causes": [
+      "Colletotrichum falcatum fungus",
+      "Waterlogging",
+      "High nitrogen",
+      "Ratoon cropping"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Slow",
+    "treatment": {
+      "organic": [
+        "Hot water treatment of setts",
+        "Trichoderma application"
+      ],
+      "chemical": [
+        "Carbendazim (0.1%)",
+        "Mancozeb (0.25%)"
+      ],
+      "prevention": [
+        "Disease-free setts",
+        "Proper drainage",
+        "Crop rotation"
+      ]
+    },
+    "weather_conditions": "Warm, humid",
+    "risk_period": "Monsoon",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS005",
+    "disease_name": "Early Blight of Tomato",
+    "tamil_name": "தக்காளி ஆரம்ப கருகல்",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Dark spots with concentric rings",
+      "Yellow halos",
+      "Leaf drop",
+      "Fruit lesions"
+    ],
+    "causes": [
+      "Alternaria solani fungus",
+      "Warm, humid weather",
+      "Poor nutrition",
+      "Overhead irrigation"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Copper-based fungicides",
+        "Garlic extract spray",
+        "Remove affected leaves"
+      ],
+      "chemical": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Azoxystrobin"
+      ],
+      "prevention": [
+        "Crop rotation",
+        "Proper spacing",
+        "Balanced fertilization"
+      ]
+    },
+    "weather_conditions": "Warm, humid",
+    "risk_period": "Rainy season",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS006",
+    "disease_name": "Downy Mildew of Maize",
+    "tamil_name": "மக்காசோளம் டவுனி பூஞ்சை",
+    "affected_crop": "Maize",
+    "symptoms": [
+      "Yellow streaks on leaves",
+      "White downy growth underside",
+      "Stunted growth",
+      "Poor cob formation"
+    ],
+    "causes": [
+      "Peronosclerospora spp.",
+      "High humidity",
+      "Cool temperatures",
+      "Infected seeds"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Seed treatment with hot water",
+        "Neem oil spray"
+      ],
+      "chemical": [
+        "Metalaxyl seed treatment",
+        "Mancozeb spray"
+      ],
+      "prevention": [
+        "Resistant hybrids",
+        "Early planting",
+        "Avoid waterlogging"
+      ]
+    },
+    "weather_conditions": "Cool, humid",
+    "risk_period": "Winter",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS007",
+    "disease_name": "Leaf Spot of Groundnut",
+    "tamil_name": "நிலக்கடலை இலை புள்ளி",
+    "affected_crop": "Groundnut",
+    "symptoms": [
+      "Circular brown spots",
+      "Yellow halos",
+      "Premature leaf fall",
+      "Reduced pod yield"
+    ],
+    "causes": [
+      "Cercospora arachidicola",
+      "High humidity",
+      "Dense planting",
+      "Poor soil nutrition"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Garlic-chili extract",
+        "Neem oil",
+        "Remove crop debris"
+      ],
+      "chemical": [
+        "Carbendazim",
+        "Chlorothalonil",
+        "Propiconazole"
+      ],
+      "prevention": [
+        "Crop rotation",
+        "Proper spacing",
+        "Balanced fertilization"
+      ]
+    },
+    "weather_conditions": "Warm, humid",
+    "risk_period": "Rainy season",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS008",
+    "disease_name": "Panama Wilt of Banana",
+    "tamil_name": "வாழை பனாமா வாடல்",
+    "affected_crop": "Banana",
+    "symptoms": [
+      "Yellowing of lower leaves",
+      "Wilting and collapse",
+      "Splitting of pseudostem",
+      "Discolored vascular tissue"
+    ],
+    "causes": [
+      "Fusarium oxysporum f.sp. cubense",
+      "Infected suckers",
+      "Acidic soils",
+      "Waterlogging"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Slow",
+    "treatment": {
+      "organic": [
+        "Apply Trichoderma",
+        "Soil solarization",
+        "Use healthy suckers"
+      ],
+      "chemical": [
+        "Carbendazim soil drench",
+        "Benomyl treatment"
+      ],
+      "prevention": [
+        "Use resistant varieties",
+        "Proper drainage",
+        "Crop rotation"
+      ]
+    },
+    "weather_conditions": "Warm",
+    "risk_period": "Throughout year",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS009",
+    "disease_name": "Anthracnose of Mango",
+    "tamil_name": "மாம்பழ அந்த்ராக்னோஸ்",
+    "affected_crop": "Mango",
+    "symptoms": [
+      "Black spots on leaves",
+      "Twig dieback",
+      "Flower blight",
+      "Fruit rot"
+    ],
+    "causes": [
+      "Colletotrichum gloeosporioides",
+      "High humidity",
+      "Rain during flowering",
+      "Poor orchard hygiene"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Copper oxychloride spray",
+        "Neem oil",
+        "Prune affected parts"
+      ],
+      "chemical": [
+        "Carbendazim",
+        "Mancozeb",
+        "Thiophanate-methyl"
+      ],
+      "prevention": [
+        "Proper pruning",
+        "Orchard sanitation",
+        "Avoid overhead irrigation"
+      ]
+    },
+    "weather_conditions": "Wet, humid",
+    "risk_period": "Flowering season",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS010",
+    "disease_name": "Blight of Potato",
+    "tamil_name": "உருளைக்கிழங்கு பிளைட்",
+    "affected_crop": "Potato",
+    "symptoms": [
+      "Dark leaf spots",
+      "White mold underside",
+      "Rapid wilting",
+      "Tuber rot"
+    ],
+    "causes": [
+      "Phytophthora infestans",
+      "Cool, wet weather",
+      "High humidity",
+      "Infected seed tubers"
+    ],
+    "severity_level": "Very High",
+    "spread_speed": "Very Rapid",
+    "treatment": {
+      "organic": [
+        "Copper fungicides",
+        "Baking soda spray",
+        "Remove infected plants"
+      ],
+      "chemical": [
+        "Metalaxyl + Mancozeb",
+        "Chlorothalonil",
+        "Dimethomorph"
+      ],
+      "prevention": [
+        "Use certified seeds",
+        "Proper hilling",
+        "Avoid overhead irrigation"
+      ]
+    },
+    "weather_conditions": "Cool, wet",
+    "risk_period": "Winter rains",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS011",
+    "disease_name": "Sigatoka Leaf Spot",
+    "tamil_name": "Sigatoka Leaf Spot",
+    "affected_crop": "Banana",
+    "symptoms": [
+      "Yellow streaks on leaves",
+      "Brown necrotic patches",
+      "Reduced bunch size"
+    ],
+    "causes": [
+      "Pseudocercospora fungi",
+      "High humidity",
+      "Dense canopy"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Neem oil spray",
+        "Remove infected leaves"
+      ],
+      "chemical": [
+        "Propiconazole",
+        "Mancozeb"
+      ],
+      "prevention": [
+        "Wider spacing",
+        "Leaf sanitation"
+      ]
+    },
+    "weather_conditions": "Humid and warm",
+    "risk_period": "Monsoon and post-monsoon",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS012",
+    "disease_name": "Chilli Leaf Curl Virus",
+    "tamil_name": "Chilli Leaf Curl Virus",
+    "affected_crop": "Chilli",
+    "symptoms": [
+      "Upward curling leaves",
+      "Stunted growth",
+      "Poor flowering"
+    ],
+    "causes": [
+      "Whitefly vector",
+      "Viral infection",
+      "High temperatures"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Yellow sticky traps",
+        "Neem seed kernel extract"
+      ],
+      "chemical": [
+        "Imidacloprid",
+        "Thiamethoxam"
+      ],
+      "prevention": [
+        "Use healthy seedlings",
+        "Rogue infected plants"
+      ]
+    },
+    "weather_conditions": "Hot and dry",
+    "risk_period": "Summer",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS013",
+    "disease_name": "Black Rot of Grape",
+    "tamil_name": "திராட்சை கருப்பு அழுகல்",
+    "affected_crop": "Grape",
+    "symptoms": [
+      "Brown circular leaf spots with dark border",
+      "Black shriveled berries (mummified fruit)",
+      "Lesions on shoots and tendrils"
+    ],
+    "causes": [
+      "Fungus Guignardia bidwellii",
+      "Warm humid weather",
+      "Poor airflow in canopy"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Remove and destroy infected fruits and leaves",
+        "Improve canopy airflow by pruning",
+        "Use approved bio-fungicide as per local guidance"
+      ],
+      "chemical": [
+        "Mancozeb (as per label dose)",
+        "Captan (as per label dose)"
+      ],
+      "prevention": [
+        "Avoid overhead irrigation during evening",
+        "Maintain field sanitation",
+        "Monitor after rainfall events"
+      ]
+    },
+    "weather_conditions": "Warm and humid",
+    "risk_period": "Monsoon and post-rain humid periods",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS014",
+    "disease_name": "Apple Scab",
+    "tamil_name": "ஆப்பிள் ஸ்கேப்",
+    "affected_crop": "Apple",
+    "symptoms": [
+      "Olive-green to brown scab-like lesions on leaves",
+      "Dark velvety spots on fruit surface",
+      "Premature fruit drop",
+      "Distorted fruit shape"
+    ],
+    "causes": [
+      "Venturia inaequalis fungus",
+      "Cool, moist spring weather",
+      "Rain splash spreads spores",
+      "Infected leaf litter"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Apply sulfur-based fungicide before rain",
+        "Remove and destroy fallen leaves",
+        "Neem oil spray every 7-10 days"
+      ],
+      "chemical": [
+        "Captan (as per label)",
+        "Mancozeb (as per label)",
+        "Myclobutanil"
+      ],
+      "prevention": [
+        "Prune for better air circulation",
+        "Rake and destroy fallen leaves",
+        "Apply protective fungicide before bud break"
+      ]
+    },
+    "weather_conditions": "Cool and wet spring",
+    "risk_period": "Spring bud break to petal fall",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS015",
+    "disease_name": "Apple Black Rot",
+    "tamil_name": "ஆப்பிள் கருப்பு அழுகல்",
+    "affected_crop": "Apple",
+    "symptoms": [
+      "Purple-bordered leaf spots",
+      "Rotting fruit with concentric rings",
+      "Mummified fruit on branches",
+      "Cankers on bark"
+    ],
+    "causes": [
+      "Botryosphaeria obtusa fungus",
+      "Warm, humid conditions",
+      "Wounded or stressed trees",
+      "Old infected wood"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Remove mummified fruit",
+        "Prune cankered branches",
+        "Copper spray after pruning"
+      ],
+      "chemical": [
+        "Captan",
+        "Thiophanate-methyl"
+      ],
+      "prevention": [
+        "Prune and remove dead wood",
+        "Avoid tree injury",
+        "Maintain proper fertilization"
+      ]
+    },
+    "weather_conditions": "Warm and humid",
+    "risk_period": "Summer and early autumn",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS016",
+    "disease_name": "Apple Cedar Rust",
+    "tamil_name": "ஆப்பிள் சேதர் ரஸ்ட்",
+    "affected_crop": "Apple",
+    "symptoms": [
+      "Bright orange-yellow spots on upper leaf surface",
+      "Pale-orange spore tubes on leaf undersides",
+      "Premature defoliation",
+      "Small fruit with poor quality"
+    ],
+    "causes": [
+      "Gymnosporangium juniperi-virginianae fungus",
+      "Wind-borne spores from cedar/juniper",
+      "Wet spring weather",
+      "Nearby cedar or juniper trees"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Apply sulfur-based fungicide early spring",
+        "Remove nearby juniper/cedar if possible",
+        "Neem oil preventive spray"
+      ],
+      "chemical": [
+        "Myclobutanil",
+        "Propiconazole",
+        "Captan"
+      ],
+      "prevention": [
+        "Plant resistant apple varieties",
+        "Remove volunteer cedar/juniper nearby",
+        "Apply protectant fungicide from pink bud stage"
+      ]
+    },
+    "weather_conditions": "Wet, warm spring",
+    "risk_period": "Spring to early summer",
+    "contagious": "Via wind spores (apple to cedar cycle)"
+  },
+  {
+    "disease_id": "DS017",
+    "disease_name": "Corn Gray Leaf Spot",
+    "tamil_name": "மக்காசோளம் சாம்பல் இலை புள்ளி",
+    "affected_crop": "Corn",
+    "symptoms": [
+      "Rectangular gray-tan lesions parallel to leaf veins",
+      "Lesions turn tan to brown as disease progresses",
+      "Leaf sheath infection in severe cases",
+      "Premature dying of lower leaves"
+    ],
+    "causes": [
+      "Cercospora zeae-maydis fungus",
+      "High humidity and warm nights",
+      "Continuous corn cropping",
+      "Infected crop debris"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Remove infected crop debris after harvest",
+        "Apply bio-fungicide (Trichoderma)"
+      ],
+      "chemical": [
+        "Azoxystrobin",
+        "Propiconazole",
+        "Pyraclostrobin"
+      ],
+      "prevention": [
+        "Crop rotation (avoid continuous corn)",
+        "Plant resistant hybrids",
+        "Residue management"
+      ]
+    },
+    "weather_conditions": "Warm nights, high humidity",
+    "risk_period": "Late vegetative and reproductive stages",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS018",
+    "disease_name": "Corn Common Rust",
+    "tamil_name": "மக்காசோளம் ரஸ்ட்",
+    "affected_crop": "Corn",
+    "symptoms": [
+      "Circular to elongated golden-brown pustules on both leaf surfaces",
+      "Powdery rust-colored spores visible",
+      "Pustules turn dark brown/black late season",
+      "Severe infection causes leaf death"
+    ],
+    "causes": [
+      "Puccinia sorghi fungus",
+      "Cool, moist conditions (16-23°C)",
+      "Wind-borne urediniospores",
+      "Susceptible hybrids"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Use resistant corn varieties",
+        "Early planting to avoid peak rust season"
+      ],
+      "chemical": [
+        "Mancozeb",
+        "Propiconazole",
+        "Azoxystrobin"
+      ],
+      "prevention": [
+        "Plant resistant hybrids",
+        "Early planting",
+        "Monitor crop from tasseling stage"
+      ]
+    },
+    "weather_conditions": "Cool and moist (16-23°C)",
+    "risk_period": "From tasseling to silk stage",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS019",
+    "disease_name": "Corn Northern Leaf Blight",
+    "tamil_name": "மக்காசோளம் வடக்கு இலை கருகல்",
+    "affected_crop": "Corn",
+    "symptoms": [
+      "Long, cigar-shaped grayish-green or tan lesions (1-6 inches)",
+      "Lesions appear first on lower leaves then move up",
+      "Dirty gray spore masses on lesions in humid conditions",
+      "Premature plant death in severe cases"
+    ],
+    "causes": [
+      "Exserohilum turcicum fungus",
+      "Moderate temperatures 18-27°C and humid conditions",
+      "Infected crop debris",
+      "Susceptible hybrids"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Destroy infected crop residue",
+        "Trichoderma bio-fungicide application"
+      ],
+      "chemical": [
+        "Propiconazole",
+        "Azoxystrobin",
+        "Mancozeb + Carbendazim"
+      ],
+      "prevention": [
+        "Use resistant hybrids",
+        "Crop rotation",
+        "Residue management after harvest"
+      ]
+    },
+    "weather_conditions": "Moderate temp 18-27°C with humidity",
+    "risk_period": "From mid-whorl to tasseling",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS020",
+    "disease_name": "Grape Esca Black Measles",
+    "tamil_name": "திராட்சை எஸ்கா நோய்",
+    "affected_crop": "Grape",
+    "symptoms": [
+      "Tiger-stripe pattern of yellowing between leaf veins",
+      "Shrunken, reddish-purple or dark colored berries",
+      "Internal wood discoloration (dark streaks)",
+      "Sudden vine collapse in severe cases"
+    ],
+    "causes": [
+      "Complex of wood-rotting fungi (Phaeomoniella, Phaeoacremonium)",
+      "Pruning wounds in wet weather",
+      "Old vine stress",
+      "Poor sanitation of pruning tools"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Slow",
+    "treatment": {
+      "organic": [
+        "Paint pruning wounds with wound sealant immediately",
+        "Remove and destroy infected wood",
+        "Improve drainage around vine roots"
+      ],
+      "chemical": [
+        "Thiophanate-methyl applied to pruning cuts",
+        "Fosetyl-aluminum for systemic protection"
+      ],
+      "prevention": [
+        "Prune only in dry weather",
+        "Disinfect pruning tools between vines",
+        "Apply wound protectant paste immediately after pruning"
+      ]
+    },
+    "weather_conditions": "Wet conditions after pruning",
+    "risk_period": "Pruning season in wet weather",
+    "contagious": "Via wood wounds"
+  },
+  {
+    "disease_id": "DS021",
+    "disease_name": "Grape Leaf Blight",
+    "tamil_name": "திராட்சை இலை கருகல்",
+    "affected_crop": "Grape",
+    "symptoms": [
+      "Irregular brown spots on leaf edges",
+      "Spots enlarge and coalesce causing blight",
+      "Affected leaves dry up and fall",
+      "Defoliation weakens vine"
+    ],
+    "causes": [
+      "Isariopsis clavispora fungus",
+      "Warm, wet conditions",
+      "High canopy density",
+      "Poor air circulation"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Remove and destroy infected leaves",
+        "Copper-based spray",
+        "Improve vineyard air flow by selective pruning"
+      ],
+      "chemical": [
+        "Mancozeb",
+        "Copper oxychloride",
+        "Carbendazim"
+      ],
+      "prevention": [
+        "Proper canopy management",
+        "Avoid rain splash by training vines",
+        "Regular monitoring"
+      ]
+    },
+    "weather_conditions": "Warm and wet",
+    "risk_period": "Monsoon and post-monsoon",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS022",
+    "disease_name": "Citrus Greening",
+    "tamil_name": "சிட்ரஸ் கிரீனிங்",
+    "affected_crop": "Orange",
+    "symptoms": [
+      "Blotchy mottle pattern on leaves (asymmetric yellowing)",
+      "Small, lopsided, bitter fruit",
+      "Premature fruit drop",
+      "Twig dieback and sparse canopy"
+    ],
+    "causes": [
+      "Liberibacter bacteria (HLB)",
+      "Asian citrus psyllid insect vector",
+      "Infected nursery stock",
+      "Wind-aided psyllid movement"
+    ],
+    "severity_level": "Critical",
+    "spread_speed": "Slow but irreversible",
+    "treatment": {
+      "organic": [
+        "Remove and destroy severely infected trees",
+        "Kaolin clay spray to repel psyllids",
+        "Release natural psyllid predators"
+      ],
+      "chemical": [
+        "Imidacloprid or drenching for psyllid control",
+        "Foliage nutrition sprays (zinc, manganese) to manage symptoms"
+      ],
+      "prevention": [
+        "Use certified disease-free nursery plants",
+        "Control Asian citrus psyllid population",
+        "Maintain strict quarantine around infected orchards"
+      ]
+    },
+    "weather_conditions": "Warm climates where psyllid thrives",
+    "risk_period": "Year-round once established",
+    "contagious": "Yes (via psyllid)"
+  },
+  {
+    "disease_id": "DS023",
+    "disease_name": "Peach Bacterial Spot",
+    "tamil_name": "பீச் பாக்டீரியா புள்ளி",
+    "affected_crop": "Peach",
+    "symptoms": [
+      "Small water-soaked spots on leaves turning purple/brown",
+      "Holes in leaves as infected tissue drops (shothole symptom)",
+      "Sunken, dark lesions on fruit",
+      "Cracking of fruit in humid conditions"
+    ],
+    "causes": [
+      "Xanthomonas arboricola pv. pruni bacteria",
+      "Warm, wet, windy weather",
+      "Rain splash spreads bacteria",
+      "Wounds on leaves and fruit"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Copper hydroxide spray in early spring",
+        "Remove and destroy infected fruit and leaves",
+        "Avoid overhead irrigation"
+      ],
+      "chemical": [
+        "Copper-based bactericides",
+        "Oxytetracycline (timing is critical)"
+      ],
+      "prevention": [
+        "Plant resistant peach varieties",
+        "Windbreaks to reduce wind-driven rain",
+        "Protective copper spray before rainy periods"
+      ]
+    },
+    "weather_conditions": "Warm, wet, windy",
+    "risk_period": "Spring through summer",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS024",
+    "disease_name": "Pepper Bacterial Spot",
+    "tamil_name": "மிளகாய் பாக்டீரியா புள்ளி",
+    "affected_crop": "Pepper",
+    "symptoms": [
+      "Water-soaked spots on leaves turning brown with yellow halo",
+      "Raised, scabby lesions on fruit",
+      "Premature leaf drop",
+      "Blighted appearance of plant"
+    ],
+    "causes": [
+      "Xanthomonas euvesicatoria bacteria",
+      "Warm, wet conditions (24-30°C)",
+      "Rain splash and overhead irrigation",
+      "Infected seeds or transplants"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Copper-based spray preventively",
+        "Remove infected plant parts",
+        "Avoid working in wet fields"
+      ],
+      "chemical": [
+        "Copper hydroxide",
+        "Copper oxychloride",
+        "Mancozeb + Copper combination"
+      ],
+      "prevention": [
+        "Use certified disease-free seeds",
+        "Avoid overhead irrigation",
+        "Crop rotation (avoid solanaceous crops)"
+      ]
+    },
+    "weather_conditions": "Warm and wet (24-30°C)",
+    "risk_period": "Rainy season and monsoon",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS025",
+    "disease_name": "Tomato Bacterial Spot",
+    "tamil_name": "தக்காளி பாக்டீரியா புள்ளி",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Small, water-soaked spots on leaves turning brown with yellow border",
+      "Raised, scabby or sunken lesions on fruit",
+      "Premature defoliation",
+      "Stunted plant growth"
+    ],
+    "causes": [
+      "Xanthomonas vesicatoria bacteria",
+      "Warm, wet weather (24-30°C)",
+      "Rain splash and overhead irrigation",
+      "Infected transplants or seeds"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Copper-based spray preventively",
+        "Remove heavily infected leaves",
+        "Avoid overhead irrigation"
+      ],
+      "chemical": [
+        "Copper hydroxide",
+        "Streptomycin sulfate",
+        "Mancozeb"
+      ],
+      "prevention": [
+        "Use certified hot-water treated seed",
+        "Drip irrigation instead of overhead",
+        "Crop rotation with non-solanaceous crops"
+      ]
+    },
+    "weather_conditions": "Warm and wet (24-30°C)",
+    "risk_period": "Rainy and humid season",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS026",
+    "disease_name": "Tomato Late Blight",
+    "tamil_name": "தக்காளி தாமதமான கருகல்",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Large, dark-green to brown water-soaked lesions on leaves",
+      "White fluffy sporulation on leaf underside in humid conditions",
+      "Brown-black lesions on stem",
+      "Firm, brown rot on fruit spreading quickly"
+    ],
+    "causes": [
+      "Phytophthora infestans oomycete",
+      "Cool, wet, foggy weather (10-24°C)",
+      "Infected seed or transplants",
+      "Wind-borne sporangia spread rapidly"
+    ],
+    "severity_level": "Very High",
+    "spread_speed": "Very Rapid",
+    "treatment": {
+      "organic": [
+        "Copper-based fungicide spray preventively",
+        "Remove and destroy infected plants",
+        "Improve field drainage"
+      ],
+      "chemical": [
+        "Metalaxyl + Mancozeb",
+        "Cymoxanil + Mancozeb",
+        "Dimethomorph"
+      ],
+      "prevention": [
+        "Use resistant tomato varieties",
+        "Avoid overhead irrigation",
+        "Monitor and apply protectant fungicide before rain events"
+      ]
+    },
+    "weather_conditions": "Cool, wet, foggy (10-24°C)",
+    "risk_period": "Late monsoon and cool humid periods",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS027",
+    "disease_name": "Tomato Leaf Mold",
+    "tamil_name": "தக்காளி இலை பூஞ்சை",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Pale yellow spots on upper leaf surface",
+      "Olive-brown velvety mold on leaf underside",
+      "Leaves curl up and wither",
+      "Mainly affects greenhouse/protected crops"
+    ],
+    "causes": [
+      "Passalora fulva fungus",
+      "High humidity (>85%)",
+      "Poor air circulation in protected cultivation",
+      "Temperature 22-25°C"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Improve ventilation in greenhouses",
+        "Reduce plant density",
+        "Copper-based spray"
+      ],
+      "chemical": [
+        "Mancozeb",
+        "Chlorothalonil",
+        "Difenoconazole"
+      ],
+      "prevention": [
+        "Maintain relative humidity below 85%",
+        "Use resistant tomato varieties",
+        "Prune lower leaves for air circulation"
+      ]
+    },
+    "weather_conditions": "High humidity (>85%), moderate temperature",
+    "risk_period": "Year-round in protected cultivation",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS028",
+    "disease_name": "Tomato Septoria Leaf Spot",
+    "tamil_name": "தக்காளி செப்டோரியா இலை புள்ளி",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Small circular spots with dark border and tan/gray center",
+      "Tiny black specks (pycnidia) visible inside spots",
+      "Lower leaves infected first then spreads up",
+      "Severe defoliation causing sunscald on fruit"
+    ],
+    "causes": [
+      "Septoria lycopersici fungus",
+      "Warm (20-25°C), wet, humid conditions",
+      "Rain splash spreads spores",
+      "Infected crop debris"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Remove infected lower leaves",
+        "Copper-based spray after rain",
+        "Mulch to prevent soil splash"
+      ],
+      "chemical": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Azoxystrobin"
+      ],
+      "prevention": [
+        "Crop rotation",
+        "Avoid overhead irrigation",
+        "Remove plant debris after crop"
+      ]
+    },
+    "weather_conditions": "Warm and wet (20-25°C)",
+    "risk_period": "Rainy season",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS029",
+    "disease_name": "Tomato Spider Mites",
+    "tamil_name": "தக்காளி சிலந்தி பூச்சி",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Fine yellow stippling on upper leaf surface",
+      "Bronze or silvery discoloration of leaves",
+      "Fine webbing visible on leaf underside in severe cases",
+      "Leaves dry up and fall"
+    ],
+    "causes": [
+      "Tetranychus urticae (two-spotted spider mite)",
+      "Hot, dry weather",
+      "Dusty conditions",
+      "Eradication of natural predators by broad-spectrum pesticides"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Neem oil spray (2%)",
+        "Water spray to dislodge mites",
+        "Release predatory mites (Phytoseiidae)"
+      ],
+      "chemical": [
+        "Abamectin",
+        "Spiromesifen",
+        "Bifenazate"
+      ],
+      "prevention": [
+        "Avoid dusty conditions around fields",
+        "Reduce use of broad-spectrum insecticides",
+        "Monitor underside of leaves regularly"
+      ]
+    },
+    "weather_conditions": "Hot, dry",
+    "risk_period": "Summer and dry season",
+    "contagious": "Yes (wind-borne dispersal)"
+  },
+  {
+    "disease_id": "DS030",
+    "disease_name": "Tomato Target Spot",
+    "tamil_name": "தக்காளி இலக்கு புள்ளி",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Circular lesions with concentric rings (target-like pattern)",
+      "Brown lesions surrounded by yellow halo",
+      "Severe defoliation in wet season",
+      "Lesions also appear on fruit and stems"
+    ],
+    "causes": [
+      "Corynespora cassiicola fungus",
+      "Warm (24-30°C), humid, wet conditions",
+      "Dense crop canopy",
+      "Infected plant debris"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Copper-based fungicide spray",
+        "Remove infected leaves immediately",
+        "Improve air circulation by pruning"
+      ],
+      "chemical": [
+        "Azoxystrobin",
+        "Difenoconazole",
+        "Chlorothalonil"
+      ],
+      "prevention": [
+        "Crop rotation",
+        "Use resistant varieties",
+        "Avoid overhead irrigation"
+      ]
+    },
+    "weather_conditions": "Warm (24-30°C) and humid",
+    "risk_period": "Monsoon and humid periods",
+    "contagious": "Yes"
+  },
+  {
+    "disease_id": "DS031",
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "tamil_name": "தக்காளி மஞ்சள் இலை சுருட்டு வைரஸ்",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Severe upward curling and cupping of leaves",
+      "Yellow leaf margins and interveinal chlorosis",
+      "Stunted plant growth",
+      "Flower drop, very low fruit set"
+    ],
+    "causes": [
+      "Tomato Yellow Leaf Curl Virus (TYLCV)",
+      "Whitefly (Bemisia tabaci) transmission",
+      "High temperature with whitefly population",
+      "Infected transplants"
+    ],
+    "severity_level": "Very High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Yellow sticky traps to monitor and reduce whitefly",
+        "Reflective mulch to repel whitefly",
+        "Remove and destroy infected plants early"
+      ],
+      "chemical": [
+        "Imidacloprid seed treatment or soil drench",
+        "Thiamethoxam foliar spray for whitefly",
+        "No curative treatment for virus itself"
+      ],
+      "prevention": [
+        "Use TYLCV-resistant tomato varieties",
+        "Control whitefly population strictly",
+        "Use insect-proof nets in nursery"
+      ]
+    },
+    "weather_conditions": "Hot, dry with high whitefly populations",
+    "risk_period": "Summer and dry season",
+    "contagious": "Yes (via whitefly)"
+  },
+  {
+    "disease_id": "DS032",
+    "disease_name": "Tomato Mosaic Virus",
+    "tamil_name": "தக்காளி மொசைக் வைரஸ்",
+    "affected_crop": "Tomato",
+    "symptoms": [
+      "Alternating light and dark green mosaic pattern on leaves",
+      "Leaf malformation and blistering",
+      "Stunted growth",
+      "Fruit with internal browning and poor color"
+    ],
+    "causes": [
+      "Tomato Mosaic Virus (ToMV) or TMV",
+      "Mechanical transmission via hands, tools, insects",
+      "Infected seeds and transplants",
+      "Contaminated soil"
+    ],
+    "severity_level": "High",
+    "spread_speed": "Rapid",
+    "treatment": {
+      "organic": [
+        "Wash hands and tools with soap before handling",
+        "Remove and destroy infected plants",
+        "Milk spray can inactivate virus on surfaces"
+      ],
+      "chemical": [
+        "No chemical cure for virus",
+        "Aphid/whitefly control to prevent spread"
+      ],
+      "prevention": [
+        "Use certified virus-free seeds",
+        "Disinfect tools between plants",
+        "Plant resistant tomato varieties"
+      ]
+    },
+    "weather_conditions": "Any conditions — mechanical spread",
+    "risk_period": "Year-round",
+    "contagious": "Yes (mechanical and insect vectors)"
+  },
+  {
+    "disease_id": "DS033",
+    "disease_name": "Strawberry Leaf Scorch",
+    "tamil_name": "ஸ்ட்ராபெரி இலை கருகல்",
+    "affected_crop": "Strawberry",
+    "symptoms": [
+      "Small, irregular purple spots on upper leaf surface",
+      "Centers dry and turn tan to gray",
+      "Leaf margins dry and scorch in severe infection",
+      "Overall plant weakening"
+    ],
+    "causes": [
+      "Diplocarpon earlianum fungus",
+      "Cool, wet conditions",
+      "Infected planting material",
+      "Overhead irrigation"
+    ],
+    "severity_level": "Medium",
+    "spread_speed": "Moderate",
+    "treatment": {
+      "organic": [
+        "Remove infected leaves during dry weather",
+        "Copper hydroxide spray",
+        "Avoid overhead irrigation"
+      ],
+      "chemical": [
+        "Captan",
+        "Myclobutanil",
+        "Azoxystrobin"
+      ],
+      "prevention": [
+        "Use certified disease-free planting material",
+        "Drip irrigation",
+        "Renovate beds after harvest"
+      ]
+    },
+    "weather_conditions": "Cool, wet",
+    "risk_period": "Spring and early summer",
+    "contagious": "Yes"
+  }
+]

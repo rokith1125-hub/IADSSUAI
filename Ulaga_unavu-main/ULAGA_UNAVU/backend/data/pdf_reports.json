@@ -1,0 +1,54 @@
+[
+  {
+    "user_id": "Agri_3",
+    "report_type": "comprehensive",
+    "pdf_url": "",
+    "generated_at": "2026-02-24T08:51:38.725851",
+    "module_data": [
+      "soil",
+      "disease",
+      "market"
+    ],
+    "_id": "0b2f8ffa-78d3-4800-a826-",
+    "created_at": "2026-02-24T08:51:38.726275",
+    "updated_at": "2026-02-24T08:51:38.726275"
+  },
+  {
+    "user_id": "Agri_3",
+    "report_type": "comprehensive",
+    "pdf_url": "",
+    "generated_at": "2026-02-24T08:52:11.183551",
+    "module_data": [
+      "soil",
+      "disease",
+      "market"
+    ],
+    "_id": "b69cac61-fb16-40c5-83c5-",
+    "created_at": "2026-02-24T08:52:11.183551",
+    "updated_at": "2026-02-24T08:52:11.183551"
+  },
+  {
+    "user_id": "Agri_3",
+    "report_type": "comprehensive",
+    "pdf_url": "",
+    "generated_at": "2026-02-24T08:54:46.880452",
+    "module_data": [
+      "soil",
+      "disease",
+      "market"
+    ],
+    "_id": "f8506026-098d-4203-b750-",
+    "created_at": "2026-02-24T08:54:46.880452",
+    "updated_at": "2026-02-24T08:54:46.880452"
+  },
+  {
+    "user_id": "Agri_10",
+    "report_type": "comprehensive",
+    "pdf_url": "",
+    "generated_at": "2026-02-24T09:54:23.678238",
+    "module_data": [],
+    "_id": "28660cfd15f149f0a84da0b4",
+    "created_at": "2026-02-24T09:54:23.820228",
+    "updated_at": "2026-02-24T09:54:23.820228"
+  }
+]

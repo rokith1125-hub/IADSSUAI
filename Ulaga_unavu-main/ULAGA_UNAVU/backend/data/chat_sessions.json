@@ -1,0 +1,3995 @@
+[
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224080320",
+    "_id": "93f8a64d-5c37-44c4-80df-",
+    "created_at": "2026-02-24T08:03:20.750557",
+    "updated_at": "2026-02-24T08:03:20.750557",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224084752",
+    "_id": "7190cf2b-c457-43be-aa00-",
+    "created_at": "2026-02-24T08:47:52.438003",
+    "updated_at": "2026-02-24T08:47:52.438003",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 29,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224084848",
+    "_id": "93dac55b-0790-4d5b-bfe4-",
+    "created_at": "2026-02-24T08:48:48.130366",
+    "updated_at": "2026-02-24T08:48:48.130366",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 24,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224084906",
+    "_id": "ed4121a5-5c79-41c4-866a-",
+    "created_at": "2026-02-24T08:49:06.812991",
+    "updated_at": "2026-02-24T08:49:06.812991",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 74,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_7",
+    "session_id": "session_20260224093719",
+    "_id": "6671f0e6442a4d389b596c34",
+    "created_at": "2026-02-24T09:37:19.727987",
+    "updated_at": "2026-02-24T09:37:19.727987",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 63,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224123948",
+    "_id": "57fa0915e756410693185e41",
+    "created_at": "2026-02-24T12:39:48.146725",
+    "updated_at": "2026-02-24T12:39:48.146725",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 50,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224124001",
+    "_id": "f425d158f42e4085b360fb33",
+    "created_at": "2026-02-24T12:40:01.316132",
+    "updated_at": "2026-02-24T12:40:01.316132",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 28,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224124014",
+    "_id": "feb0301040e44b148508da5e",
+    "created_at": "2026-02-24T12:40:14.526059",
+    "updated_at": "2026-02-24T12:40:14.526059",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 22,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "session_id": "session_20260224124023",
+    "_id": "e75a74246bee44bfa67e6bc0",
+    "created_at": "2026-02-24T12:40:23.579932",
+    "updated_at": "2026-02-24T12:40:23.579932",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 62,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_13",
+    "session_id": "session_20260225063852",
+    "_id": "3ba192d170c1446499dba239",
+    "created_at": "2026-02-25T06:38:52.117468",
+    "updated_at": "2026-02-25T06:38:52.118068",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_13",
+    "session_id": "session_20260225063905",
+    "_id": "79e07b1f8256401c8778d82a",
+    "created_at": "2026-02-25T06:39:05.708928",
+    "updated_at": "2026-02-25T06:39:51.331801",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 28,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Today's date is 25 February 2026, Wednesday",
+        "timestamp": "2026-02-25T06:39:25.782361",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Today's date is 25 February 2026, Wednesday",
+        "timestamp": "2026-02-25T06:39:51.331801",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225092234",
+    "_id": "1dc3fdace0884d118a6acc8e",
+    "created_at": "2026-02-25T09:22:34.609076",
+    "updated_at": "2026-02-25T09:22:34.609076",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225092301",
+    "_id": "9a200835383249d388e5c0c6",
+    "created_at": "2026-02-25T09:23:01.426679",
+    "updated_at": "2026-02-25T09:23:25.500696",
+    "summary": {
+      "total_messages": 4,
+      "user_messages": 2,
+      "assistant_messages": 2,
+      "total_tokens": 122,
+      "agriculture_queries": 2
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Thambi! (Brother!) Rice harvest duration depends on the variety. Generally, paddy (\u0baa\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1) takes around 120-150 days from sowing to harvest. But, it can vary between 100-180 days, depending on factors like climate, soil, and crop management. For example, short-duration varieties like IR64 (\u0b87\u0bb0\u0bbf 64) take 120 days, while long-duration varieties like Pusa 44 (\u0baa\u0bc1\u0b9a\u0bbe 44) take 150 days. Confirm with your local agriculture officer for specific guidance.",
+        "timestamp": "2026-02-25T09:23:25.500696",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 67,
+          "response_time_ms": 904,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100039",
+    "_id": "dc2c5606bf834e39b5151cd1",
+    "created_at": "2026-02-25T10:00:39.032198",
+    "updated_at": "2026-02-25T10:00:39.032198",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100044",
+    "_id": "8e9c0958f28d48c686fa132f",
+    "created_at": "2026-02-25T10:00:44.418332",
+    "updated_at": "2026-02-25T10:00:44.418332",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100058",
+    "_id": "b01ac826082d43e090f2a02b",
+    "created_at": "2026-02-25T10:00:58.611119",
+    "updated_at": "2026-02-25T10:00:58.611119",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100105",
+    "_id": "508ba9a77eef42ba9728da80",
+    "created_at": "2026-02-25T10:01:05.800344",
+    "updated_at": "2026-02-25T10:01:05.800344",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100113",
+    "_id": "f0e7f794cccb439a946eaddf",
+    "created_at": "2026-02-25T10:01:13.059456",
+    "updated_at": "2026-02-25T10:01:13.059456",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 15,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100839",
+    "_id": "e365792d8aa24d8d8f6fe29d",
+    "created_at": "2026-02-25T10:08:39.772767",
+    "updated_at": "2026-02-25T10:08:39.772767",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100848",
+    "_id": "86d495e919df4511a9f41f37",
+    "created_at": "2026-02-25T10:08:48.434129",
+    "updated_at": "2026-02-25T10:08:48.434129",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100856",
+    "_id": "046c4908cbf6424c8c764432",
+    "created_at": "2026-02-25T10:08:56.483554",
+    "updated_at": "2026-02-25T10:09:47.165096",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 43,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hello! \u0ba8\u0bbe\u0ba9\u0bcd Agri Namban, \u0b89\u0b99\u0bcd\u0b95 agriculture assistant. Today farming \u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf help \u0baa\u0ba3\u0bcd\u0ba3\u0bb2\u0bbe\u0bae\u0bcd?",
+        "timestamp": "2026-02-25T10:09:30.751997",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Today's date is 25 February 2026, Wednesday",
+        "timestamp": "2026-02-25T10:09:47.164585",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225100958",
+    "_id": "a70c191762ce463aacad0088",
+    "created_at": "2026-02-25T10:09:58.614525",
+    "updated_at": "2026-02-25T10:09:58.614525",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225145918",
+    "_id": "e905300b581348d1a174b2fb",
+    "created_at": "2026-02-25T14:59:18.858552",
+    "updated_at": "2026-02-25T14:59:18.858552",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225145927",
+    "_id": "39f128b9671d4b43a70abd63",
+    "created_at": "2026-02-25T14:59:27.862445",
+    "updated_at": "2026-02-25T14:59:27.862445",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225145940",
+    "_id": "83c215d8306549168816bb1a",
+    "created_at": "2026-02-25T14:59:40.811160",
+    "updated_at": "2026-02-25T14:59:40.811160",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_21",
+    "session_id": "session_20260225154150",
+    "_id": "55be6422a8734a2c9bbbe38e",
+    "created_at": "2026-02-25T15:41:50.958819",
+    "updated_at": "2026-02-25T15:41:50.958819",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225155449",
+    "_id": "e3aaab48a8c84f3ca5cbb6e5",
+    "created_at": "2026-02-25T15:54:49.471012",
+    "updated_at": "2026-02-25T15:54:49.471012",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225155456",
+    "_id": "c747878916484ae0ab82ae89",
+    "created_at": "2026-02-25T15:54:56.396395",
+    "updated_at": "2026-02-25T15:54:56.396395",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225155501",
+    "_id": "c8363854abe648db98ba75e4",
+    "created_at": "2026-02-25T15:55:01.220651",
+    "updated_at": "2026-02-25T15:55:01.220651",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225155505",
+    "_id": "60f24feddbab435fb209ee5a",
+    "created_at": "2026-02-25T15:55:05.384446",
+    "updated_at": "2026-02-25T15:55:05.384446",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225155846",
+    "_id": "8620a40d3f5244a49265944f",
+    "created_at": "2026-02-25T15:58:46.164769",
+    "updated_at": "2026-02-25T15:58:46.164769",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225155849",
+    "_id": "ca09435db2bf4a4a9b98d101",
+    "created_at": "2026-02-25T15:58:49.452977",
+    "updated_at": "2026-02-25T15:58:49.452977",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225160623",
+    "_id": "4830986b5d664191af86ef96",
+    "created_at": "2026-02-25T16:06:23.441938",
+    "updated_at": "2026-02-25T16:06:23.441938",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225160735",
+    "_id": "f98d67453def4b0a81eaa25d",
+    "created_at": "2026-02-25T16:07:35.438082",
+    "updated_at": "2026-02-25T16:07:35.438082",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225160943",
+    "_id": "b3cd9938fd6f498ab616a0f9",
+    "created_at": "2026-02-25T16:09:43.420806",
+    "updated_at": "2026-02-25T16:09:43.420806",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225160947",
+    "_id": "02c0d88f855247669033ca33",
+    "created_at": "2026-02-25T16:09:47.505334",
+    "updated_at": "2026-02-25T16:09:47.505334",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "session_id": "session_20260225161230",
+    "_id": "515439c0ed43430581c59578",
+    "created_at": "2026-02-25T16:12:30.110703",
+    "updated_at": "2026-02-25T16:12:30.110703",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225173322",
+    "_id": "2d389f2b31284dc29410e189",
+    "created_at": "2026-02-25T17:33:22.878929",
+    "updated_at": "2026-02-25T17:33:22.878929",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225173547",
+    "_id": "f27114f613114e20833d31df",
+    "created_at": "2026-02-25T17:35:47.793439",
+    "updated_at": "2026-02-25T17:45:45.299160",
+    "summary": {
+      "total_messages": 8,
+      "user_messages": 4,
+      "assistant_messages": 4,
+      "total_tokens": 117,
+      "agriculture_queries": 4
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Rendu soil la irukkum \u0baa\u0baf\u0bbf\u0bb0\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd. Red soil la \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0baa\u0baf\u0bbf\u0bb0\u0bcd \u0b95\u0bc7\u0bb0\u0b9f\u0bcd, \u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bae\u0bcd(Onion) \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b95\u0bc0\u0bb0\u0bc8(Leafy vegetables). \u0b87\u0bb5\u0bc8 \u0ba8\u0bb2\u0bcd\u0bb2 \u0b89\u0baf\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0bb5\u0bc8 \u0bae\u0bb4\u0bc8 \u0ba4\u0bc7\u0bb5\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bc1. \u0b86\u0ba9\u0bbe\u0bb2\u0bcd, \u0ba8\u0bbf\u0bb2 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd.",
+        "timestamp": "2026-02-25T17:45:27.313217",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 29,
+          "response_time_ms": 1126,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Today's date is 25 February 2026, Wednesday",
+        "timestamp": "2026-02-25T17:45:39.606425",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "\u0b85\u0ba9\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc7, \u0b87\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bbf \u0b95\u0bc1\u0bb0\u0bc1\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd, \u0b85\u0ba4\u0bc1 Leaf Curl \u0ba8\u0bcb\u0baf\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 Tobacco Mosaic Virus \u0b86\u0b95\u0bbf\u0bb5\u0bb0\u0bc1\u0bae\u0bcd. \u0b85\u0ba8\u0bcd\u0ba4 \u0ba8\u0bcb\u0baf\u0bc8 \u0b95\u0bc1\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4, \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0baa\u0ba3\u0bbf \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe \u0bb5\u0bc7\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b8f\u0ba4\u0bcb \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbe\u0b95, \u0bae\u0bc6\u0b95\u0bcd\u0ba9\u0bc0",
+        "timestamp": "2026-02-25T17:45:45.299160",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 31,
+          "response_time_ms": 1756,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225174829",
+    "_id": "ae2e1cbfaeda4f6fb6ac8219",
+    "created_at": "2026-02-25T17:48:29.229693",
+    "updated_at": "2026-02-25T17:48:29.229693",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225174836",
+    "_id": "3a84e154fd304fc8b2a89134",
+    "created_at": "2026-02-25T17:48:36.861772",
+    "updated_at": "2026-02-25T17:48:36.861772",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225174842",
+    "_id": "89351aacb72a446ab6254d9f",
+    "created_at": "2026-02-25T17:48:42.755741",
+    "updated_at": "2026-02-25T17:49:02.993209",
+    "summary": {
+      "total_messages": 4,
+      "user_messages": 2,
+      "assistant_messages": 2,
+      "total_tokens": 33,
+      "agriculture_queries": 1,
+      "non_agriculture_queries": 1
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u0b87\u0ba8\u0bcd\u0ba4 chatbot agriculture-related questions-\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7. Farming or crops \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bc7\u0bb3\u0bc1\u0b99\u0bcd\u0b95.",
+        "timestamp": "2026-02-25T17:49:02.993209",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225175224",
+    "_id": "e962b32741884172921ea815",
+    "created_at": "2026-02-25T17:52:24.773910",
+    "updated_at": "2026-02-25T17:52:24.773910",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 31,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225175427",
+    "_id": "63252c2e905844d6a4550aba",
+    "created_at": "2026-02-25T17:54:27.380853",
+    "updated_at": "2026-02-25T17:54:27.380853",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 34,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225175924",
+    "_id": "a73c78e46b84448e8b97e3bc",
+    "created_at": "2026-02-25T17:59:24.646420",
+    "updated_at": "2026-02-25T17:59:24.646420",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225175931",
+    "_id": "78fbb2bacd3349f89f65a62e",
+    "created_at": "2026-02-25T17:59:31.661670",
+    "updated_at": "2026-02-25T17:59:31.661670",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225175939",
+    "_id": "fb626f122bff4a639c12bd70",
+    "created_at": "2026-02-25T17:59:39.010481",
+    "updated_at": "2026-02-25T17:59:39.010481",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225175951",
+    "_id": "604efef34a194f219dd83190",
+    "created_at": "2026-02-25T17:59:51.458489",
+    "updated_at": "2026-02-25T18:00:40.578174",
+    "summary": {
+      "total_messages": 8,
+      "user_messages": 4,
+      "assistant_messages": 4,
+      "total_tokens": 110,
+      "agriculture_queries": 3,
+      "non_agriculture_queries": 1
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Today's date is 25 February 2026, Wednesday",
+        "timestamp": "2026-02-25T18:00:04.959177",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Weather in Chennai can be quite unpredictable. To get the latest updates, I recommend checking the India Meteorological Department (IMD) website or mobile app. They provide accurate and up-to-date weather forecasts for your area.\n\nAs of my knowledge cutoff, Chennai experiences a tropical wet and dry climate. The best time for farming in Chennai is during the southwest monsoon season (June to September), when rainfall is plentiful.\n\nBefore starting any farming activity, I suggest checking the weather forecast to avoid any potential disruptions.",
+        "timestamp": "2026-02-25T18:00:23.503831",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 83,
+          "response_time_ms": 710,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "This chatbot is designed only for agriculture-related questions. Please ask something related to farming or crops.",
+        "timestamp": "2026-02-25T18:00:40.578174",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180102",
+    "_id": "10afaad742514cddbfe0b4fd",
+    "created_at": "2026-02-25T18:01:02.621733",
+    "updated_at": "2026-02-25T18:01:02.621733",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180112",
+    "_id": "ad38887227db4537a5cddc2e",
+    "created_at": "2026-02-25T18:01:12.204197",
+    "updated_at": "2026-02-25T18:01:12.204197",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 110,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180813",
+    "_id": "edc8b8fe574444e09c04a3f6",
+    "created_at": "2026-02-25T18:08:13.226584",
+    "updated_at": "2026-02-25T18:08:13.226584",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180855",
+    "_id": "116745aeee7b441eb0474599",
+    "created_at": "2026-02-25T18:08:55.407374",
+    "updated_at": "2026-02-25T18:08:55.407374",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180902",
+    "_id": "e8b6f6fc2c2f471cb7db1312",
+    "created_at": "2026-02-25T18:09:02.201566",
+    "updated_at": "2026-02-25T18:09:02.201566",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180914",
+    "_id": "44d7179092944950848f12ee",
+    "created_at": "2026-02-25T18:09:14.037675",
+    "updated_at": "2026-02-25T18:09:14.037675",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180923",
+    "_id": "b39fcc4710854a9b81dc6bd6",
+    "created_at": "2026-02-25T18:09:23.122487",
+    "updated_at": "2026-02-25T18:09:23.122487",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180929",
+    "_id": "0f3667f570524703a7601eb6",
+    "created_at": "2026-02-25T18:09:29.692806",
+    "updated_at": "2026-02-25T18:09:29.692806",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225180949",
+    "_id": "c0bd54d7bc5141f59ace753e",
+    "created_at": "2026-02-25T18:09:49.425820",
+    "updated_at": "2026-02-25T18:12:16.145201",
+    "summary": {
+      "total_messages": 10,
+      "user_messages": 5,
+      "assistant_messages": 5,
+      "total_tokens": 281,
+      "agriculture_queries": 4,
+      "non_agriculture_queries": 1
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Today's date is 25 February 2026, Wednesday",
+        "timestamp": "2026-02-25T18:11:17.324674",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Farmer! To check the weather forecast for your area, I recommend checking with local meteorological stations or using mobile apps like AgroStar, Cropin, or Skymet. These apps provide accurate weather forecasts, including temperature, rainfall, and wind speed. This will help you plan your farming activities, such as sowing, irrigation, and harvesting.\n\nRemember to also check local farmer groups and WhatsApp channels for weather updates. Stay safe during extreme weather conditions. If you notice any unusual weather patterns, consult with your local agriculture officer for guidance.",
+        "timestamp": "2026-02-25T18:11:24.966585",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 85,
+          "response_time_ms": 571,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "This chatbot is designed only for agriculture-related questions. Please ask something related to farming or crops.",
+        "timestamp": "2026-02-25T18:12:04.205941",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Rice Farming in India. \n\nTo get good yields, ensure your soil pH is between 6.0 and 7.0. Apply 120 kg of nitrogen, 60 kg of phosphorus, and 60 kg of potassium per acre as basal dose. Use high-yielding varieties like Pusa 169 or IR 64. Transplant seedlings at 20 cm spacing when soil temperature is around 25\u00b0C.\n\nWater management is crucial. Ensure 15-20 cm of water at transplanting and maintain 10-15 cm of water throughout the season. Monitor for pests like stem borer and diseases like blast.\n\nConsult local agriculture officer for specific advice on your region.",
+        "timestamp": "2026-02-25T18:12:16.145201",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 97,
+          "response_time_ms": 1547,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225185805",
+    "_id": "17364c634f874be3a5e71a5f",
+    "created_at": "2026-02-25T18:58:05.247058",
+    "updated_at": "2026-02-25T18:58:05.247058",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225185815",
+    "_id": "bbf0821026ed4af695f3a86e",
+    "created_at": "2026-02-25T18:58:15.574574",
+    "updated_at": "2026-02-25T18:58:15.574574",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225185824",
+    "_id": "e3c974ab800d460c88652d26",
+    "created_at": "2026-02-25T18:58:24.645093",
+    "updated_at": "2026-02-25T18:58:24.645093",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225194224",
+    "_id": "71919552898e4c8a9e188baa",
+    "created_at": "2026-02-25T19:42:24.112282",
+    "updated_at": "2026-02-25T19:42:24.112282",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225194232",
+    "_id": "366378b823d942c9a50368e9",
+    "created_at": "2026-02-25T19:42:32.712868",
+    "updated_at": "2026-02-25T19:42:32.712868",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225194240",
+    "_id": "044b1a7b803f486589e101b1",
+    "created_at": "2026-02-25T19:42:40.734304",
+    "updated_at": "2026-02-25T19:42:40.734304",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225200456",
+    "_id": "7db8bb640cfc4eae83a5cfd1",
+    "created_at": "2026-02-25T20:04:56.075036",
+    "updated_at": "2026-02-25T20:04:56.075036",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225201512",
+    "_id": "f4f800fb20de4b96a7318cf7",
+    "created_at": "2026-02-25T20:15:12.898653",
+    "updated_at": "2026-02-25T20:15:12.898653",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225201519",
+    "_id": "36a3e3c8a1484f1ba95537d2",
+    "created_at": "2026-02-25T20:15:19.633674",
+    "updated_at": "2026-02-25T20:15:19.633674",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225201531",
+    "_id": "42c6a94430a8435bbaaeeec1",
+    "created_at": "2026-02-25T20:15:31.164946",
+    "updated_at": "2026-02-25T20:15:31.164946",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225201542",
+    "_id": "d4352e382ce84ce2b203a391",
+    "created_at": "2026-02-25T20:15:42.249890",
+    "updated_at": "2026-02-25T20:15:42.251167",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225201552",
+    "_id": "10eb813a598147268592a720",
+    "created_at": "2026-02-25T20:15:52.042096",
+    "updated_at": "2026-02-25T20:15:52.042096",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225201558",
+    "_id": "86e5e31539464874933218dc",
+    "created_at": "2026-02-25T20:15:58.021684",
+    "updated_at": "2026-02-25T20:15:58.021684",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225201621",
+    "_id": "8ff726c2d8c140a28f58729f",
+    "created_at": "2026-02-25T20:16:21.056716",
+    "updated_at": "2026-02-25T20:16:21.056716",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 57,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225203820",
+    "_id": "98a2096edf974c5498df9281",
+    "created_at": "2026-02-25T20:38:20.298608",
+    "updated_at": "2026-02-25T20:38:20.298608",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225203826",
+    "_id": "fefe4297c3f84ffda36a81a9",
+    "created_at": "2026-02-25T20:38:26.556031",
+    "updated_at": "2026-02-25T20:38:26.556031",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225203839",
+    "_id": "7cb65477fd5e4e4a9bdea6b1",
+    "created_at": "2026-02-25T20:38:39.345226",
+    "updated_at": "2026-02-25T20:38:39.345226",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225203853",
+    "_id": "6bdd1919f97b4fd795f58e81",
+    "created_at": "2026-02-25T20:38:53.614335",
+    "updated_at": "2026-02-25T20:38:53.614335",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 52,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225204814",
+    "_id": "b732914201a7466fb73974cd",
+    "created_at": "2026-02-25T20:48:14.932647",
+    "updated_at": "2026-02-25T20:48:14.932647",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225204828",
+    "_id": "3dba737943c2496ba5df5935",
+    "created_at": "2026-02-25T20:48:28.745427",
+    "updated_at": "2026-02-25T20:48:28.745427",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 30,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225204928",
+    "_id": "f98004b0521e4716b44c678f",
+    "created_at": "2026-02-25T20:49:28.698117",
+    "updated_at": "2026-02-25T20:49:28.698117",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 26,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260225205229",
+    "_id": "a21a138754f64be9a12894fc",
+    "created_at": "2026-02-25T20:52:29.781291",
+    "updated_at": "2026-02-25T20:52:29.781291",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 65,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092255",
+    "_id": "0a36c148fb7d4a91a52f6e9a",
+    "created_at": "2026-02-26T09:22:55.021117",
+    "updated_at": "2026-02-26T09:22:55.021117",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092300",
+    "_id": "828ef0deedaa489a81728b0e",
+    "created_at": "2026-02-26T09:23:00.349916",
+    "updated_at": "2026-02-26T09:23:00.349916",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092330",
+    "_id": "bfa468ee1ef04b7594d23496",
+    "created_at": "2026-02-26T09:23:30.364239",
+    "updated_at": "2026-02-26T09:23:30.364239",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092342",
+    "_id": "5379696dc1b04e1a8493df5e",
+    "created_at": "2026-02-26T09:23:42.143656",
+    "updated_at": "2026-02-26T09:23:42.143656",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092354",
+    "_id": "ac3edb1d9ad347ea9e19ea8b",
+    "created_at": "2026-02-26T09:23:54.540484",
+    "updated_at": "2026-02-26T09:23:54.540484",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092401",
+    "_id": "0c4caf4c23c14d40bac4a9bd",
+    "created_at": "2026-02-26T09:24:01.042236",
+    "updated_at": "2026-02-26T09:24:01.042236",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092553",
+    "_id": "fe2ee3ab63604bb99c1ac5eb",
+    "created_at": "2026-02-26T09:25:53.071711",
+    "updated_at": "2026-02-26T09:25:53.071711",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226092816",
+    "_id": "092bda9598c0436e9e2efcf8",
+    "created_at": "2026-02-26T09:28:16.363421",
+    "updated_at": "2026-02-26T09:28:16.363421",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226093615",
+    "_id": "22acbbe34dcc4c9283df4628",
+    "created_at": "2026-02-26T09:36:15.955767",
+    "updated_at": "2026-02-26T09:36:15.955767",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226093619",
+    "_id": "1981365d89a548f0b297613a",
+    "created_at": "2026-02-26T09:36:19.548535",
+    "updated_at": "2026-02-26T09:36:19.548535",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226093623",
+    "_id": "f81a19ee00fc400191a88a8d",
+    "created_at": "2026-02-26T09:36:23.854034",
+    "updated_at": "2026-02-26T09:36:23.854034",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226093631",
+    "_id": "a2506a2e288e43e2940ae71f",
+    "created_at": "2026-02-26T09:36:31.398054",
+    "updated_at": "2026-02-26T09:36:31.398054",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226093657",
+    "_id": "1088eda21d7041fc97b5f004",
+    "created_at": "2026-02-26T09:36:57.709811",
+    "updated_at": "2026-02-26T09:36:57.709811",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095504",
+    "_id": "6ac720ee89db49309f7b7176",
+    "created_at": "2026-02-26T09:55:04.037809",
+    "updated_at": "2026-02-26T09:55:04.037809",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095509",
+    "_id": "8325b813ccf14b70b479b911",
+    "created_at": "2026-02-26T09:55:09.890355",
+    "updated_at": "2026-02-26T09:55:09.890355",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095513",
+    "_id": "e78730fba60648fb84c1b575",
+    "created_at": "2026-02-26T09:55:13.668650",
+    "updated_at": "2026-02-26T09:55:13.668650",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095528",
+    "_id": "026c1be5466d4366b81f132e",
+    "created_at": "2026-02-26T09:55:28.107857",
+    "updated_at": "2026-02-26T09:55:28.107857",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095927",
+    "_id": "1409b31993d3405bbf09111b",
+    "created_at": "2026-02-26T09:59:27.394355",
+    "updated_at": "2026-02-26T09:59:27.394355",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095929",
+    "_id": "710d4c5f45a749238fd9fcc1",
+    "created_at": "2026-02-26T09:59:29.323301",
+    "updated_at": "2026-02-26T09:59:29.323301",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095933",
+    "_id": "447b92b956d14db99cd8b96a",
+    "created_at": "2026-02-26T09:59:33.771876",
+    "updated_at": "2026-02-26T09:59:33.771876",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226095941",
+    "_id": "57b7fa6987244d6aa4eeb8ac",
+    "created_at": "2026-02-26T09:59:41.471209",
+    "updated_at": "2026-02-26T10:13:51.942636",
+    "summary": {
+      "total_messages": 16,
+      "user_messages": 8,
+      "assistant_messages": 8,
+      "total_tokens": 269,
+      "agriculture_queries": 7,
+      "non_agriculture_queries": 1
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:00:19.565346",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:00:27.159525",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:00:42.776594",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 6,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Best Crops for Red Soil**\n\n\ud83c\udf3e Red soil is rich in iron and aluminum, making it suitable for crops that require good drainage and aeration.\n\n**Recommended Crops:**\n\n* **Groundnut (Peanut)**: High-yielding and drought-tolerant, groundnut is an excellent choice for red soil.\n* **Soybean**: Soybean is a legume that fixes nitrogen in the soil, improving fertility and structure.\n* **Maize**: Maize is a good crop for red soil, as it can tolerate drought and requires minimal fertilization.\n* **Chickpea**: Chickpea is a cool-season crop that thrives in red soil, with good yields and minimal water requirements.\n\n**Tips:**\n\n* Use crop rotation to maintain soil health and reduce pests and diseases.\n* Apply organic fertilizers to improve soil fertility.\n* Monitor soil moisture levels to avoid waterlogging and erosion.\n\n**Location:** Which region are you farming in? (e.g., Tamil Nadu, Andhra Pradesh)",
+        "timestamp": "2026-02-26T10:09:32.382478",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 139,
+          "response_time_ms": 1439,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:13:12.775438",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 2,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:13:34.017342",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 0,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "\u26a0\ufe0f Note: Idhu agriculture chatbot. Farming, crop, soil, weather, market pathi mattum kelunga.",
+        "timestamp": "2026-02-26T10:13:51.941624",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 30,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226101821",
+    "_id": "269feec16dba44cd9cd34efb",
+    "created_at": "2026-02-26T10:18:21.546421",
+    "updated_at": "2026-02-26T10:18:21.546421",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226101837",
+    "_id": "f42e3f6c818c43ffb73b3bb5",
+    "created_at": "2026-02-26T10:18:37.811672",
+    "updated_at": "2026-02-26T10:19:10.291023",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 103,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u26a0\ufe0f Weather update unavailable right now. Please try again.",
+        "timestamp": "2026-02-26T10:18:54.011914",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 51,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83c\udf26 **Location: chennai**\n\n\ud83c\udf21 Temp: 31.2\u00b0C  \n\ud83d\udca7 Humidity: 47%  \n\ud83c\udf27 Rain: 0.0mm  \n\u2601\ufe0f Condition: Clear sky\n\n\ud83c\udf3e **Impact on Farming**\n- Normal conditions for field work.\n\n\u26a0\ufe0f **Action**\n- Follow regular irrigation schedule.",
+        "timestamp": "2026-02-26T10:19:10.287997",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 6313,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226102422",
+    "_id": "8d2c0a15df894fc1a53e56ae",
+    "created_at": "2026-02-26T10:24:22.396737",
+    "updated_at": "2026-02-26T10:24:22.396737",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226102435",
+    "_id": "a362641712124b7094b21685",
+    "created_at": "2026-02-26T10:24:35.724135",
+    "updated_at": "2026-02-26T10:24:35.724135",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226102448",
+    "_id": "c8fbe2b3dc864be990273e8c",
+    "created_at": "2026-02-26T10:24:48.140758",
+    "updated_at": "2026-02-26T10:24:48.140758",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226102629",
+    "_id": "d43839413bfc4a16be319e28",
+    "created_at": "2026-02-26T10:26:29.015020",
+    "updated_at": "2026-02-26T10:26:29.015020",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226102927",
+    "_id": "e8eb7648b6fa4421aba18d9c",
+    "created_at": "2026-02-26T10:29:27.784695",
+    "updated_at": "2026-02-26T10:29:27.784695",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 102,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226103203",
+    "_id": "f3743e583cec44ca849612e2",
+    "created_at": "2026-02-26T10:32:03.555079",
+    "updated_at": "2026-02-26T10:32:03.555079",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226103219",
+    "_id": "4ab73c251842442499c9b48e",
+    "created_at": "2026-02-26T10:32:19.084399",
+    "updated_at": "2026-02-26T10:32:19.084399",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226103620",
+    "_id": "d904f49cb6104221ad6fa67d",
+    "created_at": "2026-02-26T10:36:20.110741",
+    "updated_at": "2026-02-26T10:36:20.110741",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226103626",
+    "_id": "8adf736f18f349288c6b36ec",
+    "created_at": "2026-02-26T10:36:26.577565",
+    "updated_at": "2026-02-26T10:36:26.577565",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226103652",
+    "_id": "1dd8096e6dc248d49edbe990",
+    "created_at": "2026-02-26T10:36:52.806093",
+    "updated_at": "2026-02-26T10:39:56.626313",
+    "summary": {
+      "total_messages": 18,
+      "user_messages": 9,
+      "assistant_messages": 9,
+      "total_tokens": 493,
+      "agriculture_queries": 9
+    },
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "**Best Soils for Indian Farmers \ud83c\udf3e**\n\nHere's a list of top soils suitable for Indian farming conditions:\n\n| **Soil Type** | **Characteristics** | **Suitable Crops** |\n| --- | --- | --- |\n| Alluvial Soil | Well-drained, fertile | Rice, Wheat, Sugarcane |\n| Black Soil | High water-holding capacity | Cotton, Groundnut, Soybean |\n| Red Soil | Good aeration, fertile | Tea, Coffee, Rubber |\n| Laterite Soil | Acidic, well-drained | Coconut, Areca Nut, Banana |\n| Loamy Soil | Balanced nutrients, good structure | Maize, Potato, Peas |\n\n**Actionable Tips:**\n\n* Test your soil regularly to determine its pH level and nutrient content.\n* Use organic amendments like compost and manure to improve soil fertility.\n* Choose crops that match your soil type for optimal growth and yield.\n\n**Recommendation:** Based on your location and soil type, I recommend testing your soil and consulting with a local agricultural expert for personalized advice.",
+        "timestamp": "2026-02-26T10:37:09.611135",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 156,
+          "response_time_ms": 744,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:37:47.480038",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 2,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:37:57.244696",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 2,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:38:09.863828",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 2,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:38:37.975205",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 2,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello!** I'm ULAGA_UNAVU \u2013 Smart Agriculture AI Assistant.",
+        "timestamp": "2026-02-26T10:39:00.863827",
+        "metadata": {
+          "source": "SYSTEM",
+          "tokens_used": 0,
+          "response_time_ms": 7,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**Best Soil Types for Indian Farmers \ud83c\udf3e**\n\nAs an Indian farmer, you're looking for the best soil types to optimize crop growth. Here are some of the top soil types in India:\n\n* **Alluvial Soil**: Found in river deltas, this soil is rich in nutrients and ideal for crops like rice, wheat, and sugarcane.\n* **Black Soil**: Found in the Deccan Plateau, this soil is rich in iron and manganese, making it suitable for crops like cotton, tobacco, and groundnuts.\n* **Red Soil**: Found in the eastern and southern regions of India, this soil is rich in iron and aluminum, making it suitable for crops like tea, coffee, and rubber.\n* **Laterite Soil**: Found in the southern regions of India, this soil is rich in iron and aluminum, making it suitable for crops like coconut, areca nut, and cashew.\n* **Desert Soil**: Found in the arid regions of India, this soil is poor in nutrients, but can be improved with irrigation and fertilizers, making it suitable for crops like cotton, wheat, and barley.\n\n**Soil Testing Tips \ud83e\uddea**\n\nTo determine the best soil type for your farm, conduct a soil test to check its pH level, nutrient content, and structure. Based on the test results, you can take necessary steps to improve the soil quality and optimize crop growth.\n\n**Actionable Advice \ud83d\udcb0**\n\n* Get your soil tested regularly to",
+        "timestamp": "2026-02-26T10:39:23.228040",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 228,
+          "response_time_ms": 1633,
+          "context_used": false
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "**\u0ba8\u0bb2\u0bcd\u0bb2 \u0bae\u0ba3\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \ud83c\udf3e**\n\n\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bb2\u0bcd\u0bb2 \u0bae\u0ba3\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \u0b87\u0ba4\u0bcb:\n\n* \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 \u0bae\u0ba3\u0bcd (\u0b95\u0bbe\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcb\u0ba9\u0bc7\u0b9f\u0bcd)\n* \u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd (\u0baa\u0bbe\u0bb8\u0bcd\u0baa\u0bc7\u0b9f\u0bcd)\n* \u0ba8\u0bc0\u0bb2 \u0bae\u0ba3\u0bcd (\u0baa\u0bbe\u0bb8\u0bcd\u0baa\u0bc7\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcb\u0ba9\u0bc7\u0b9f\u0bcd)\n* \u0bb5\u0bc6\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0ba3\u0bcd (\u0baa\u0bbe\u0bb8\u0bcd\u0baa\u0bc7\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd \u0b95\u0bbe\u0bb0",
+        "timestamp": "2026-02-26T10:39:56.625315",
+        "metadata": {
+          "source": "LLM (no context)",
+          "tokens_used": 33,
+          "response_time_ms": 2173,
+          "context_used": false
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226105550",
+    "_id": "de2360ff4ab24abea7f71657",
+    "created_at": "2026-02-26T10:55:50.986028",
+    "updated_at": "2026-02-26T10:55:50.986028",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226143506",
+    "_id": "fdf969a9d03d4102a6b0a65b",
+    "created_at": "2026-02-26T14:35:06.926120",
+    "updated_at": "2026-02-26T14:40:50.568824",
+    "summary": {
+      "total_messages": 34,
+      "user_messages": 17,
+      "assistant_messages": 17,
+      "total_tokens": 1227,
+      "agriculture_queries": 14,
+      "non_agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Today's market prices",
+            "timestamp": "2026-02-26T14:35:16.505962",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Market Price Update**\n======================\n\nTo get the current market price, I need to know the location and the crop you are interested in. Please provide me with the following information:\n\n* Crop name (e.g., paddy, wheat, sugarcane)\n* Location (e.g., Tamil Nadu, Maharashtra, Punjab)\n\nOnce I have this information, I can provide you with the current market price.\n\n**Example Crop Prices**\n-----------------------\n\n| Crop | Current Price (INR/Quintal) |\n| --- | --- |\n| Paddy | 1,850 |\n| Wheat | 1,950 |\n| Sugarcane | 1,300 |\n\nPlease provide the required information so I can give you the latest market price.",
+            "timestamp": "2026-02-26T14:35:16.505962",
+            "metadata": {
+              "source": "LLM (no context)",
+              "tokens_used": 103,
+              "response_time_ms": 1903,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Government schemes for farmers",
+            "timestamp": "2026-02-26T14:36:33.084633",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Government Schemes for Farmers**\n\nWe have several government schemes to support Indian farmers. Here are a few key ones:\n\n* **Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)**: Provides financial assistance of \u20b96,000 per year to small and marginal farmers.\n* **Soil Health Card Scheme**: Helps farmers to get a detailed report of their soil health, including nutrient levels and pH.\n* **National Agriculture Market (eNAM)**: An online platform to connect farmers with buyers and help them get better prices for their produce.\n* **Pradhan Mantri Fasal Bima Yojana (PMFBY)**: A crop insurance scheme to protect farmers from crop failures and natural calamities.\n\nThese schemes are designed to improve the livelihoods of farmers and make farming more sustainable and profitable.\n\nWould you like to know more about any of these schemes or have any specific questions?",
+            "timestamp": "2026-02-26T14:36:33.084633",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 134,
+              "response_time_ms": 67371,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "How to test my soil health?",
+            "timestamp": "2026-02-26T14:36:34.714620",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Soil Health Testing**\n======================\n\nTesting your soil health is crucial for optimal crop growth. Here's a simple step-by-step guide:\n\n### Collect Soil Samples\n\n* Collect soil samples from different areas of your farm, about 6-8 inches deep.\n* Mix the samples well to create a representative soil sample.\n\n### Physical Testing\n\n* **Texture**: Check the soil texture by rubbing a small amount between your fingers. This will help you determine if it's sandy, clayey, or loamy.\n* **Structure**: Check the soil structure by digging a small pit. This will help you determine if the soil is well-draining or waterlogged.\n\n### Chemical Testing\n\n* **pH**: Use a pH meter or pH paper to check the soil pH. Most crops prefer a pH between 6.0 and 7.0.\n* **Nutrient levels**: Use a soil testing kit or send a sample to a lab to check the levels of essential nutrients like NPK (Nitrogen, Phosphorus, Potassium).\n\n### Biological Testing\n\n* **Microbial activity**: Check for microbial activity by observing the soil's ability to break down organic matter.\n\n### What to Do Next\n\n* Based on the test results, adjust your fertilization and irrigation strategies accordingly.\n* Consider consulting a soil expert or a government agricultural extension service for further guidance.\n\n**Remember**: Soil health testing is an ongoing process. Regular testing will help you make informed decisions and maintain optimal soil health.",
+            "timestamp": "2026-02-26T14:36:34.714620",
+            "metadata": {
+              "source": "LLM (no context)",
+              "tokens_used": 226,
+              "response_time_ms": 982,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Government schemes for farmers",
+            "timestamp": "2026-02-26T14:36:56.843446",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Government Schemes for Farmers in India**\n\nWe have several government schemes to support farmers in India. Here are some key schemes:\n\n* **Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)**: Provides financial assistance of \u20b96,000 per year to small and marginal farmers.\n* **Soil Health Card Scheme**: Helps farmers maintain soil health through soil testing and providing recommendations for fertilizers and other inputs.\n* **National Agriculture Market (e-NAM)**: Facilitates online trading of agricultural produce, helping farmers get better prices for their crops.\n* **Pradhan Mantri Fasal Bima Yojana (PMFBY)**: Provides insurance coverage to farmers against crop loss due to natural calamities.\n* **Kisan Credit Card Scheme**: Provides easy credit facilities to farmers for their agricultural needs.\n\nThese schemes are implemented by the Ministry of Agriculture and Farmers Welfare, Government of India.",
+            "timestamp": "2026-02-26T14:36:56.843446",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 129,
+              "response_time_ms": 56997,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Today's market prices",
+            "timestamp": "2026-02-26T14:38:02.185620",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Market Price Update**\n\nTo get the latest market price, I need to know the location and the crop you are interested in. Please provide me with the following information:\n\n* Location (district/state)\n* Crop name\n\nThis will help me provide you with the current market price at your local mandi.",
+            "timestamp": "2026-02-26T14:38:02.185620",
+            "metadata": {
+              "source": "LLM (no context)",
+              "tokens_used": 50,
+              "response_time_ms": 896,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "villupuram , paddy",
+            "timestamp": "2026-02-26T14:38:16.995336",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Villupuram Paddy Farming**\n\nYou are from Villupuram, Tamil Nadu, and growing paddy. Here's some advice for you:\n\n### Weather and Irrigation\n* Villupuram receives an average annual rainfall of 800 mm. Ensure proper drainage to prevent waterlogging.\n* Monitor weather forecasts for timely irrigation. Aim for 60-80 cm of water during the growing season.\n\n### Soil Preparation\n* Villupuram's soil is primarily clay loam. Add 2-3 tons of farm yard manure (FYM) per acre to improve soil fertility.\n\n### Crop Management\n* Plant paddy varieties like CR 1009 or ADT 43, which are suitable for the region.\n* Maintain a spacing of 20x15 cm and apply 120 kg of NPK (15:15:15) per acre at sowing.\n\n### Pest and Disease Management\n* Regularly inspect your crop for pests like stem borers and leaf folder. Use neem oil or insecticides as needed.\n* Watch out for diseases like blast and sheath blight. Use fungicides like carbendazim or mancozeb.\n\n### Market Information\n* The nearest mandi for selling paddy is at Villupuram. You can also sell at the Cauvery Market in Chennai.\n\n### Government Schemes\n* Check with the Tamil Nadu government's agriculture department for schemes like the Crop Insurance Scheme or the Soil Health",
+            "timestamp": "2026-02-26T14:38:16.995336",
+            "metadata": {
+              "source": "LLM (no context)",
+              "tokens_used": 202,
+              "response_time_ms": 1376,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "your name",
+            "timestamp": "2026-02-26T14:38:26.357932",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**I am ULAGA_UNAVU - Smart Agriculture AI Assistant.**",
+            "timestamp": "2026-02-26T14:38:26.357932",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 9,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "now time",
+            "timestamp": "2026-02-26T14:38:36.281538",
+            "metadata": {
+              "agriculture_related": false
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\u26a0\ufe0f Note: Idhu agriculture chatbot. Farming, crop, soil, weather, market pathi mattum kelunga.",
+            "timestamp": "2026-02-26T14:38:36.281538",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 7,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "now what time",
+            "timestamp": "2026-02-26T14:38:44.083566",
+            "metadata": {
+              "agriculture_related": false
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\u26a0\ufe0f Note: Idhu agriculture chatbot. Farming, crop, soil, weather, market pathi mattum kelunga.",
+            "timestamp": "2026-02-26T14:38:44.083566",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 0,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "now date",
+            "timestamp": "2026-02-26T14:38:49.348171",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83d\udcc5 **Today's Date:** 26 February 2026, Thursday",
+            "timestamp": "2026-02-26T14:38:49.348171",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 5,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "now climate",
+            "timestamp": "2026-02-26T14:39:04.280419",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Location: villupuram**\n\n\ud83c\udf21 Temp: 25.3\u00b0C  \n\ud83d\udca7 Humidity: 81%  \n\ud83c\udf27 Rain: 0.0mm  \n\u2601\ufe0f Condition: Partly cloudy\n\n\ud83c\udf3e **Impact on Farming**\n- Normal conditions for field work.\n\n\u26a0\ufe0f **Action**\n- Follow regular irrigation schedule.",
+            "timestamp": "2026-02-26T14:39:04.280419",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 6618,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "now climate chennat",
+            "timestamp": "2026-02-26T14:39:49.653440",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Location: villupuram**\n\n\ud83c\udf21 Temp: 25.3\u00b0C  \n\ud83d\udca7 Humidity: 81%  \n\ud83c\udf27 Rain: 0.0mm  \n\u2601\ufe0f Condition: Partly cloudy\n\n\ud83c\udf3e **Impact on Farming**\n- Normal conditions for field work.\n\n\u26a0\ufe0f **Action**\n- Follow regular irrigation schedule.",
+            "timestamp": "2026-02-26T14:39:49.653440",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 1,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "now climate in chennai",
+            "timestamp": "2026-02-26T14:40:04.535329",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\u26a0\ufe0f Weather update unavailable right now. Please try again.",
+            "timestamp": "2026-02-26T14:40:04.535329",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 3980,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "now chennai climate",
+            "timestamp": "2026-02-26T14:40:16.467639",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Location: villupuram**\n\n\ud83c\udf21 Temp: 25.3\u00b0C  \n\ud83d\udca7 Humidity: 81%  \n\ud83c\udf27 Rain: 0.0mm  \n\u2601\ufe0f Condition: Partly cloudy\n\n\ud83c\udf3e **Impact on Farming**\n- Normal conditions for field work.\n\n\u26a0\ufe0f **Action**\n- Follow regular irrigation schedule.",
+            "timestamp": "2026-02-26T14:40:16.467639",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 0,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "ground nut benefit",
+            "timestamp": "2026-02-26T14:40:38.187447",
+            "metadata": {
+              "agriculture_related": false
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\u26a0\ufe0f Note: Idhu agriculture chatbot. Farming, crop, soil, weather, market pathi mattum kelunga.",
+            "timestamp": "2026-02-26T14:40:38.187447",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 3,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "groundnut benifit",
+            "timestamp": "2026-02-26T14:40:50.568194",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Groundnut Benefits for Indian Farmers**\n\nGroundnut (Arachis hypogaea) is a valuable crop for Indian farmers. Here are some benefits:\n\n* **High-Profit Crop**: Groundnut is a high-profit crop, fetching good prices in the market.\n* **Nutrient-Rich**: Groundnut is rich in protein, oil, and other essential nutrients.\n* **Soil Improvement**: Groundnut helps to improve soil health by adding organic matter and nitrogen.\n* **Drought Tolerance**: Groundnut is relatively drought-tolerant, making it suitable for areas with limited water supply.\n* **Multiple Uses**: Groundnut oil is used for cooking, and the cake is used as animal feed or fertilizer.\n\n**Tips for Growing Groundnut**\n\n* Plant groundnut in well-draining soil with a pH between 6.0 and 7.0.\n* Apply 20-25 kg of nitrogen, 20-25 kg of phosphorus, and 20-25 kg of potash per hectare.\n* Irrigate regularly, but avoid waterlogging.\n* Control pests and diseases like aphids, whiteflies, and leaf spot.\n\n**Market Price**\n\n* Groundnut prices vary depending on location and quality. In India, the average price is around \u20b950-60 per kg.\n\n**Government Schemes**\n\n* The Indian government provides subsidies and support for groundnut cultivation under various schemes, such as PM-KISAN and Soil Health Card Scheme.\n\nHope this information helps you",
+            "timestamp": "2026-02-26T14:40:50.568194",
+            "metadata": {
+              "source": "LLM (no context)",
+              "tokens_used": 196,
+              "response_time_ms": 2114,
+              "context_used": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226154852",
+    "_id": "8261cd6e98c34318995ef6c5",
+    "created_at": "2026-02-26T15:48:52.022971",
+    "updated_at": "2026-02-26T15:48:52.022971",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226154947",
+    "_id": "7ea1d2bec5b843d3ab66a266",
+    "created_at": "2026-02-26T15:49:47.422788",
+    "updated_at": "2026-02-26T15:50:54.312838",
+    "summary": {
+      "total_messages": 10,
+      "user_messages": 5,
+      "assistant_messages": 5,
+      "total_tokens": 421,
+      "agriculture_queries": 5
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Today's market prices",
+            "timestamp": "2026-02-26T15:49:55.247482",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Today's Market Price**\n======================\n\nTo get the current market price, I need to know the location and the crop you are interested in. Please provide me with the following information:\n\n* Crop name (e.g., rice, wheat, cotton)\n* Location (e.g., Tamil Nadu, Maharashtra, Punjab)\n\nThis will help me provide you with the most up-to-date market price information.\n\n**Example:** If you are a rice farmer in Tamil Nadu, I can provide you with the current market price of rice in the Tamil Nadu mandis.",
+            "timestamp": "2026-02-26T15:49:55.247482",
+            "metadata": {
+              "source": "LLM (no context)",
+              "tokens_used": 83,
+              "response_time_ms": 575,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Government schemes for farmers",
+            "timestamp": "2026-02-26T15:50:31.065574",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Government Schemes for Farmers in India**\n\nWe have the following government schemes for farmers in India:\n\n* **Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)**: Provides financial assistance of \u20b96,000 per year to small and marginal farmers.\n* **Soil Health Card Scheme**: Helps farmers to know the nutrient status of their soil and provides recommendations for improving soil health.\n* **National Mission for Sustainable Agriculture (NMSA)**: Focuses on sustainable agriculture practices, organic farming, and conservation of water and soil.\n* **Pradhan Mantri Fasal Bima Yojana (PMFBY)**: Provides insurance coverage to farmers against crop loss due to natural calamities.\n* **National Agriculture Market (e-NAM)**: Helps farmers to sell their produce online and get better prices.\n\nThese schemes aim to improve the livelihoods of farmers and make agriculture more sustainable and profitable.\n\n**Do you want to know more about any of these schemes?**",
+            "timestamp": "2026-02-26T15:50:31.065574",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 139,
+              "response_time_ms": 31035,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "today climate",
+            "timestamp": "2026-02-26T15:50:33.620353",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Location: villupuram**\n\n\ud83c\udf21 Temp: 24.3\u00b0C  \n\ud83d\udca7 Humidity: 87%  \n\ud83c\udf27 Rain: 0.0mm  \n\u2601\ufe0f Condition: Partly cloudy\n\n\ud83c\udf3e **Impact on Farming**\n- Normal conditions for field work.\n\n\u26a0\ufe0f **Action**\n- Follow regular irrigation schedule.",
+            "timestamp": "2026-02-26T15:50:33.620353",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 1973,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "today climate in chennai",
+            "timestamp": "2026-02-26T15:50:54.311826",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Location: Chennai**\n\n\ud83c\udf21 Temp: 25.8\u00b0C  \n\ud83d\udca7 Humidity: 82%  \n\ud83c\udf27 Rain: 0.0mm  \n\u2601\ufe0f Condition: Mainly clear\n\n\ud83c\udf3e **Impact on Farming**\n- Normal conditions for field work.\n\n\u26a0\ufe0f **Action**\n- Follow regular irrigation schedule.",
+            "timestamp": "2026-02-26T15:50:54.311826",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 2325,
+              "context_used": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226155749",
+    "_id": "31bc5b9e2308493580354f03",
+    "created_at": "2026-02-26T15:57:49.571241",
+    "updated_at": "2026-02-26T15:57:49.571241",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 96,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226160247",
+    "_id": "2aa1e2581bb5481e89c8394b",
+    "created_at": "2026-02-26T16:02:47.151001",
+    "updated_at": "2026-02-26T16:04:55.367619",
+    "summary": {
+      "total_messages": 16,
+      "user_messages": 8,
+      "assistant_messages": 8,
+      "total_tokens": 408,
+      "agriculture_queries": 7,
+      "non_agriculture_queries": 1
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "your name",
+            "timestamp": "2026-02-26T16:03:07.800776",
+            "metadata": {
+              "agriculture_related": false
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\u26a0\ufe0f This system supports agriculture-related questions only.",
+            "timestamp": "2026-02-26T16:03:07.800776",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 1113,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "best crop in india this seaseon",
+            "timestamp": "2026-02-26T16:03:22.613691",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf3e **Best Crop Advice**\n\ud83d\udccc Key Points:\n\u2022 \ud83c\udf31 Best Crop in India This Season \ud83d\udccc Key Points: \u2022 The best crop in India varies by season and region\n\u2022 \u2022 However, some of the top crops in India include rice, wheat, and sugarcane\n\u26a0\ufe0f Risk: Wrong crop choice can reduce yield if season mismatches.\n\ud83c\udfaf Action: Pick crop after checking water, soil, and market demand.\n\ud83e\udde0 Intent: best_crop\n\ud83d\udcca Confidence: Medium\n\ud83d\udd0e Why:\n\u2022 Location considered: India",
+            "timestamp": "2026-02-26T16:03:22.613691",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 91,
+              "response_time_ms": 1360,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Government schemes for farmers",
+            "timestamp": "2026-02-26T16:03:35.640713",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udfdb **Government Scheme**\n\ud83d\udccc Key Points:\n\u2022 \ud83c\udf3e Government Schemes for Farmers \ud83d\udccc Key Points: \u2022 PM-KISAN scheme provides \u20b96,000 per year to farmers in three equal installments\n\u2022 \u2022 Pradhan Mantri Fasal Bima Yojana offers crop insurance against natural calamities\n\u26a0\ufe0f Risk: Scheme terms can change by state updates.\n\ud83c\udfaf Action: Verify eligibility and deadline on official portal.\n\ud83e\udde0 Intent: government_scheme\n\ud83d\udcca Confidence: High\n\ud83d\udd0e Why:\n\u2022 Location considered: Farmer",
+            "timestamp": "2026-02-26T16:03:35.640713",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 84,
+              "response_time_ms": 2793,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "How to test my soil health?",
+            "timestamp": "2026-02-26T16:03:50.988579",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf31 **Soil Health**\n\ud83d\udccc Key Points:\n\u2022 \ud83c\udf3e Soil Testing \ud83d\udccc Key Points: \u2022 Soil testing is essential for understanding your soil's nutrient content and pH level\n\u2022 \u2022 It helps in making informed decisions about fertilizer application and crop selection\n\u26a0\ufe0f Risk: Without lab report, recommendation precision is limited.\n\ud83c\udfaf Action: Do a soil test before major nutrient decisions.\n\ud83e\udde0 Intent: soil_testing\n\ud83d\udcca Confidence: High\n\ud83d\udd0e Why:\n\u2022 Location considered: villupuram",
+            "timestamp": "2026-02-26T16:03:50.988579",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 101,
+              "response_time_ms": 1838,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "all plant name list",
+            "timestamp": "2026-02-26T16:04:16.969705",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf3e **Crop Guidance**\n\ud83d\udccc Key Points:\n\u2022 \ud83c\udf31 Crop Information \ud83d\udccc Key Points: \u2022 List of major crops grown in India \u2022 Crops suitable for different regions and seasons \u26a0\ufe0f Risk: This list is not exhaustive and may vary based on regional conditions\n\u2022 \ud83c\udfaf Action: Consult local agricultural experts or government resources for specific crop recommendations\n\u26a0\ufe0f Risk: General guidance may vary by local soil and irrigation.\n\ud83c\udfaf Action: Confirm with local season and irrigation availability.\n\ud83e\udde0 Intent: crop_info\n\ud83d\udcca Confidence: Medium\n\ud83d\udd0e Why:\n\u2022 Location considered: villupuram",
+            "timestamp": "2026-02-26T16:04:16.969705",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 132,
+              "response_time_ms": 2280,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "today cimate",
+            "timestamp": "2026-02-26T16:04:46.290378",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Weather Update**\n\ud83d\udccc Key Points:\n\u2022 Weather update unavailable. Try again later.\n\u2022 Old location data is not reused silently.\n\u26a0\ufe0f Risk: Decision confidence is low without live weather.\n\ud83c\udfaf Action: Retry with district after a short time.\n\ud83e\udde0 Intent: weather_check\n\ud83d\udcca Confidence: Low\n\ud83d\udd0e Why:\n\u2022 Location considered: Farmer\n\u2022 Weather API fallback triggered",
+            "timestamp": "2026-02-26T16:04:46.290378",
+            "metadata": {
+              "source": "NONE",
+              "tokens_used": 0,
+              "response_time_ms": 2015,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "date",
+            "timestamp": "2026-02-26T16:04:55.367619",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf3e **Utility Date**\n\ud83d\udccc Key Points:\n\u2022 Today is 26 February 2026, Thursday.\n\u2022 Useful for planning spray, irrigation, and harvest logs.\n\u26a0\ufe0f Risk: Date alone is not enough for crop decision.\n\ud83c\udfaf Action: Ask with crop and district for actionable advice.\n\ud83e\udde0 Intent: utility_date\n\ud83d\udcca Confidence: High\n\ud83d\udd0e Why:\n\u2022 Utility date query detected",
+            "timestamp": "2026-02-26T16:04:55.367619",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 1679,
+              "context_used": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226162912",
+    "_id": "ac0c73990d2640a59e5dc101",
+    "created_at": "2026-02-26T16:29:12.601616",
+    "updated_at": "2026-02-26T16:29:12.602624",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226163605",
+    "_id": "7433536ee5fb42e682d16231",
+    "created_at": "2026-02-26T16:36:05.631686",
+    "updated_at": "2026-02-26T16:36:05.631686",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226165126",
+    "_id": "5e4436265be34c13a680edd4",
+    "created_at": "2026-02-26T16:51:26.473584",
+    "updated_at": "2026-02-26T16:51:26.473584",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226183300",
+    "_id": "31c6adf4af724c29b0b9c7f3",
+    "created_at": "2026-02-26T18:33:00.537467",
+    "updated_at": "2026-02-26T18:33:00.537467",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260226190811",
+    "_id": "cbfd816365004be0b1eb1501",
+    "created_at": "2026-02-26T19:08:11.834990",
+    "updated_at": "2026-02-26T19:22:36.719447",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 179,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "How to test my soil health?",
+            "timestamp": "2026-02-26T19:08:18.915953",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf31 **Soil Health**\n\ud83d\udccc Key Points:\n\u2022 \ud83c\udf3e Soil Testing Collect a soil sample from the field, preferably from the top 8-10 inches of soil\n\u2022 Use a soil auger or shovel to collect the sample, and mix it well to create a representative sample\n\u26a0\ufe0f Risk: Without lab report, recommendation precision is limited.\n\ud83c\udfaf Action: Do a soil test before major nutrient decisions.\n\ud83e\udde0 Intent: soil_testing\n\ud83d\udcca Confidence: High\n\ud83d\udd0e Why:\n\u2022 Location considered: villupuram",
+            "timestamp": "2026-02-26T19:08:18.915953",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 179,
+              "response_time_ms": 2186,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "hi",
+            "timestamp": "2026-02-26T19:22:36.693809",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf3e **ULAGA_UNAVU Assistant**\n\ud83d\udccc Key Points:\n\u2022 **Hello!** I'm ULAGA_UNAVU - Smart Agriculture AI Assistant.\n\u2022 Ask crop, soil, weather, market, scheme, or news question.\n\u26a0\ufe0f Risk: No risk.\n\ud83c\udfaf Action: Send your farming query with crop and district for best output.\n\ud83e\udde0 Intent: greeting\n\ud83d\udcca Confidence: High\n\ud83d\udd0e Why:\n\u2022 Greeting intent detected",
+            "timestamp": "2026-02-26T19:22:36.693809",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 5813,
+              "context_used": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260227053704",
+    "_id": "91baa60ac04449509fef7fff",
+    "created_at": "2026-02-27T05:37:04.642713",
+    "updated_at": "2026-02-27T05:37:04.642713",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 59,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260227065013",
+    "_id": "2c9312f1221b48b6bdab55ab",
+    "created_at": "2026-02-27T06:50:13.798935",
+    "updated_at": "2026-02-27T06:51:12.780383",
+    "summary": {
+      "total_messages": 8,
+      "user_messages": 4,
+      "assistant_messages": 4,
+      "total_tokens": 233,
+      "agriculture_queries": 4
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "What is your main crop in the current season?",
+            "timestamp": "2026-02-27T06:50:25.931934",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "In the current season, the best crop to grow in The district of The state is typically rice. This is because the region's climate and soil conditions are well-suited for rice cultivation. Additionally, rice is a staple crop in many Indian states and is in high demand.",
+            "timestamp": "2026-02-27T06:50:25.931934",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 47,
+              "response_time_ms": 2171,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "How can I reduce soil erosion in my farm near Villupuram?",
+            "timestamp": "2026-02-27T06:51:03.600434",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Soil erosion is a significant concern in Tamil Nadu, especially in areas like Villupuram. To reduce soil erosion, it's essential to understand the soil type and its composition. You can conduct a soil test to determine the pH level, nutrient content, and texture of your soil. This information will help you choose the right crops and fertilizers for your farm. Additionally, implementing conservation tillage practices, such as no-till or reduced-till farming, can also help minimize soil disturbance and erosion.",
+            "timestamp": "2026-02-27T06:51:03.600434",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 79,
+              "response_time_ms": 1770,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "What is the current soil type in my Villupuram farm?",
+            "timestamp": "2026-02-27T06:51:12.779388",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Soil testing is a crucial step in understanding the fertility and composition of your soil. In Tamil Nadu, especially in the Villupuram district, the soil types can vary greatly depending on the location and the type of crops grown. Generally, the soil in this region is classified as red and laterite soil, which is rich in iron and aluminum. However, it can also be acidic and prone to nutrient deficiencies if not managed properly. To determine the exact soil type and its characteristics, it's recommended to conduct a comprehensive soil test, which will provide you with detailed information on pH levels, nutrient content, and other essential parameters.",
+            "timestamp": "2026-02-27T06:51:12.779388",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 107,
+              "response_time_ms": 3252,
+              "context_used": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260227071041",
+    "_id": "a08b52115fda436588c0027f",
+    "created_at": "2026-02-27T07:10:41.354594",
+    "updated_at": "2026-02-27T07:10:41.354594",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260227071340",
+    "_id": "68206a5907084d0796ee1850",
+    "created_at": "2026-02-27T07:13:40.349688",
+    "updated_at": "2026-02-27T07:13:56.255116",
+    "summary": {
+      "total_messages": 4,
+      "user_messages": 2,
+      "assistant_messages": 2,
+      "total_tokens": 22,
+      "agriculture_queries": 2
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0bb1\u0bae\u0bcd \u0ba4\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0bae\u0bc8\u0baf\u0bc8 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd?",
+            "timestamp": "2026-02-27T07:13:56.254113",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83e\udda0 **Disease Support**\n\ud83d\udccc Key Points:\n\u2022 \u0b9a\u0bbe\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbe\u0ba9 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\n\u2022 \u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bcb\u0baf\u0bc8 \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9a\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0baa\u0bb0\u0bbe\u0bae\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1\n\ud83d\udcca Score: 80-100\n\u26a0\ufe0f Risk: Severe symptoms require field verification.\n\ud83c\udfaf Action: Consult local agri officer if symptoms spread rapidly.\n\ud83e\udde0 Intent: disease_help\n\ud83d\udcc8 Confidence: High\n\ud83d\udd0e Why:\n\u2022 Crop considered: Rice\n\u2022 Location considered: villupuram",
+            "timestamp": "2026-02-27T07:13:56.254113",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 22,
+              "response_time_ms": 6552,
+              "context_used": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_23",
+    "session_id": "session_20260227072655",
+    "_id": "611a7d35839744d4b24e2c35",
+    "created_at": "2026-02-27T07:26:55.952520",
+    "updated_at": "2026-02-27T07:27:28.012887",
+    "summary": {
+      "total_messages": 4,
+      "user_messages": 2,
+      "assistant_messages": 2,
+      "total_tokens": 76,
+      "agriculture_queries": 2
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "What is your current yield per acre of rice in Villupuram?",
+            "timestamp": "2026-02-27T07:27:28.012887",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83d\udcb0 **Market Snapshot**\n\ud83d\udccc Key Points:\n\u2022 Current mandi price: \u20b92280.0\n\u2022 \u26a0\ufe0f Insufficient data for prediction.\n\ud83d\udcca Score: 80-100\n\u26a0\ufe0f Risk: Single-day volatility may affect sale decision.\n\ud83c\udfaf Action: Use trend + logistics before final sell decision.\n\ud83e\udde0 Intent: market_price\n\ud83d\udcc8 Confidence: High\n\ud83d\udd0e Why:\n\u2022 Crop considered: Rice\n\u2022 Location considered: Villupuram",
+            "timestamp": "2026-02-27T07:27:28.012887",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 51,
+              "response_time_ms": 26675,
+              "context_used": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_24",
+    "session_id": "session_20260227072915",
+    "_id": "e0a7779cc9244840910162ce",
+    "created_at": "2026-02-27T07:29:15.635412",
+    "updated_at": "2026-02-27T07:29:24.852753",
+    "summary": {
+      "total_messages": 4,
+      "user_messages": 2,
+      "assistant_messages": 2,
+      "total_tokens": 88,
+      "agriculture_queries": 2
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "How much rainfall can we expect in the upcoming season?",
+            "timestamp": "2026-02-27T07:29:24.851753",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Weather Update**\n\ud83d\udccc Key Points:\n\u2022 Required data unavailable.\n\u2022 District-based forecast needed for accurate advice.\n\ud83d\udcca Score: 0-59\n\u26a0\ufe0f Risk: Decision confidence is low without live weather.\n\ud83c\udfaf Action: Please provide district or state.\n\ud83e\udde0 Intent: weather_check\n\ud83d\udcc8 Confidence: Low\n\ud83d\udd0e Why:\n\u2022 Location considered: The Upcoming\n\u2022 Weather API fallback triggered",
+            "timestamp": "2026-02-27T07:29:24.851753",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 88,
+              "response_time_ms": 1332,
+              "context_used": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_24",
+    "session_id": "session_20260227074030",
+    "_id": "23b1f38597fb42939036a8d2",
+    "created_at": "2026-02-27T07:40:30.928527",
+    "updated_at": "2026-02-27T07:40:30.928527",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_26",
+    "session_id": "session_20260228121024",
+    "_id": "111df5918b554f1fbae60b83",
+    "created_at": "2026-02-28T12:10:24.262555",
+    "updated_at": "2026-02-28T12:10:24.262555",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_26",
+    "session_id": "session_20260228121132",
+    "_id": "e673947bf54440eb82f84b66",
+    "created_at": "2026-02-28T12:11:32.232997",
+    "updated_at": "2026-02-28T12:11:32.232997",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_26",
+    "session_id": "session_20260228121134",
+    "_id": "de5abd373b4247b6803445af",
+    "created_at": "2026-02-28T12:11:34.371500",
+    "updated_at": "2026-02-28T12:11:34.371500",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260228151030",
+    "_id": "19151d30d6bd4027b94cf70c",
+    "created_at": "2026-02-28T15:10:30.164452",
+    "updated_at": "2026-02-28T15:11:18.681129",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 140,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Market timing",
+            "timestamp": "2026-02-28T15:11:07.150555",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83d\udcb0 **Market Snapshot**\n\ud83d\udccc Key Points:\n\u2022 District is required for live weather or market lookup.\n\u2022 Latest location will override previous memory.\n\ud83d\udcca Score: 0-59\n\u26a0\ufe0f Risk: Live data cannot be fetched without district.\n\ud83c\udfaf Action: Please provide district or state.\n\ud83e\udde0 Intent: market_price\n\ud83d\udcc8 Confidence: Low\n\ud83d\udd0e Why:\n\u2022 Missing location in request",
+            "timestamp": "2026-02-28T15:11:07.150555",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 1162,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Disease check",
+            "timestamp": "2026-02-28T15:11:18.680132",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83e\udda0 **Disease Support**\n\ud83d\udccc Key Points:\n\u2022 Required data unavailable\n\u2022 Share crop and district for higher precision.\n\ud83d\udcca Score: 0-59\n\u26a0\ufe0f Risk: Severe symptoms require field verification.\n\ud83c\udfaf Action: Consult local agri officer if symptoms spread rapidly.\n\ud83e\udde0 Intent: disease_help\n\ud83d\udcc8 Confidence: Low\n\ud83d\udd0e Why:\n\u2022 Used available query context",
+            "timestamp": "2026-02-28T15:11:18.680132",
+            "metadata": {
+              "source": "NONE",
+              "tokens_used": 0,
+              "response_time_ms": 2305,
+              "context_used": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260228151050",
+    "_id": "0d43dda6a3af42da9887106f",
+    "created_at": "2026-02-28T15:10:50.282829",
+    "updated_at": "2026-02-28T15:10:50.282829",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260228160822",
+    "_id": "fa1bfef4f5a3464c8540ecc2",
+    "created_at": "2026-02-28T16:08:22.817881",
+    "updated_at": "2026-02-28T16:08:22.817881",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 90,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260228182123",
+    "_id": "57b82d4e078a4112bd79c39d",
+    "created_at": "2026-02-28T18:21:23.208231",
+    "updated_at": "2026-02-28T18:21:23.208231",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 94,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260228184439",
+    "_id": "64ed98fcf24c4140a10a9cf1",
+    "created_at": "2026-02-28T18:44:39.004321",
+    "updated_at": "2026-02-28T18:44:39.004321",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 125,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260228191345",
+    "_id": "86d57dfd57c443c8afa93984",
+    "created_at": "2026-02-28T19:13:45.477360",
+    "updated_at": "2026-02-28T19:13:45.477360",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260307050213",
+    "_id": "ecd842c5b0334ae797efb50b",
+    "created_at": "2026-03-07T05:02:13.933924",
+    "updated_at": "2026-03-07T05:03:52.149787",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 115,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "today date",
+            "timestamp": "2026-03-07T05:03:09.995550",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Today is 07 March 2026, Saturday. Share crop + district if you want planning advice.",
+            "timestamp": "2026-03-07T05:03:09.995550",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 1030,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "paddy, tiruvannamalai",
+            "timestamp": "2026-03-07T05:03:52.145781",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Paddy is a widely cultivated crop in Tamil Nadu, and Tiruvannamalai district is known for its fertile soil and suitable climate for paddy cultivation. The crop requires a well-planned irrigation system, adequate fertilizers, and pest management to ensure a good yield. In Tiruvannamalai, the ideal time for paddy cultivation is during the southwest monsoon season, which typically starts from June to September.",
+            "timestamp": "2026-03-07T05:03:52.145781",
+            "metadata": {
+              "source": "LLM",
+              "tokens_used": 62,
+              "response_time_ms": 3020,
+              "context_used": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260307083914",
+    "_id": "4ba466db59fa49dc80a2822c",
+    "created_at": "2026-03-07T08:39:14.304420",
+    "updated_at": "2026-03-07T08:39:14.304420",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260307135145",
+    "_id": "df71c2996bfe4e6386f18564",
+    "created_at": "2026-03-07T13:51:45.651141",
+    "updated_at": "2026-03-07T13:51:45.651141",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 76,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_29",
+    "session_id": "session_20260307142243",
+    "_id": "9a3dc69fa65f4a97a9ccf711",
+    "created_at": "2026-03-07T14:22:43.628371",
+    "updated_at": "2026-03-07T14:22:43.628371",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 127,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260307150728",
+    "_id": "b226a8b62a74427d866cb116",
+    "created_at": "2026-03-07T15:07:28.888685",
+    "updated_at": "2026-03-07T15:07:28.888685",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "session_id": "session_20260307171739",
+    "_id": "ff9d40a03bac4a7da6a000eb",
+    "created_at": "2026-03-07T17:17:39.940188",
+    "updated_at": "2026-03-07T17:17:39.940188",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 98,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307174253",
+    "_id": "2740f2d069814e7192c599c0",
+    "created_at": "2026-03-07T17:42:53.678080",
+    "updated_at": "2026-03-07T17:42:53.678080",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 125,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307174259",
+    "_id": "f4b52204f69a4eb3abbf2179",
+    "created_at": "2026-03-07T17:42:59.155633",
+    "updated_at": "2026-03-07T17:42:59.155633",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 83,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307175009",
+    "_id": "0d7ff2ab012642e9a8216619",
+    "created_at": "2026-03-07T17:50:09.036992",
+    "updated_at": "2026-03-07T17:50:09.036992",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 126,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307175634",
+    "_id": "9e6837486c1e41eba652d871",
+    "created_at": "2026-03-07T17:56:34.625952",
+    "updated_at": "2026-03-07T17:56:34.625952",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 98,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307175708",
+    "_id": "b228913590a3427da03154c7",
+    "created_at": "2026-03-07T17:57:08.971865",
+    "updated_at": "2026-03-07T17:57:08.971865",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 90,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307190319",
+    "_id": "884a4edafc7e4e67bc2e2a0d",
+    "created_at": "2026-03-07T19:03:19.991796",
+    "updated_at": "2026-03-07T19:03:19.991796",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 71,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307191419",
+    "_id": "a84302a6e22046dc954b2493",
+    "created_at": "2026-03-07T19:14:19.500711",
+    "updated_at": "2026-03-07T19:14:19.500711",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307191422",
+    "_id": "ed8fcb321dad4bd0bd5357fa",
+    "created_at": "2026-03-07T19:14:22.212570",
+    "updated_at": "2026-03-07T19:14:22.212570",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307195708",
+    "_id": "d619b64152294c0fbefc9479",
+    "created_at": "2026-03-07T19:57:08.641494",
+    "updated_at": "2026-03-07T19:57:08.641494",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 26,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307205417",
+    "_id": "c92f2ca0c10e4f62afec3265",
+    "created_at": "2026-03-07T20:54:17.652990",
+    "updated_at": "2026-03-07T20:58:03.663293",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 207,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Weather advice",
+            "timestamp": "2026-03-07T20:54:45.514336",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83c\udf26 **Weather Update**\n\ud83d\udccc Key Points:\n\u2022 Weather: Fog, Temperature: 23.8\u00b0C\n\u2022 Rain estimate: 0.0 mm\n\ud83d\udcca Score: 80-100\n\u26a0\ufe0f Risk: Weather can change quickly at local level.\n\ud83c\udfaf Action: Plan spray and irrigation based on short-term forecast.\n\ud83e\udde0 Intent: weather_check\n\ud83d\udcc8 Confidence: High\n\ud83d\udd0e Why:\n\u2022 Crop considered: Potato\n\u2022 Location considered: Villupuram",
+            "timestamp": "2026-03-07T20:54:45.514336",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 84,
+              "response_time_ms": 5087,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Disease check",
+            "timestamp": "2026-03-07T20:58:03.663293",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "\ud83e\udda0 **Disease Support**\n\ud83d\udccc Key Points:\n\u2022 Disease Check for Potato in Rabi Season Summary: We've identified two potential diseases affecting crops in your region: Bacterial Leaf Blight of Rice and Powdery Mildew of Wheat\n\u2022 However, since you've mentioned Potato, we'll focus on diseases that affect this crop\n\ud83d\udcca Score: 80-100\n\u26a0\ufe0f Risk: Severe symptoms require field verification.\n\ud83c\udfaf Action: Consult local agri officer if symptoms spread rapidly.\n\ud83e\udde0 Intent: disease_help\n\ud83d\udcc8 Confidence: High\n\ud83d\udd0e Why:\n\u2022 Crop considered: Potato\n\u2022 Location considered: Villupuram",
+            "timestamp": "2026-03-07T20:58:03.663293",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 123,
+              "response_time_ms": 1117,
+              "context_used": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260307210110",
+    "_id": "60c18e7179854c429a05a864",
+    "created_at": "2026-03-07T21:01:10.747757",
+    "updated_at": "2026-03-07T21:04:32.720502",
+    "summary": {
+      "total_messages": 6,
+      "user_messages": 3,
+      "assistant_messages": 3,
+      "total_tokens": 0,
+      "agriculture_queries": 3
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "hi",
+            "timestamp": "2026-03-07T21:04:02.832197",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "**Hello!** I'm ULAGA_UNAVU - Smart Agriculture AI Assistant. Tell me your crop and district for realtime guidance.",
+            "timestamp": "2026-03-07T21:04:02.832197",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 504,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "black soil which crop best",
+            "timestamp": "2026-03-07T21:04:32.720502",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Your current active crop is Potato.",
+            "timestamp": "2026-03-07T21:04:32.720502",
+            "metadata": {
+              "source": "DATASTORE",
+              "tokens_used": 0,
+              "response_time_ms": 3520,
+              "context_used": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260310105104",
+    "_id": "9a7ff2a537fc4df4985bb321",
+    "created_at": "2026-03-10T10:51:04.983216",
+    "updated_at": "2026-03-10T10:51:04.983216",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 80,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_32",
+    "session_id": "session_20260310161353",
+    "_id": "b622ffbec5434e3781d99717",
+    "created_at": "2026-03-10T16:13:54.005265",
+    "updated_at": "2026-03-10T16:13:54.005265",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 159,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_33",
+    "session_id": "session_20260310163217",
+    "_id": "9992ee36312548d08674d3b2",
+    "created_at": "2026-03-10T16:32:17.487820",
+    "updated_at": "2026-03-10T16:32:17.487820",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260310164759",
+    "_id": "d1d6b95c89a5439dbeae0969",
+    "created_at": "2026-03-10T16:47:59.973418",
+    "updated_at": "2026-03-10T16:47:59.973418",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "session_id": "session_20260310165354",
+    "_id": "b27d3b120ac34ab1a23824d0",
+    "created_at": "2026-03-10T16:53:54.625323",
+    "updated_at": "2026-03-10T17:14:45.749048",
+    "summary": {
+      "total_messages": 8,
+      "user_messages": 4,
+      "assistant_messages": 4,
+      "total_tokens": 264,
+      "agriculture_queries": 4
+    },
+    "messages": [
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "today date",
+            "timestamp": "2026-03-10T17:12:10.891148",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Today is 10 March 2026, Tuesday. Share crop + district if you want planning advice.",
+            "timestamp": "2026-03-10T17:12:10.891148",
+            "metadata": {
+              "source": "SYSTEM",
+              "tokens_used": 0,
+              "response_time_ms": 6424,
+              "context_used": false
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "tiruchi best crop this season",
+            "timestamp": "2026-03-10T17:13:07.761979",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Tiruchi in Tamil Nadu is a great place for farming, especially during the Rabi season. Considering the high water availability, I'd recommend the following crops that grow well in this region and season:\n\nThe ideal crops for Tiruchi in Rabi season are:\n- Potato (Solana tuberosum) - It's already a good choice given the water availability.\n- Wheat - A popular Rabi crop, wheat requires moderate water and can thrive in Tiruchi's climate.\n- Mustard - Another good option, mustard needs less water and can be a profitable choice for farmers in the region.",
+            "timestamp": "2026-03-10T17:13:07.761979",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 94,
+              "response_time_ms": 7964,
+              "context_used": true
+            }
+          }
+        ]
+      },
+      {
+        "$each": [
+          {
+            "role": "user",
+            "content": "Tiruchirappalli  best crop this season",
+            "timestamp": "2026-03-10T17:14:45.741527",
+            "metadata": {
+              "agriculture_related": true
+            }
+          },
+          {
+            "role": "assistant",
+            "content": "Tiruchirappalli in Tamil Nadu during the Rabi season is an ideal place for growing crops that require a lot of water. Considering the high water availability, I would recommend crops like Potato, which thrives in such conditions. Other suitable options would be sugarcane, rice, and cotton. These crops are in high demand in the local market and can fetch a good price for farmers.",
+            "timestamp": "2026-03-10T17:14:45.741527",
+            "metadata": {
+              "source": "LLM+RAG",
+              "tokens_used": 64,
+              "response_time_ms": 12388,
+              "context_used": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310172511",
+    "_id": "048d819510fa4db594ea1636",
+    "created_at": "2026-03-10T17:25:12.026067",
+    "updated_at": "2026-03-10T17:25:12.026067",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310174139",
+    "_id": "99624f16ecdd4a60b67e4409",
+    "created_at": "2026-03-10T17:41:39.198720",
+    "updated_at": "2026-03-10T17:41:39.199725",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310181619",
+    "_id": "e2c1ebdcf97b4752a029bf16",
+    "created_at": "2026-03-10T18:16:19.273685",
+    "updated_at": "2026-03-10T18:16:19.273685",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310182132",
+    "_id": "f20968bf3ba04ab59826d299",
+    "created_at": "2026-03-10T18:21:32.789221",
+    "updated_at": "2026-03-10T18:21:32.789221",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310182958",
+    "_id": "ca56e003eba04b9ea24d87aa",
+    "created_at": "2026-03-10T18:29:58.941148",
+    "updated_at": "2026-03-10T18:29:58.941148",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310184511",
+    "_id": "5615bf6ae7374ccf9afbf399",
+    "created_at": "2026-03-10T18:45:11.298011",
+    "updated_at": "2026-03-10T18:45:11.298011",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310185145",
+    "_id": "7525e930aede4ae5a4f343bf",
+    "created_at": "2026-03-10T18:51:45.436116",
+    "updated_at": "2026-03-10T18:51:45.436116",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "session_id": "session_20260310185620",
+    "_id": "84e3222b3dfb40d48eeee28c",
+    "created_at": "2026-03-10T18:56:22.050584",
+    "updated_at": "2026-03-10T18:56:22.050584",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260316164408",
+    "_id": "a67c385c97df4782bf0242b3",
+    "created_at": "2026-03-16T16:44:08.238242",
+    "updated_at": "2026-03-16T16:44:08.238242",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 75,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260316172843",
+    "_id": "9f6f472e666c43e68d91c388",
+    "created_at": "2026-03-16T17:28:43.122091",
+    "updated_at": "2026-03-16T17:28:43.139722",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260316173215",
+    "_id": "254cc527ce0b4c52b7519740",
+    "created_at": "2026-03-16T17:32:15.590274",
+    "updated_at": "2026-03-16T17:32:15.590274",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260316173224",
+    "_id": "8564fd31e7204c34b6a3447b",
+    "created_at": "2026-03-16T17:32:24.394857",
+    "updated_at": "2026-03-16T17:32:24.394857",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260318150924",
+    "_id": "eef2c839e52d45af8f8c783f",
+    "created_at": "2026-03-18T15:09:24.636046",
+    "updated_at": "2026-03-18T15:09:24.636046",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 94,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260318151315",
+    "_id": "5fbdb3e9095e4ab4b994309b",
+    "created_at": "2026-03-18T15:13:15.779893",
+    "updated_at": "2026-03-18T15:13:15.779893",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 114,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260318160116",
+    "_id": "41e3772b32cb41d2aa83c267",
+    "created_at": "2026-03-18T16:01:16.925682",
+    "updated_at": "2026-03-18T16:01:16.925682",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 199,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260318170649",
+    "_id": "b040642ff5c04350bde73652",
+    "created_at": "2026-03-18T17:06:49.391606",
+    "updated_at": "2026-03-18T17:06:49.391606",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260318170707",
+    "_id": "b72ecbc7d39c4599b1445279",
+    "created_at": "2026-03-18T17:07:07.124460",
+    "updated_at": "2026-03-18T17:07:07.124767",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "non_agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260404220403",
+    "_id": "f79922d866734a72af069501",
+    "created_at": "2026-04-04T22:04:03.930414",
+    "updated_at": "2026-04-04T22:04:03.930414",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "session_id": "session_20260410050513",
+    "_id": "520b3ea40ee448c991f35020",
+    "created_at": "2026-04-10T05:05:13.207047",
+    "updated_at": "2026-04-10T05:05:13.207047",
+    "summary": {
+      "total_messages": 2,
+      "user_messages": 1,
+      "assistant_messages": 1,
+      "total_tokens": 0,
+      "agriculture_queries": 1
+    }
+  }
+]

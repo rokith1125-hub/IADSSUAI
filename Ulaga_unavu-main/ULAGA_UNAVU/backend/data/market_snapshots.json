@@ -1,0 +1,613 @@
+[
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Rice",
+    "quantity": 100.0,
+    "harvest_date": "2026-02-20",
+    "storage_type": "normal",
+    "price_data": {
+      "mandi_price": 0,
+      "broker_price": 0,
+      "price_trend": "DOWN"
+    },
+    "market_decision": {
+      "decision": "SELL",
+      "reasoning": [
+        "Conservative approach - current prices are reasonable",
+        "Price trend: DOWN (12.0%)"
+      ],
+      "confidence": 0.6,
+      "priority": "High"
+    },
+    "shelf_life_analysis": {
+      "days_remaining": 361,
+      "risk_level": "Low",
+      "color": "green",
+      "storage_advice": "Store in dry, ventilated area. Use airtight containers"
+    },
+    "comparison_analysis": {
+      "best_option": "MANDI",
+      "price_difference": 0
+    },
+    "financial_projections": {
+      "sell_now_mandi": 0.0,
+      "sell_now_broker": 0.0,
+      "sell_future": 0.0,
+      "transport_cost": 0.0,
+      "effective_mandi": 0.0,
+      "effective_broker": 0.0,
+      "best_option": "MANDI"
+    },
+    "captured_at": "2026-02-24T08:45:08.894874",
+    "location": "Coimbatore",
+    "farmer_action": {
+      "action_taken": "No Action"
+    },
+    "is_active": true,
+    "notes": "",
+    "_id": "72decf7b-9138-45bb-b032-",
+    "created_at": "2026-02-24T08:45:08.922821",
+    "updated_at": "2026-02-24T08:45:08.922821"
+  },
+  {
+    "user_id": "Agri_4",
+    "crop_name": "Wheat",
+    "captured_at": "2026-02-24T09:04:46.123967",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "9f996eadc39c43e3b6dd6555",
+    "created_at": "2026-02-24T09:04:46.127677",
+    "updated_at": "2026-02-24T09:04:46.127677"
+  },
+  {
+    "user_id": "Agri_5",
+    "crop_name": "Wheat",
+    "captured_at": "2026-02-24T09:05:22.114663",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "92880aa661c74c9b89d57b2d",
+    "created_at": "2026-02-24T09:05:22.114663",
+    "updated_at": "2026-02-24T09:05:22.114663"
+  },
+  {
+    "user_id": "Agri_6",
+    "crop_name": "Wheat",
+    "captured_at": "2026-02-24T09:25:46.721961",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "dd2fd49ca21d4daf8b7b74a3",
+    "created_at": "2026-02-24T09:25:46.729138",
+    "updated_at": "2026-02-24T09:25:46.729138"
+  },
+  {
+    "user_id": "Agri_6",
+    "crop_name": "Wheat",
+    "quantity": 100.0,
+    "harvest_date": "2026-02-20",
+    "storage_type": "normal",
+    "price_data": {
+      "mandi_price": 0,
+      "broker_price": 0,
+      "price_trend": "DOWN"
+    },
+    "market_decision": {
+      "decision": "SELL",
+      "reasoning": [
+        "Conservative approach - current prices are reasonable",
+        "Price trend: DOWN (4.9%)"
+      ],
+      "confidence": 0.6,
+      "priority": "High"
+    },
+    "shelf_life_analysis": {
+      "days_remaining": 176,
+      "risk_level": "Low",
+      "color": "green",
+      "storage_advice": "Store in dry, ventilated area. Use airtight containers"
+    },
+    "comparison_analysis": {
+      "best_option": "MANDI",
+      "price_difference": 0
+    },
+    "financial_projections": {
+      "sell_now_mandi": 0.0,
+      "sell_now_broker": 0.0,
+      "sell_future": 0.0,
+      "transport_cost": 0.0,
+      "effective_mandi": 0.0,
+      "effective_broker": 0.0,
+      "best_option": "MANDI"
+    },
+    "captured_at": "2026-02-24T09:26:12.558398",
+    "location": "Coimbatore",
+    "farmer_action": {
+      "action_taken": "No Action"
+    },
+    "is_active": true,
+    "notes": "",
+    "_id": "3998af8bc22f46e5a77286c2",
+    "created_at": "2026-02-24T09:26:12.558398",
+    "updated_at": "2026-02-24T09:26:12.558398"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "captured_at": "2026-02-24T10:05:40.443230",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "6aa081e8adc04a488fb349d1",
+    "created_at": "2026-02-24T10:05:40.491400",
+    "updated_at": "2026-02-24T10:05:40.491400"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "captured_at": "2026-02-24T10:11:28.854420",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "ec37faae7f53448890820b5c",
+    "created_at": "2026-02-24T10:11:28.856908",
+    "updated_at": "2026-02-24T10:11:28.856908"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "captured_at": "2026-02-24T10:15:53.763823",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "57ef7bae3f1b44bc8dfd8a2f",
+    "created_at": "2026-02-24T10:15:53.763823",
+    "updated_at": "2026-02-24T10:15:53.763823"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "captured_at": "2026-02-24T12:42:29.283813",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "eb6a5755d7084091b77106c8",
+    "created_at": "2026-02-24T12:42:29.288235",
+    "updated_at": "2026-02-24T12:42:29.288235"
+  },
+  {
+    "user_id": "Agri_13",
+    "crop_name": "Tomato",
+    "captured_at": "2026-02-25T06:36:55.322651",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "3f43be922f264f9c90b4dd3d",
+    "created_at": "2026-02-25T06:36:55.336252",
+    "updated_at": "2026-02-25T06:36:55.336252"
+  },
+  {
+    "user_id": "Agri_16",
+    "crop_name": "rice",
+    "captured_at": "2026-02-25T06:48:12.760106",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "4ecad37021f5417dafc3b4fb",
+    "created_at": "2026-02-25T06:48:12.760106",
+    "updated_at": "2026-02-25T06:48:12.760106"
+  },
+  {
+    "user_id": "Agri_16",
+    "crop_name": "rice",
+    "quantity": 100.0,
+    "harvest_date": "2026-03-01",
+    "storage_type": "normal",
+    "price_data": {
+      "mandi_price": 0,
+      "broker_price": 0,
+      "price_trend": "DOWN"
+    },
+    "market_decision": {
+      "decision": "SELL",
+      "reasoning": [
+        "Conservative approach - current prices are reasonable",
+        "Price trend: DOWN (12.0%)"
+      ],
+      "confidence": 0.6,
+      "priority": "High"
+    },
+    "shelf_life_analysis": {
+      "days_remaining": 369,
+      "risk_level": "Low",
+      "color": "green",
+      "storage_advice": "Store in dry, ventilated area. Use airtight containers"
+    },
+    "comparison_analysis": {
+      "best_option": "MANDI",
+      "price_difference": 0
+    },
+    "financial_projections": {
+      "sell_now_mandi": 0.0,
+      "sell_now_broker": 0.0,
+      "sell_future": 0.0,
+      "transport_cost": 0.0,
+      "effective_mandi": 0.0,
+      "effective_broker": 0.0,
+      "best_option": "MANDI"
+    },
+    "captured_at": "2026-02-25T06:48:20.814442",
+    "location": "",
+    "farmer_action": {
+      "action_taken": "No Action"
+    },
+    "is_active": true,
+    "notes": "",
+    "_id": "6706c8d29d4b4c3ab189e153",
+    "created_at": "2026-02-25T06:48:20.814442",
+    "updated_at": "2026-02-25T06:48:20.814442"
+  },
+  {
+    "user_id": "Agri_17",
+    "crop_name": "rice",
+    "captured_at": "2026-02-25T06:49:03.007854",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "dba59b8720e44fd5b2e85098",
+    "created_at": "2026-02-25T06:49:03.007854",
+    "updated_at": "2026-02-25T06:49:03.007854"
+  },
+  {
+    "user_id": "Agri_17",
+    "crop_name": "rice",
+    "quantity": 100.0,
+    "harvest_date": "2026-03-01",
+    "storage_type": "normal",
+    "price_data": {
+      "mandi_price": 0,
+      "broker_price": 0,
+      "price_trend": "DOWN"
+    },
+    "market_decision": {
+      "decision": "SELL",
+      "reasoning": [
+        "Conservative approach - current prices are reasonable",
+        "Price trend: DOWN (12.0%)"
+      ],
+      "confidence": 0.6,
+      "priority": "High"
+    },
+    "shelf_life_analysis": {
+      "days_remaining": 369,
+      "risk_level": "Low",
+      "color": "green",
+      "storage_advice": "Store in dry, ventilated area. Use airtight containers"
+    },
+    "comparison_analysis": {
+      "best_option": "MANDI",
+      "price_difference": 0
+    },
+    "financial_projections": {
+      "sell_now_mandi": 0.0,
+      "sell_now_broker": 0.0,
+      "sell_future": 0.0,
+      "transport_cost": 0.0,
+      "effective_mandi": 0.0,
+      "effective_broker": 0.0,
+      "best_option": "MANDI"
+    },
+    "captured_at": "2026-02-25T06:49:12.355195",
+    "location": "",
+    "farmer_action": {
+      "action_taken": "No Action"
+    },
+    "is_active": true,
+    "notes": "",
+    "_id": "5d373fa8418c44ebb049c3e8",
+    "created_at": "2026-02-25T06:49:12.355195",
+    "updated_at": "2026-02-25T06:49:12.355195"
+  },
+  {
+    "user_id": "Agri_18",
+    "crop_name": "rice",
+    "captured_at": "2026-02-25T06:49:43.264827",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "1fe91483b62142809b8d321a",
+    "created_at": "2026-02-25T06:49:43.264827",
+    "updated_at": "2026-02-25T06:49:43.264827"
+  },
+  {
+    "user_id": "Agri_18",
+    "crop_name": "rice",
+    "quantity": 100.0,
+    "harvest_date": "2026-03-01",
+    "storage_type": "normal",
+    "price_data": {
+      "mandi_price": 0,
+      "broker_price": 0,
+      "price_trend": "DOWN"
+    },
+    "market_decision": {
+      "decision": "SELL",
+      "reasoning": [
+        "Conservative approach - current prices are reasonable",
+        "Price trend: DOWN (12.0%)"
+      ],
+      "confidence": 0.6,
+      "priority": "High"
+    },
+    "shelf_life_analysis": {
+      "days_remaining": 369,
+      "risk_level": "Low",
+      "color": "green",
+      "storage_advice": "Store in dry, ventilated area. Use airtight containers"
+    },
+    "comparison_analysis": {
+      "best_option": "MANDI",
+      "price_difference": 0
+    },
+    "financial_projections": {
+      "sell_now_mandi": 0.0,
+      "sell_now_broker": 0.0,
+      "sell_future": 0.0,
+      "transport_cost": 0.0,
+      "effective_mandi": 0.0,
+      "effective_broker": 0.0,
+      "best_option": "MANDI"
+    },
+    "captured_at": "2026-02-25T06:49:56.840422",
+    "location": "",
+    "farmer_action": {
+      "action_taken": "No Action"
+    },
+    "is_active": true,
+    "notes": "",
+    "_id": "1d4abc0faf3f403ea52f4efb",
+    "created_at": "2026-02-25T06:49:56.840422",
+    "updated_at": "2026-02-25T06:49:56.840422"
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "tomato",
+    "captured_at": "2026-02-25T08:27:43.372348",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "c9913fa5b07a4301a416bbe0",
+    "created_at": "2026-02-25T08:27:43.377359",
+    "updated_at": "2026-02-25T08:27:43.377359"
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "tomato",
+    "captured_at": "2026-02-25T08:29:13.378213",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "1ccedc79b12348c7b7332ee6",
+    "created_at": "2026-02-25T08:29:13.378213",
+    "updated_at": "2026-02-25T08:29:13.378213"
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "bulp",
+    "captured_at": "2026-02-25T10:13:35.166698",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "c431e3e5f3af4650b5bcca55",
+    "created_at": "2026-02-25T10:13:35.167836",
+    "updated_at": "2026-02-25T10:13:35.167836"
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "toamto",
+    "quantity": 50.0,
+    "harvest_date": "2026-02-26",
+    "storage_type": "normal",
+    "price_data": {
+      "mandi_price": 0,
+      "broker_price": 0,
+      "price_trend": "STABLE"
+    },
+    "market_decision": {
+      "decision": "SELL",
+      "reasoning": [
+        "Conservative approach - current prices are reasonable"
+      ],
+      "confidence": 0.6,
+      "priority": "High"
+    },
+    "shelf_life_analysis": {
+      "days_remaining": 31,
+      "risk_level": "Low",
+      "color": "green",
+      "storage_advice": "Store in dry, ventilated area"
+    },
+    "comparison_analysis": {
+      "best_option": "MANDI",
+      "price_difference": 0
+    },
+    "financial_projections": {
+      "sell_now_mandi": 0.0,
+      "sell_now_broker": 0.0,
+      "sell_future": 0.0,
+      "transport_cost": 0.0,
+      "effective_mandi": 0.0,
+      "effective_broker": 0.0,
+      "best_option": "MANDI"
+    },
+    "captured_at": "2026-02-25T10:25:31.574501",
+    "location": "villupuram",
+    "farmer_action": {
+      "action_taken": "No Action"
+    },
+    "is_active": true,
+    "notes": "",
+    "_id": "10f75c36875c4ba78a1cdd19",
+    "created_at": "2026-02-25T10:25:31.575501",
+    "updated_at": "2026-02-25T10:25:31.575501"
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "tomato",
+    "captured_at": "2026-02-25T15:57:34.970498",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "WAIT",
+      "reasoning": [
+        "Initialization snapshot"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "87cdd3026c9043b8b0372b3b",
+    "created_at": "2026-02-25T15:57:34.970498",
+    "updated_at": "2026-02-25T15:57:34.970498"
+  },
+  {
+    "user_id": "Agri_23",
+    "crop_name": "tomato",
+    "quantity": 1.0,
+    "harvest_date": "2026-02-02",
+    "storage_type": "normal",
+    "price_data": {
+      "mandi_price": 0,
+      "broker_price": 0,
+      "price_trend": "UNKNOWN"
+    },
+    "market_decision": {
+      "decision": "UNAVAILABLE",
+      "reasoning": [
+        "Real-time market prices are unavailable.",
+        "Check mandi connection or API key configuration."
+      ],
+      "confidence": 0.0,
+      "priority": "Medium"
+    },
+    "shelf_life_analysis": {
+      "days_remaining": 0,
+      "risk_level": "Unknown"
+    },
+    "comparison_analysis": {
+      "best_option": "MANDI",
+      "price_difference": 0
+    },
+    "financial_projections": {},
+    "captured_at": "2026-02-25T18:36:55.348580",
+    "location": "",
+    "farmer_action": {
+      "action_taken": "No Action"
+    },
+    "is_active": true,
+    "notes": "",
+    "_id": "7d8a9806acac4845be1c35a1",
+    "created_at": "2026-02-25T18:36:55.354859",
+    "updated_at": "2026-02-25T18:36:55.354859"
+  },
+  {
+    "user_id": "Agri_23",
+    "crop_name": "Rice",
+    "captured_at": "2026-02-27T06:56:15.973491",
+    "is_active": true,
+    "price_data": {},
+    "market_decision": {
+      "decision": "UNAVAILABLE",
+      "reasoning": [
+        "Market data not fetched yet"
+      ]
+    },
+    "notes": "Initialized from crop selection",
+    "_id": "da40c89491a94b64b5f9e501",
+    "created_at": "2026-02-27T06:56:15.988419",
+    "updated_at": "2026-02-27T06:56:15.988419"
+  }
+]

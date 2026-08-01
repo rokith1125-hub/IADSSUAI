@@ -1,0 +1,509 @@
+[
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "soil_type": "Black Soil",
+    "schedule": [
+      {
+        "stage": "Germination",
+        "stage_index": 0,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-02-27T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbe\u0b95, \u0ba8\u0bc0\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0b95\u0bcd\u0bb8\u0bbf\u0b9c\u0ba9\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0bbf\u0bb5\u0b95\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd N2 \u0b90 \u0ba8\u0bc1\u0ba3\u0bcd\u0ba3\u0bc1\u0baf\u0bbf\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0bb1"
+      },
+      {
+        "stage": "Tillering",
+        "stage_index": 1,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-03-18T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea application during Tillering stage helps in promoting healthy tiller growth and development, ultimately enhancing crop yield and reducing lodging.\""
+      },
+      {
+        "stage": "Stem Extension",
+        "stage_index": 2,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-04-19T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "Vera (Urea) \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd Stem Extension stage la apply pannuvar \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd, nitrate \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd ammonium \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc8\u0b9f\u0bcd\u0bb0\u0b9c\u0ba9\u0bc8"
+      },
+      {
+        "stage": "Heading",
+        "stage_index": 3,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-05-21T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea application \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u0baa\u0baf\u0bbf\u0bb0\u0bbf\u0bb2 \u0b89\u0ba3\u0bb5\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95, Heading stage \u0b87\u0bb2 \u0ba8\u0bc8\u0b9f\u0bcd\u0bb0\u0b9c\u0ba9\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8"
+      },
+      {
+        "stage": "Ripening",
+        "stage_index": 4,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-06-14T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea application \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u0baa\u0baf\u0bbf\u0bb0\u0bcd \u0bb5\u0bbf\u0ba4\u0bc8 \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b85\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0ba3\u0bc1\u0b95\u0bcd\u0b95"
+      }
+    ],
+    "total_stages": 5,
+    "current_stage_index": 0,
+    "next_application": {
+      "date": "2026-02-27",
+      "fertilizer": "Urea",
+      "days_until": 3
+    },
+    "weather_aware": true,
+    "created_at": "2026-02-24T10:11:28.393793",
+    "updated_at": "2026-02-24T10:13:39.866875",
+    "is_active": false,
+    "completed": false,
+    "_id": "a110b10f9c8a43168f3f2274",
+    "plan_id": "a110b10f9c8a43168f3f2274"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "soil_type": "Black Soil",
+    "schedule": [
+      {
+        "stage": "Germination",
+        "stage_index": 0,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-02-27T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Applied",
+        "purpose": "\"\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbe\u0b95, \u0ba8\u0bc0\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0b95\u0bcd\u0bb8\u0bbf\u0b9c\u0ba9\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0bbf\u0bb5\u0b95\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd N2 \u0b90 \u0ba8\u0bc1\u0ba3\u0bcd\u0ba3\u0bc1\u0baf\u0bbf\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0bb1",
+        "actual_date": "2026-02-27",
+        "notes": "Applied in morning"
+      },
+      {
+        "stage": "Tillering",
+        "stage_index": 1,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-03-18T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea application during Tillering stage helps in promoting healthy tiller growth and development, ultimately enhancing crop yield and reducing lodging.\""
+      },
+      {
+        "stage": "Stem Extension",
+        "stage_index": 2,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-04-19T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "Vera (Urea) \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd Stem Extension stage la apply pannuvar \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd, nitrate \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd ammonium \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc8\u0b9f\u0bcd\u0bb0\u0b9c\u0ba9\u0bc8"
+      },
+      {
+        "stage": "Heading",
+        "stage_index": 3,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-05-21T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea application \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u0baa\u0baf\u0bbf\u0bb0\u0bbf\u0bb2 \u0b89\u0ba3\u0bb5\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95, Heading stage \u0b87\u0bb2 \u0ba8\u0bc8\u0b9f\u0bcd\u0bb0\u0b9c\u0ba9\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8"
+      },
+      {
+        "stage": "Ripening",
+        "stage_index": 4,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-06-14T10:11:24.946649",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea application \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u0baa\u0baf\u0bbf\u0bb0\u0bcd \u0bb5\u0bbf\u0ba4\u0bc8 \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b85\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0ba3\u0bc1\u0b95\u0bcd\u0b95"
+      }
+    ],
+    "total_stages": 5,
+    "current_stage_index": 0,
+    "next_application": {
+      "date": "2026-03-18",
+      "fertilizer": "Urea",
+      "days_until": 22
+    },
+    "weather_aware": true,
+    "created_at": "2026-02-24T10:13:39.882060",
+    "updated_at": "2026-02-24T10:15:53.178596",
+    "is_active": false,
+    "completed": false,
+    "plan_id": "a110b10f9c8a43168f3f2274",
+    "_id": "7b38a15572684936b61bb01b"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "soil_type": "Black Soil",
+    "schedule": [
+      {
+        "stage": "Germination",
+        "stage_index": 0,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-02-27T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"\u0ba8\u0bae\u0bcd\u0bae \u0baa\u0baf\u0bbf\u0bb0\u0bcd \u0bb5\u0bb3\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95, \u0b95\u0bb0\u0bc1\u0bb5\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd (Germination stage) \u0bb5\u0bc7\u0bb0\u0bcd\u0baf\u0bc2\u0bb0\u0bbe (Urea) \u0bb5\u0bbe\u0b99\u0bcd\u0b95"
+      },
+      {
+        "stage": "Tillering",
+        "stage_index": 1,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-03-18T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea apply \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, NPK ratio balance \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b89\u0ba4\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, nitrogen deficiency \u0b95\u0bc1\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, tillering"
+      },
+      {
+        "stage": "Stem Extension",
+        "stage_index": 2,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-04-19T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "Urea application during the Stem Extension stage helps to enhance nitrogen fixation in the soil and promotes vegetative growth in the crop, thereby increasing the leaf area and root system."
+      },
+      {
+        "stage": "Heading",
+        "stage_index": 3,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-05-21T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "During the Heading stage of crop growth, urea is applied to promote vegetative growth, enhance leaf development, and increase the crop's ability to withstand stress, ultimately leading to better yields."
+      },
+      {
+        "stage": "Ripening",
+        "stage_index": 4,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-06-14T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "Urea apply \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u0b85\u0ba4\u0bc1 \u0b95\u0bc0\u0bb0\u0bc8\u0b95\u0bb3\u0bcd and \u0b87\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, Ripening stage-\u0bb2\u0bcd \u0bb5"
+      }
+    ],
+    "total_stages": 5,
+    "current_stage_index": 0,
+    "next_application": {
+      "date": "2026-02-27",
+      "fertilizer": "Urea",
+      "days_until": 3
+    },
+    "weather_aware": true,
+    "created_at": "2026-02-24T10:15:53.182080",
+    "updated_at": "2026-02-24T10:22:21.445951",
+    "is_active": false,
+    "completed": false,
+    "_id": "9aacafcf12a44177b203e7c2",
+    "plan_id": "9aacafcf12a44177b203e7c2"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "soil_type": "Black Soil",
+    "schedule": [
+      {
+        "stage": "Germination",
+        "stage_index": 0,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-02-28T00:00:00",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Postponed",
+        "purpose": "\"\u0ba8\u0bae\u0bcd\u0bae \u0baa\u0baf\u0bbf\u0bb0\u0bcd \u0bb5\u0bb3\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95, \u0b95\u0bb0\u0bc1\u0bb5\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd (Germination stage) \u0bb5\u0bc7\u0bb0\u0bcd\u0baf\u0bc2\u0bb0\u0bbe (Urea) \u0bb5\u0bbe\u0b99\u0bcd\u0b95",
+        "notes": "Postponed: Rain forecast"
+      },
+      {
+        "stage": "Tillering",
+        "stage_index": 1,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-03-18T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "\"Urea apply \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, NPK ratio balance \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b89\u0ba4\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, nitrogen deficiency \u0b95\u0bc1\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, tillering"
+      },
+      {
+        "stage": "Stem Extension",
+        "stage_index": 2,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-04-19T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "Urea application during the Stem Extension stage helps to enhance nitrogen fixation in the soil and promotes vegetative growth in the crop, thereby increasing the leaf area and root system."
+      },
+      {
+        "stage": "Heading",
+        "stage_index": 3,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-05-21T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "During the Heading stage of crop growth, urea is applied to promote vegetative growth, enhance leaf development, and increase the crop's ability to withstand stress, ultimately leading to better yields."
+      },
+      {
+        "stage": "Ripening",
+        "stage_index": 4,
+        "fertilizer": "Urea",
+        "tamil_name": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+        "type": "Nitrogenous",
+        "n_p_k": "46-0-0",
+        "date": "2026-06-14T10:15:49.663481",
+        "quantity": "100-150 kg/acre",
+        "method": "Basal",
+        "best_time": "Morning or Evening",
+        "weather_dependent": true,
+        "safety_notes": [
+          "Apply in split doses",
+          "Avoid contact with leaves",
+          "Incorporate into soil",
+          "Store in dry place"
+        ],
+        "status": "Pending",
+        "purpose": "Urea apply \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u0b85\u0ba4\u0bc1 \u0b95\u0bc0\u0bb0\u0bc8\u0b95\u0bb3\u0bcd and \u0b87\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, Ripening stage-\u0bb2\u0bcd \u0bb5"
+      }
+    ],
+    "total_stages": 5,
+    "current_stage_index": 0,
+    "next_application": {
+      "date": "2026-03-18",
+      "fertilizer": "Urea",
+      "days_until": 22
+    },
+    "weather_aware": true,
+    "created_at": "2026-02-24T10:22:21.478878",
+    "updated_at": "2026-02-24T10:22:21.478878",
+    "is_active": true,
+    "completed": false,
+    "plan_id": "9aacafcf12a44177b203e7c2",
+    "_id": "96c258646cf6416fa752020f"
+  }
+]

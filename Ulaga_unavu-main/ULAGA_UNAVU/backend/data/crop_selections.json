@@ -1,0 +1,3658 @@
+[
+  {
+    "user_id": "Agri_4",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-24T09:04:43.862635",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-24T09:04:43.862635",
+    "is_active": true,
+    "harvested": false,
+    "_id": "07087d14c9e14fcf99e5d9d0",
+    "created_at": "2026-02-24T09:04:43.889231",
+    "updated_at": "2026-02-24T09:04:46.133912",
+    "fertilizer_plan_id": "811ea1991ee04b34bad27c2c",
+    "growth_timeline_id": null,
+    "market_intelligence_id": "9f996eadc39c43e3b6dd6555",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_5",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-24T09:05:19.285100",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-24T09:05:19.285100",
+    "is_active": true,
+    "harvested": false,
+    "_id": "0b083c7bc04c47f19e59d21c",
+    "created_at": "2026-02-24T09:05:19.286867",
+    "updated_at": "2026-02-24T09:05:22.117661",
+    "fertilizer_plan_id": "d7a04674923e41c09a326063",
+    "growth_timeline_id": null,
+    "market_intelligence_id": "92880aa661c74c9b89d57b2d",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_6",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-24T09:25:41.284081",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-24T09:25:41.284656",
+    "is_active": true,
+    "harvested": false,
+    "_id": "2d140415a0ee40e5b05728cf",
+    "created_at": "2026-02-24T09:25:41.298644",
+    "updated_at": "2026-02-24T09:25:46.741353",
+    "fertilizer_plan_id": "c5f3ffb5677444db9c3c666f",
+    "growth_timeline_id": null,
+    "market_intelligence_id": "dd2fd49ca21d4daf8b7b74a3",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-24T10:05:05.843740",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-24T10:05:05.864247",
+    "is_active": false,
+    "harvested": false,
+    "_id": "e9acad1ed9cc426ab62ca9a7",
+    "created_at": "2026-02-24T10:05:06.897060",
+    "updated_at": "2026-02-24T10:11:24.930629",
+    "fertilizer_plan_id": "1bee0aa5f27a4d35b1ed9eeb",
+    "growth_timeline_id": null,
+    "market_intelligence_id": "6aa081e8adc04a488fb349d1",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-24T10:11:24.929549",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-24T10:11:24.929549",
+    "is_active": false,
+    "harvested": false,
+    "_id": "a264b9a57bde49c5858ab7ee",
+    "created_at": "2026-02-24T10:11:24.934278",
+    "updated_at": "2026-02-24T10:15:49.650002",
+    "fertilizer_plan_id": "a110b10f9c8a43168f3f2274",
+    "growth_timeline_id": "7da4ec9159264f8fbb96f6cc",
+    "market_intelligence_id": "ec37faae7f53448890820b5c",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-24T10:15:49.650002",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-24T10:15:49.650002",
+    "is_active": false,
+    "harvested": true,
+    "_id": "d3b2eb910c944755b3ae90e6",
+    "created_at": "2026-02-24T10:15:49.660677",
+    "updated_at": "2026-02-24T10:25:38.501189",
+    "fertilizer_plan_id": "9aacafcf12a44177b203e7c2",
+    "growth_timeline_id": "098428db965340f8b179c1a2",
+    "market_intelligence_id": "57ef7bae3f1b44bc8dfd8a2f",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    },
+    "harvest_date": "2026-06-24T00:00:00"
+  },
+  {
+    "user_id": "Agri_3",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-24T12:42:26.298551",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-24T12:42:26.299170",
+    "is_active": true,
+    "harvested": false,
+    "_id": "af2535ffb93244c19bcdcaa2",
+    "created_at": "2026-02-24T12:42:26.311681",
+    "updated_at": "2026-02-24T12:42:29.291657",
+    "fertilizer_plan_id": "5357596ced114abbb00089de",
+    "growth_timeline_id": "4698a61c0be54d79b144e75b",
+    "market_intelligence_id": "eb6a5755d7084091b77106c8",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_13",
+    "crop_name": "Tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://images.unsplash.com/photo-1546470427-227c7369a9b9?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-25T06:36:45.541223",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T06:36:45.541223",
+    "is_active": true,
+    "harvested": false,
+    "_id": "01e5b39ae0064b0fb28510df",
+    "created_at": "2026-02-25T06:36:45.589174",
+    "updated_at": "2026-02-25T06:36:55.352481",
+    "fertilizer_plan_id": "16ca39eb36fa44218650798c",
+    "growth_timeline_id": "15edf801d5ec42a589a7df1e",
+    "market_intelligence_id": "3f43be922f264f9c90b4dd3d",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_16",
+    "crop_name": "rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-25T06:48:11.933906",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T06:48:11.933906",
+    "is_active": true,
+    "harvested": false,
+    "_id": "a37f72f29dbf4034ac9f2ae7",
+    "created_at": "2026-02-25T06:48:11.966607",
+    "updated_at": "2026-02-25T06:48:12.766040",
+    "fertilizer_plan_id": null,
+    "growth_timeline_id": "63f1133bbb444523835e8131",
+    "market_intelligence_id": "4ecad37021f5417dafc3b4fb",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_17",
+    "crop_name": "rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-25T06:49:02.390358",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T06:49:02.390358",
+    "is_active": true,
+    "harvested": false,
+    "_id": "afbdb810c12b42d9a34e8ad4",
+    "created_at": "2026-02-25T06:49:02.394364",
+    "updated_at": "2026-02-25T06:49:03.010367",
+    "fertilizer_plan_id": null,
+    "growth_timeline_id": "2d17cd4520734121a56bd60c",
+    "market_intelligence_id": "dba59b8720e44fd5b2e85098",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_18",
+    "crop_name": "rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-25T06:49:42.699541",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T06:49:42.699541",
+    "is_active": true,
+    "harvested": false,
+    "_id": "82b5801cecff4d859890da1c",
+    "created_at": "2026-02-25T06:49:42.704542",
+    "updated_at": "2026-02-25T06:49:43.280599",
+    "fertilizer_plan_id": null,
+    "growth_timeline_id": "9992c6e5e0584746836cac93",
+    "market_intelligence_id": "1fe91483b62142809b8d321a",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Custom",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://images.unsplash.com/photo-1546470427-227c7369a9b9?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-25T08:27:38.277985",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T08:27:38.277985",
+    "is_active": false,
+    "harvested": true,
+    "_id": "39294d828307492e902773e0",
+    "created_at": "2026-02-25T08:27:38.297505",
+    "updated_at": "2026-02-25T08:28:29.681259",
+    "fertilizer_plan_id": "c6778fbdb4594ac88092c0ba",
+    "growth_timeline_id": "564b02fb1d74466cb0736981",
+    "market_intelligence_id": "c9913fa5b07a4301a416bbe0",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    },
+    "harvest_date": "2026-02-25T00:00:00"
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Custom",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://images.unsplash.com/photo-1546470427-227c7369a9b9?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-25T08:29:09.015580",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T08:29:09.015580",
+    "is_active": false,
+    "harvested": true,
+    "_id": "9ae78ac55641492aa26e3408",
+    "created_at": "2026-02-25T08:29:09.284285",
+    "updated_at": "2026-02-25T09:20:41.185686",
+    "fertilizer_plan_id": "4aaca19e3efa4ae4a95ea350",
+    "growth_timeline_id": "db11f12d77644002b44c5b95",
+    "market_intelligence_id": "1ccedc79b12348c7b7332ee6",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    },
+    "harvest_date": "2026-02-25T00:00:00"
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "bulp",
+    "tamil_name": "bulp",
+    "scientific_name": "Custom",
+    "selection_method": "Custom",
+    "crop_details": {
+      "crop_name": "bulp",
+      "tamil_name": "bulp",
+      "scientific_name": "Custom",
+      "growing_season": [],
+      "water_requirement": "Unknown",
+      "growth_days": "Unknown",
+      "risk_level": "Unknown"
+    },
+    "image_url": "https://images.unsplash.com/photo-1733744330650-fa7a26f7541c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Njk3MzV8MHwxfHNlYXJjaHwxfHxidWxwJTIwY3JvcCUyMHBsYW50JTIwYWdyaWN1bHR1cmV8ZW58MHwwfHx8MTc3MjAxNDQxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "growth_timeline": {
+      "start_date": "2026-02-25T10:13:34.862645",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T10:13:34.863642",
+    "is_active": false,
+    "harvested": false,
+    "_id": "fb341a9e60b44b9bad46a12c",
+    "created_at": "2026-02-25T10:13:35.007853",
+    "updated_at": "2026-02-25T15:57:31.091204",
+    "fertilizer_plan_id": null,
+    "growth_timeline_id": null,
+    "market_intelligence_id": "c431e3e5f3af4650b5bcca55",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_14",
+    "crop_name": "tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Custom",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://images.unsplash.com/photo-1546470427-227c7369a9b9?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-25T15:57:31.090133",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-25T15:57:31.090133",
+    "is_active": true,
+    "harvested": false,
+    "_id": "b141244f311c40ffb1251528",
+    "created_at": "2026-02-25T15:57:31.106842",
+    "updated_at": "2026-02-25T15:57:34.979493",
+    "fertilizer_plan_id": "eb063c4b0bab4ec0978d86f1",
+    "growth_timeline_id": "569a86a000c24c2b8aa837f1",
+    "market_intelligence_id": "87cdd3026c9043b8b0372b3b",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "crop_name": "Rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=600",
+    "growth_timeline": {
+      "start_date": "2026-02-27T06:56:08.408850",
+      "current_stage": "Planning",
+      "progress_percent": 0
+    },
+    "selected_at": "2026-02-27T06:56:08.421849",
+    "is_active": true,
+    "harvested": false,
+    "_id": "9607eb13c00b470f9f92f4cf",
+    "created_at": "2026-02-27T06:56:08.543737",
+    "updated_at": "2026-02-27T06:56:16.022010",
+    "fertilizer_plan_id": "201260c5ff6c4ea18bfa4e98",
+    "growth_timeline_id": "602c9a3435cd4297bdca3b33",
+    "market_intelligence_id": "da40c89491a94b64b5f9e501",
+    "pdf_urls": {
+      "soil_report": "",
+      "crop_report": "",
+      "fertilizer_report": "",
+      "growth_report": "",
+      "comprehensive_report": ""
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "crop_name": "Tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-07T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-07T08:58:09.804347",
+    "is_active": false,
+    "harvested": false,
+    "_id": "f6a935266f2d490ca0666b95",
+    "created_at": "2026-03-07T08:58:14.383959",
+    "updated_at": "2026-03-07T13:48:13.932706"
+  },
+  {
+    "user_id": "Agri_12",
+    "crop_name": "Tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-01-07T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-07T13:48:13.910757",
+    "is_active": true,
+    "harvested": false,
+    "_id": "5c70d8d17faf427f8810916a",
+    "created_at": "2026-03-07T13:48:14.060606",
+    "updated_at": "2026-03-07T13:48:41.492749"
+  },
+  {
+    "user_id": "Agri_25",
+    "crop_name": "Potato",
+    "tamil_name": "\u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1",
+    "scientific_name": "Solanum tuberosum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR010",
+      "crop_name": "Potato",
+      "tamil_name": "\u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1",
+      "scientific_name": "Solanum tuberosum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Oct-Feb"
+      ],
+      "soil_compatibility": [
+        "Sandy Loam",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Sprouting",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Tuber Initiation",
+          "days": 20
+        },
+        {
+          "stage": "Tuber Bulking",
+          "days": 20
+        }
+      ],
+      "temperature_range": "15-20\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b91500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Cool season crop, avoid waterlogging"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": null,
+      "current_stage": "Planning",
+      "progress_percent": 0,
+      "status": "not_started"
+    },
+    "selected_at": "2026-03-07T20:48:54.643579",
+    "is_active": false,
+    "harvested": false,
+    "_id": "69b7f06d76344e69a742903c",
+    "created_at": "2026-03-07T20:48:54.718231",
+    "updated_at": "2026-03-07T21:05:39.692746"
+  },
+  {
+    "user_id": "Agri_25",
+    "crop_name": "Potato",
+    "tamil_name": "\u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1",
+    "scientific_name": "Solanum tuberosum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR010",
+      "crop_name": "Potato",
+      "tamil_name": "\u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1",
+      "scientific_name": "Solanum tuberosum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Oct-Feb"
+      ],
+      "soil_compatibility": [
+        "Sandy Loam",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Sprouting",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Tuber Initiation",
+          "days": 20
+        },
+        {
+          "stage": "Tuber Bulking",
+          "days": 20
+        }
+      ],
+      "temperature_range": "15-20\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b91500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Cool season crop, avoid waterlogging"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Potato%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": null,
+      "current_stage": "Planning",
+      "progress_percent": 0,
+      "status": "not_started"
+    },
+    "selected_at": "2026-03-07T21:05:39.689066",
+    "is_active": false,
+    "harvested": false,
+    "_id": "173d767c76864037b4698e81",
+    "created_at": "2026-03-07T21:05:40.593124",
+    "updated_at": "2026-03-10T19:00:20.554831"
+  },
+  {
+    "user_id": "Agri_33",
+    "crop_name": "Rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": null,
+      "current_stage": "Planning",
+      "progress_percent": 0,
+      "status": "not_started"
+    },
+    "selected_at": "2026-03-10T16:26:04.210961",
+    "is_active": false,
+    "harvested": false,
+    "_id": "fd76a410315941aeb38ec267",
+    "created_at": "2026-03-10T16:26:04.439693",
+    "updated_at": "2026-03-10T16:30:58.006607"
+  },
+  {
+    "user_id": "Agri_33",
+    "crop_name": "Rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T16:30:59.603946",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T16:30:58.006607",
+    "is_active": true,
+    "harvested": false,
+    "_id": "14f5c2bb9f9a429290129b9a",
+    "created_at": "2026-03-10T16:30:58.056722",
+    "updated_at": "2026-03-10T16:31:03.865826"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T17:20:15.690468",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T17:20:14.427769",
+    "is_active": false,
+    "harvested": false,
+    "_id": "01f801de14af49a4947fb00a",
+    "created_at": "2026-03-10T17:20:14.468941",
+    "updated_at": "2026-03-10T17:38:40.946935"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Tomato",
+    "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+    "scientific_name": "Solanum lycopersicum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR007",
+      "crop_name": "Tomato",
+      "tamil_name": "\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf",
+      "scientific_name": "Solanum lycopersicum",
+      "growing_season": [
+        "Rabi",
+        "Summer"
+      ],
+      "season_months": [
+        "Oct-Feb",
+        "Feb-May"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 10
+        },
+        {
+          "stage": "Seedling",
+          "days": 20
+        },
+        {
+          "stage": "Vegetative",
+          "days": 30
+        },
+        {
+          "stage": "Flowering",
+          "days": 15
+        },
+        {
+          "stage": "Fruiting",
+          "days": 15
+        }
+      ],
+      "temperature_range": "15-30\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "200-250 quintals",
+      "market_price_range": "\u20b9800-\u20b93000/quintal",
+      "risk_level": "High",
+      "special_notes": "Price fluctuation high, needs staking support"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Tomato%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T17:38:45.233065",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T17:38:40.940879",
+    "is_active": false,
+    "harvested": false,
+    "_id": "d2117e24d8374ae99ae7aa0a",
+    "created_at": "2026-03-10T17:38:41.008502",
+    "updated_at": "2026-03-10T18:10:21.185836"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T18:10:23.102300",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T18:10:21.184839",
+    "is_active": false,
+    "harvested": false,
+    "_id": "7c0c900faa7c4bcc96cae8e3",
+    "created_at": "2026-03-10T18:10:21.202825",
+    "updated_at": "2026-03-10T18:20:13.708644"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T18:20:17.849976",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T18:20:13.708644",
+    "is_active": false,
+    "harvested": false,
+    "_id": "0a8b53007bf14bd1b0fd4145",
+    "created_at": "2026-03-10T18:20:14.515737",
+    "updated_at": "2026-03-10T18:29:11.292248"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T18:29:13.703434",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T18:29:11.291248",
+    "is_active": false,
+    "harvested": false,
+    "_id": "26fef0285138432992df497c",
+    "created_at": "2026-03-10T18:29:11.307761",
+    "updated_at": "2026-03-10T18:43:42.331543"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T18:43:43.588704",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T18:43:42.331543",
+    "is_active": false,
+    "harvested": false,
+    "_id": "ef1757a874844649990cb7f4",
+    "created_at": "2026-03-10T18:43:42.344976",
+    "updated_at": "2026-03-10T18:51:24.937021"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T18:51:26.649349",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T18:51:24.937021",
+    "is_active": false,
+    "harvested": false,
+    "_id": "09e7f5f673a648bf9f5610c1",
+    "created_at": "2026-03-10T18:51:24.949230",
+    "updated_at": "2026-03-10T18:55:24.653179"
+  },
+  {
+    "user_id": "Agri_1",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T18:55:26.720853",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T18:55:24.652172",
+    "is_active": true,
+    "harvested": false,
+    "_id": "59ac6f5b884e416d8f45ae84",
+    "created_at": "2026-03-10T18:55:24.703608",
+    "updated_at": "2026-03-10T18:55:27.373026"
+  },
+  {
+    "user_id": "Agri_25",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T19:00:20.554831",
+    "is_active": false,
+    "harvested": true,
+    "_id": "55ea7ddda2194aec81c72b17",
+    "created_at": "2026-03-10T19:00:20.720069",
+    "updated_at": "2026-03-10T19:03:51.243215",
+    "harvest_date": "2026-03-10T00:00:00"
+  },
+  {
+    "user_id": "Agri_25",
+    "crop_name": "Maize",
+    "tamil_name": "\u0bae\u0b95\u0bcd\u0b95\u0bbe \u0b9a\u0bcb\u0bb3\u0bae\u0bcd",
+    "scientific_name": "Zea mays",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR006",
+      "crop_name": "Maize",
+      "tamil_name": "\u0bae\u0b95\u0bcd\u0b95\u0bbe \u0b9a\u0bcb\u0bb3\u0bae\u0bcd",
+      "scientific_name": "Zea mays",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Sep",
+        "Oct-Jan"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Sandy Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Vegetative",
+          "days": 35
+        },
+        {
+          "stage": "Tasseling",
+          "days": 21
+        },
+        {
+          "stage": "Silking",
+          "days": 14
+        },
+        {
+          "stage": "Maturity",
+          "days": 13
+        }
+      ],
+      "temperature_range": "18-27\u00b0C",
+      "rainfall_needed": "60-100 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Good for intercropping with pulses"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Maize%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-10T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-10T19:04:11.045638",
+    "is_active": false,
+    "harvested": true,
+    "_id": "884de57103de42228cb60fbb",
+    "created_at": "2026-03-10T19:04:11.094700",
+    "updated_at": "2026-03-10T19:04:30.070564",
+    "harvest_date": "2026-03-10T00:00:00"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Cotton",
+    "tamil_name": "\u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+    "scientific_name": "Gossypium spp",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR003",
+      "crop_name": "Cotton",
+      "tamil_name": "\u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+      "scientific_name": "Gossypium spp",
+      "growing_season": [
+        "Kharif"
+      ],
+      "season_months": [
+        "June-Dec"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 150,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Square Formation",
+          "days": 42
+        },
+        {
+          "stage": "Flowering",
+          "days": 35
+        },
+        {
+          "stage": "Boll Development",
+          "days": 45
+        }
+      ],
+      "temperature_range": "21-30\u00b0C",
+      "rainfall_needed": "50-100 cm",
+      "yield_per_acre": "8-12 quintals",
+      "market_price_range": "\u20b96000-\u20b97000/quintal",
+      "risk_level": "High",
+      "special_notes": "Prone to pest attacks, needs careful monitoring"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-16T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-16T17:38:34.239371",
+    "is_active": false,
+    "harvested": true,
+    "_id": "08670702605e407d95ab3da2",
+    "created_at": "2026-03-16T17:38:34.420872",
+    "updated_at": "2026-03-16T17:41:26.186405",
+    "harvest_date": "2026-03-16T00:00:00"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Cotton",
+    "tamil_name": "\u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+    "scientific_name": "Gossypium spp",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR003",
+      "crop_name": "Cotton",
+      "tamil_name": "\u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+      "scientific_name": "Gossypium spp",
+      "growing_season": [
+        "Kharif"
+      ],
+      "season_months": [
+        "June-Dec"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 150,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Square Formation",
+          "days": 42
+        },
+        {
+          "stage": "Flowering",
+          "days": 35
+        },
+        {
+          "stage": "Boll Development",
+          "days": 45
+        }
+      ],
+      "temperature_range": "21-30\u00b0C",
+      "rainfall_needed": "50-100 cm",
+      "yield_per_acre": "8-12 quintals",
+      "market_price_range": "\u20b96000-\u20b97000/quintal",
+      "risk_level": "High",
+      "special_notes": "Prone to pest attacks, needs careful monitoring"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-02-16T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-16T17:41:41.167504",
+    "is_active": false,
+    "harvested": true,
+    "_id": "fd031b65e60f477fb92d8c09",
+    "created_at": "2026-03-16T17:41:42.149336",
+    "updated_at": "2026-03-16T17:42:39.216251",
+    "harvest_date": "2026-03-16T00:00:00"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-18T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T15:21:44.182557",
+    "is_active": false,
+    "harvested": false,
+    "_id": "ef14ff3b584c49f18b889e81",
+    "created_at": "2026-03-18T15:21:44.242564",
+    "updated_at": "2026-03-18T15:24:57.080796"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-02-18T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T15:24:56.908934",
+    "is_active": false,
+    "harvested": false,
+    "_id": "c34a48792e1f470ea3bb643a",
+    "created_at": "2026-03-18T15:24:57.107322",
+    "updated_at": "2026-03-18T15:35:36.761019"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Cotton",
+    "tamil_name": "\u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+    "scientific_name": "Gossypium spp",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR003",
+      "crop_name": "Cotton",
+      "tamil_name": "\u0baa\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+      "scientific_name": "Gossypium spp",
+      "growing_season": [
+        "Kharif"
+      ],
+      "season_months": [
+        "June-Dec"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 150,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Square Formation",
+          "days": 42
+        },
+        {
+          "stage": "Flowering",
+          "days": 35
+        },
+        {
+          "stage": "Boll Development",
+          "days": 45
+        }
+      ],
+      "temperature_range": "21-30\u00b0C",
+      "rainfall_needed": "50-100 cm",
+      "yield_per_acre": "8-12 quintals",
+      "market_price_range": "\u20b96000-\u20b97000/quintal",
+      "risk_level": "High",
+      "special_notes": "Prone to pest attacks, needs careful monitoring"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Cotton%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-01-18T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T15:35:36.761019",
+    "is_active": false,
+    "harvested": false,
+    "_id": "cc6bfcb1b6da4a00bb148e96",
+    "created_at": "2026-03-18T15:35:36.843730",
+    "updated_at": "2026-03-18T15:43:55.794089"
+  },
+  {
+    "user_id": "Agri_38",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": null,
+      "current_stage": "Planning",
+      "progress_percent": 0,
+      "status": "not_started"
+    },
+    "selected_at": "2026-03-18T15:39:51.860669",
+    "is_active": true,
+    "harvested": false,
+    "_id": "2fdd838dcb434bafbe696e6f",
+    "created_at": "2026-03-18T15:39:51.882191",
+    "updated_at": "2026-03-18T15:39:51.882191"
+  },
+  {
+    "user_id": "Agri_39",
+    "crop_name": "Rice",
+    "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+    "scientific_name": "Oryza sativa",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR001",
+      "crop_name": "Rice",
+      "tamil_name": "\u0b85\u0bb0\u0bbf\u0b9a\u0bbf",
+      "scientific_name": "Oryza sativa",
+      "growing_season": [
+        "Kharif",
+        "Rabi"
+      ],
+      "season_months": [
+        "June-Nov",
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Alluvial",
+        "Clay",
+        "Loamy"
+      ],
+      "water_requirement": "High",
+      "growth_days": 90,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Seedling",
+          "days": 21
+        },
+        {
+          "stage": "Tillering",
+          "days": 28
+        },
+        {
+          "stage": "Flowering",
+          "days": 14
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "20-25 quintals",
+      "market_price_range": "\u20b91800-\u20b92500/quintal",
+      "risk_level": "Medium",
+      "special_notes": "Needs standing water in initial stage"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Rice%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-15T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T15:40:07.700856",
+    "is_active": true,
+    "harvested": false,
+    "_id": "97c6bd8d5bcd43f3bcd352c7",
+    "created_at": "2026-03-18T15:40:07.730835",
+    "updated_at": "2026-03-18T15:40:12.276410"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": null,
+      "current_stage": "Planning",
+      "progress_percent": 0,
+      "status": "not_started"
+    },
+    "selected_at": "2026-03-18T15:43:55.794089",
+    "is_active": false,
+    "harvested": false,
+    "_id": "8ec67b5b4a5649a68b5691cd",
+    "created_at": "2026-03-18T15:43:55.840428",
+    "updated_at": "2026-03-18T15:44:23.335637"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-18T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T15:44:23.335104",
+    "is_active": false,
+    "harvested": false,
+    "_id": "813f76c266d64fac91a82106",
+    "created_at": "2026-03-18T15:44:23.380547",
+    "updated_at": "2026-03-18T15:58:57.025590"
+  },
+  {
+    "user_id": "Agri_40",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": null,
+      "current_stage": "Planning",
+      "progress_percent": 0,
+      "status": "not_started"
+    },
+    "selected_at": "2026-03-18T15:47:08.943164",
+    "is_active": true,
+    "harvested": false,
+    "_id": "898529465427411984419b28",
+    "created_at": "2026-03-18T15:47:09.022056",
+    "updated_at": "2026-03-18T15:47:09.022056"
+  },
+  {
+    "user_id": "Agri_41",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": null,
+      "current_stage": "Planning",
+      "progress_percent": 0,
+      "status": "not_started"
+    },
+    "selected_at": "2026-03-18T15:50:42.239483",
+    "is_active": true,
+    "harvested": false,
+    "_id": "1c3769055db3437196feeabd",
+    "created_at": "2026-03-18T15:50:42.512112",
+    "updated_at": "2026-03-18T15:50:42.512112"
+  },
+  {
+    "user_id": "Agri_42",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-03-18T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T15:56:26.688372",
+    "is_active": true,
+    "harvested": false,
+    "_id": "5b5ab093062f466b99bd2240",
+    "created_at": "2026-03-18T15:56:26.724851",
+    "updated_at": "2026-03-18T15:56:34.623536"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-01-11T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T15:58:57.016294",
+    "is_active": false,
+    "harvested": true,
+    "_id": "6ecec5875a584174b61a5fb1",
+    "created_at": "2026-03-18T15:58:57.093652",
+    "updated_at": "2026-03-18T16:00:45.980947",
+    "harvest_date": "2026-03-18T00:00:00"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Sugarcane",
+    "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "scientific_name": "Saccharum officinarum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR004",
+      "crop_name": "Sugarcane",
+      "tamil_name": "\u0b95\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+      "scientific_name": "Saccharum officinarum",
+      "growing_season": [
+        "Throughout year"
+      ],
+      "season_months": [
+        "Feb-Nov",
+        "Oct-Sep"
+      ],
+      "soil_compatibility": [
+        "Black Soil",
+        "Alluvial",
+        "Loamy"
+      ],
+      "water_requirement": "Very High",
+      "growth_days": 300,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 30
+        },
+        {
+          "stage": "Tillering",
+          "days": 60
+        },
+        {
+          "stage": "Grand Growth",
+          "days": 150
+        },
+        {
+          "stage": "Maturity",
+          "days": 60
+        }
+      ],
+      "temperature_range": "20-35\u00b0C",
+      "rainfall_needed": "150-200 cm",
+      "yield_per_acre": "350-400 quintals",
+      "market_price_range": "\u20b92800-\u20b93200/ton",
+      "risk_level": "Medium",
+      "special_notes": "Long duration crop, requires consistent water"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Sugarcane%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-02-18T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T16:30:15.436341",
+    "is_active": false,
+    "harvested": false,
+    "_id": "1cc2d38e87c84743a9cc10d7",
+    "created_at": "2026-03-18T16:30:16.593601",
+    "updated_at": "2026-03-18T16:33:59.965481"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-01-18T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-03-18T16:33:59.965481",
+    "is_active": false,
+    "harvested": false,
+    "_id": "b86864523244469086844fe1",
+    "created_at": "2026-03-18T16:34:00.017335",
+    "updated_at": "2026-04-10T05:01:00.769914"
+  },
+  {
+    "user_id": "Agri_35",
+    "crop_name": "Wheat",
+    "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+    "scientific_name": "Triticum aestivum",
+    "selection_method": "Recommended",
+    "crop_details": {
+      "crop_id": "CR002",
+      "crop_name": "Wheat",
+      "tamil_name": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8",
+      "scientific_name": "Triticum aestivum",
+      "growing_season": [
+        "Rabi"
+      ],
+      "season_months": [
+        "Nov-Apr"
+      ],
+      "soil_compatibility": [
+        "Loamy",
+        "Clay Loam"
+      ],
+      "water_requirement": "Medium",
+      "growth_days": 120,
+      "stages": [
+        {
+          "stage": "Germination",
+          "days": 7
+        },
+        {
+          "stage": "Tillering",
+          "days": 30
+        },
+        {
+          "stage": "Stem Extension",
+          "days": 35
+        },
+        {
+          "stage": "Heading",
+          "days": 28
+        },
+        {
+          "stage": "Ripening",
+          "days": 20
+        }
+      ],
+      "temperature_range": "10-25\u00b0C",
+      "rainfall_needed": "50-75 cm",
+      "yield_per_acre": "15-20 quintals",
+      "market_price_range": "\u20b92000-\u20b92200/quintal",
+      "risk_level": "Low",
+      "special_notes": "Sensitive to high temperature during flowering"
+    },
+    "image_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+    "thumbnail_url": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20crop%20growing%20in%20a%20farm%2C%20indian%20agriculture%2C%20natural%20light?width=300&height=200&nologo=true",
+    "selected_image_source": "ai_generated",
+    "selected_image_provider": "pollinations",
+    "lifecycle_preview_images": {
+      "seed": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20seeds%20ready%20for%20sowing%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "seedling": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20young%20seedlings%20emerging%20from%20soil%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "vegetative": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20healthy%20vegetative%20growth%20with%20green%20leaves%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "flowering": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20flowers%20blooming%20in%20crop%20field%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "harvest": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20mature%20crop%20ready%20for%20harvest%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true",
+      "market_ready": "https://image.pollinations.ai/prompt/Realistic%20photo%20of%20Wheat%20crop%2C%20freshly%20harvested%20crop%20ready%20for%20market%2C%20indian%20agriculture%2C%20natural%20light?width=900&height=600&nologo=true"
+    },
+    "growth_timeline": {
+      "start_date": "2026-04-10T00:00:00",
+      "current_stage": "Germination",
+      "progress_percent": 0,
+      "status": "active"
+    },
+    "selected_at": "2026-04-10T05:01:00.766912",
+    "is_active": true,
+    "harvested": false,
+    "_id": "e5397079ccdc4eb288d5afd3",
+    "created_at": "2026-04-10T05:01:02.971640",
+    "updated_at": "2026-04-10T05:01:24.268542"
+  }
+]

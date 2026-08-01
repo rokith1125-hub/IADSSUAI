@@ -1,0 +1,6 @@
+import{f as c,g as s,n,t as r,h as o}from"./index-DqO3K10x.js";/**
+ * @license lucide-react v0.453.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const l=c("MapPin",[["path",{d:"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0",key:"1r0f0z"}],["circle",{cx:"12",cy:"10",r:"3",key:"ilqhr7"}]]),p={async getSnapshot(e={}){const t=await s.get("/smart-mandi/snapshot",{params:e}),a=n(t.data,"market");return r(a,"Market snapshot unavailable"),o(a)},async getPrice(e={}){const t=await s.get("/smart-mandi/get-price",{params:e}),a=n(t.data,"market");return r(a,"Market price unavailable"),o(a)},async predict(e={}){const t=await s.get("/smart-mandi/predict",{params:e}),a=n(t.data,"market");return r(a,"Market prediction unavailable"),o(a)},async getSellScore(e={}){const t=await s.get("/smart-mandi/sell-score",{params:e}),a=n(t.data,"sell");return r(a,"Sell score unavailable"),o(a)},async calculateProfit(e){const t=await s.post("/smart-mandi/calculate-profit",e),a=n(t.data,"sell");return r(a,"Profit calculation unavailable"),o(a)},async getHistory(e={}){const t=await s.get("/smart-mandi/get-history",{params:e}),a=n(t.data,"market");return r(a,"Market history unavailable"),o(a)}};export{l as M,p as s};

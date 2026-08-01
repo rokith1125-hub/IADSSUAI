@@ -1,0 +1,274 @@
+[
+  {
+    "soil_id": "ST001",
+    "soil_name": "Red Soil",
+    "tamil_name": "செம்மண்",
+    "hardness": "Medium",
+    "fertility": "Medium",
+    "water_retention": "Low",
+    "drainage": "Excellent",
+    "ph_range": "5.5-7.0",
+    "suitable_crops": [
+      "Groundnut",
+      "Millets",
+      "Tobacco",
+      "Potato"
+    ],
+    "region": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "color": "#A52A2A",
+    "description": "Red soil with iron oxide, good for drought-resistant crops"
+  },
+  {
+    "soil_id": "ST002",
+    "soil_name": "Black Soil",
+    "tamil_name": "கருமண்",
+    "hardness": "Hard",
+    "fertility": "High",
+    "water_retention": "High",
+    "drainage": "Poor",
+    "ph_range": "7.0-8.5",
+    "suitable_crops": [
+      "Cotton",
+      "Sugarcane",
+      "Wheat",
+      "Soybean"
+    ],
+    "region": [
+      "Maharashtra",
+      "Gujarat",
+      "Madhya Pradesh"
+    ],
+    "color": "#2C2C2C",
+    "description": "Clay-rich, retains moisture, cracks in summer"
+  },
+  {
+    "soil_id": "ST003",
+    "soil_name": "Alluvial Soil",
+    "tamil_name": "வண்டல் மண்",
+    "hardness": "Soft",
+    "fertility": "Very High",
+    "water_retention": "Medium",
+    "drainage": "Good",
+    "ph_range": "6.5-7.5",
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Jute"
+    ],
+    "region": [
+      "Punjab",
+      "Uttar Pradesh",
+      "West Bengal"
+    ],
+    "color": "#DEB887",
+    "description": "River-deposited, rich in nutrients"
+  },
+  {
+    "soil_id": "ST004",
+    "soil_name": "Laterite Soil",
+    "tamil_name": "லேடரைட் மண்",
+    "hardness": "Hard",
+    "fertility": "Low",
+    "water_retention": "Low",
+    "drainage": "Excellent",
+    "ph_range": "4.5-6.0",
+    "suitable_crops": [
+      "Cashew",
+      "Tea",
+      "Coffee",
+      "Rubber"
+    ],
+    "region": [
+      "Kerala",
+      "Karnataka",
+      "Odisha"
+    ],
+    "color": "#8B4513",
+    "description": "Rich in iron, aluminum, acidic"
+  },
+  {
+    "soil_id": "ST005",
+    "soil_name": "Sandy Soil",
+    "tamil_name": "மணல் மண்",
+    "hardness": "Soft",
+    "fertility": "Low",
+    "water_retention": "Very Low",
+    "drainage": "Excellent",
+    "ph_range": "6.0-7.5",
+    "suitable_crops": [
+      "Watermelon",
+      "Carrot",
+      "Cucumber",
+      "Groundnut"
+    ],
+    "region": [
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "color": "#F4A460",
+    "description": "Light, warm, dry, good drainage"
+  },
+  {
+    "soil_id": "ST006",
+    "soil_name": "Clay Soil",
+    "tamil_name": "களிமண்",
+    "hardness": "Very Hard",
+    "fertility": "Medium",
+    "water_retention": "Very High",
+    "drainage": "Poor",
+    "ph_range": "6.0-7.5",
+    "suitable_crops": [
+      "Rice",
+      "Lettuce",
+      "Broccoli",
+      "Cabbage"
+    ],
+    "region": [
+      "Assam",
+      "West Bengal",
+      "Bihar"
+    ],
+    "color": "#8B7355",
+    "description": "Heavy soil, holds water, slow to warm"
+  },
+  {
+    "soil_id": "ST007",
+    "soil_name": "Loamy Soil",
+    "tamil_name": "வளமான மண்",
+    "hardness": "Soft",
+    "fertility": "Very High",
+    "water_retention": "High",
+    "drainage": "Good",
+    "ph_range": "6.0-7.0",
+    "suitable_crops": [
+      "Tomato",
+      "Corn",
+      "Beans",
+      "Sunflower"
+    ],
+    "region": [
+      "All regions"
+    ],
+    "color": "#D2B48C",
+    "description": "Perfect balance of sand, silt, clay"
+  },
+  {
+    "soil_id": "ST008",
+    "soil_name": "Peaty Soil",
+    "tamil_name": "பீட் மண்",
+    "hardness": "Soft",
+    "fertility": "High",
+    "water_retention": "Very High",
+    "drainage": "Poor",
+    "ph_range": "3.5-5.0",
+    "suitable_crops": [
+      "Cabbage",
+      "Celery",
+      "Onion",
+      "Potato"
+    ],
+    "region": [
+      "Kerala",
+      "West Bengal",
+      "Assam"
+    ],
+    "color": "#5C4033",
+    "description": "Dark, acidic, rich in organic matter"
+  },
+  {
+    "soil_id": "ST009",
+    "soil_name": "Saline Soil",
+    "tamil_name": "உப்பு மண்",
+    "hardness": "Hard",
+    "fertility": "Very Low",
+    "water_retention": "Low",
+    "drainage": "Poor",
+    "ph_range": "7.5-8.5",
+    "suitable_crops": [
+      "Barley",
+      "Sugarbeet",
+      "Date Palm",
+      "Spinach"
+    ],
+    "region": [
+      "Gujarat",
+      "Rajasthan",
+      "Tamil Nadu Coast"
+    ],
+    "color": "#E6E6FA",
+    "description": "High salt content, white crust on surface"
+  },
+  {
+    "soil_id": "ST010",
+    "soil_name": "Mountain Soil",
+    "tamil_name": "மலை மண்",
+    "hardness": "Medium",
+    "fertility": "Low",
+    "water_retention": "Medium",
+    "drainage": "Good",
+    "ph_range": "5.0-6.5",
+    "suitable_crops": [
+      "Apple",
+      "Peach",
+      "Tea",
+      "Potato"
+    ],
+    "region": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Kashmir"
+    ],
+    "color": "#8B7D6B",
+    "description": "Thin layer, rich in humus, acidic"
+  },
+  {
+    "soil_id": "ST011",
+    "soil_name": "Silty Soil",
+    "tamil_name": "Silty Soil",
+    "hardness": "Soft",
+    "fertility": "High",
+    "water_retention": "Medium",
+    "drainage": "Good",
+    "ph_range": "6.0-7.2",
+    "suitable_crops": [
+      "Rice",
+      "Wheat",
+      "Vegetables",
+      "Pulses"
+    ],
+    "region": [
+      "Tamil Nadu Delta",
+      "Bihar",
+      "West Bengal"
+    ],
+    "color": "#C2B280",
+    "description": "Fine fertile soil suitable for seasonal crops."
+  },
+  {
+    "soil_id": "ST012",
+    "soil_name": "Gravelly Soil",
+    "tamil_name": "Gravelly Soil",
+    "hardness": "Hard",
+    "fertility": "Low",
+    "water_retention": "Low",
+    "drainage": "Excellent",
+    "ph_range": "6.5-8.0",
+    "suitable_crops": [
+      "Millets",
+      "Groundnut",
+      "Cashew"
+    ],
+    "region": [
+      "Tamil Nadu Dry Belt",
+      "Karnataka"
+    ],
+    "color": "#9E8F7A",
+    "description": "Rocky soil with fast drainage for drought-tolerant crops."
+  }
+]

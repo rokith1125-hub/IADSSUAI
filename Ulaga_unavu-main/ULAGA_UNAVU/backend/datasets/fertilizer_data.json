@@ -1,0 +1,367 @@
+[
+  {
+    "fertilizer_id": "FT001",
+    "fertilizer_name": "Urea",
+    "tamil_name": "யூரியா",
+    "type": "Nitrogenous",
+    "n_p_k": "46-0-0",
+    "form": "Granular",
+    "application_method": [
+      "Basal",
+      "Top Dressing"
+    ],
+    "best_time": "Morning or Evening",
+    "crops": [
+      "Rice",
+      "Wheat",
+      "Maize",
+      "Sugarcane"
+    ],
+    "application_rate": "100-150 kg/acre",
+    "precautions": [
+      "Apply in split doses",
+      "Avoid contact with leaves",
+      "Incorporate into soil",
+      "Store in dry place"
+    ],
+    "weather_warnings": [
+      "Rain within 4 hours",
+      "Strong wind"
+    ],
+    "alternatives": [
+      "Ammonium Sulfate",
+      "Calcium Ammonium Nitrate"
+    ],
+    "organic_alternative": "Vermicompost"
+  },
+  {
+    "fertilizer_id": "FT002",
+    "fertilizer_name": "DAP",
+    "tamil_name": "டிஏபி",
+    "type": "Phosphatic",
+    "n_p_k": "18-46-0",
+    "form": "Granular",
+    "application_method": [
+      "Basal"
+    ],
+    "best_time": "At sowing",
+    "crops": [
+      "All crops"
+    ],
+    "application_rate": "50-100 kg/acre",
+    "precautions": [
+      "Place near seed",
+      "Do not mix with seeds",
+      "Avoid contact with moisture"
+    ],
+    "weather_warnings": [],
+    "alternatives": [
+      "SSP",
+      "Rock Phosphate"
+    ],
+    "organic_alternative": "Bone meal"
+  },
+  {
+    "fertilizer_id": "FT003",
+    "fertilizer_name": "MOP",
+    "tamil_name": "எம்.ஓ.பி",
+    "type": "Potassic",
+    "n_p_k": "0-0-60",
+    "form": "Granular",
+    "application_method": [
+      "Basal",
+      "Top Dressing"
+    ],
+    "best_time": "Before flowering",
+    "crops": [
+      "Potato",
+      "Tomato",
+      "Banana",
+      "Sugarcane"
+    ],
+    "application_rate": "40-80 kg/acre",
+    "precautions": [
+      "Apply in split doses",
+      "Combine with nitrogen",
+      "Avoid chloride-sensitive crops"
+    ],
+    "weather_warnings": [],
+    "alternatives": [
+      "SOP",
+      "K-Mag"
+    ],
+    "organic_alternative": "Wood ash"
+  },
+  {
+    "fertilizer_id": "FT004",
+    "fertilizer_name": "NPK Complex",
+    "tamil_name": "என்பிகே கலவை",
+    "type": "Complex",
+    "n_p_k": "19-19-19",
+    "form": "Granular",
+    "application_method": [
+      "Basal",
+      "Top Dressing"
+    ],
+    "best_time": "At sowing and vegetative stage",
+    "crops": [
+      "All crops"
+    ],
+    "application_rate": "100-150 kg/acre",
+    "precautions": [
+      "Store away from moisture",
+      "Apply uniformly",
+      "Not for foliar application"
+    ],
+    "weather_warnings": [
+      "Rain expected"
+    ],
+    "alternatives": [
+      "Custom fertilizer mix"
+    ],
+    "organic_alternative": "Farmyard manure"
+  },
+  {
+    "fertilizer_id": "FT005",
+    "fertilizer_name": "Ammonium Sulfate",
+    "tamil_name": "அம்மோனியம் சல்பேட்",
+    "type": "Nitrogenous",
+    "n_p_k": "21-0-0",
+    "form": "Granular",
+    "application_method": [
+      "Basal",
+      "Top Dressing"
+    ],
+    "best_time": "Morning",
+    "crops": [
+      "Tea",
+      "Potato",
+      "Rice"
+    ],
+    "application_rate": "150-200 kg/acre",
+    "precautions": [
+      "Suitable for alkaline soils",
+      "Apply in split doses",
+      "Avoid contact with skin"
+    ],
+    "weather_warnings": [
+      "Rain within 6 hours"
+    ],
+    "alternatives": [
+      "Urea",
+      "CAN"
+    ],
+    "organic_alternative": "Fish meal"
+  },
+  {
+    "fertilizer_id": "FT006",
+    "fertilizer_name": "SSP",
+    "tamil_name": "எஸ்எஸ்பி",
+    "type": "Phosphatic",
+    "n_p_k": "0-16-0",
+    "form": "Powder",
+    "application_method": [
+      "Basal"
+    ],
+    "best_time": "At sowing",
+    "crops": [
+      "Pulses",
+      "Oilseeds",
+      "Vegetables"
+    ],
+    "application_rate": "150-200 kg/acre",
+    "precautions": [
+      "Mix well with soil",
+      "Not for foliar",
+      "Store in dry place"
+    ],
+    "weather_warnings": [],
+    "alternatives": [
+      "DAP",
+      "Rock Phosphate"
+    ],
+    "organic_alternative": "Rock phosphate"
+  },
+  {
+    "fertilizer_id": "FT007",
+    "fertilizer_name": "Calcium Ammonium Nitrate",
+    "tamil_name": "கால்சியம் அம்மோனியம் நைட்ரேட்",
+    "type": "Nitrogenous",
+    "n_p_k": "25-0-0",
+    "form": "Granular",
+    "application_method": [
+      "Top Dressing"
+    ],
+    "best_time": "Vegetative stage",
+    "crops": [
+      "Vegetables",
+      "Fruits",
+      "Flowers"
+    ],
+    "application_rate": "80-120 kg/acre",
+    "precautions": [
+      "Contains calcium",
+      "Good for acidic soils",
+      "Apply evenly"
+    ],
+    "weather_warnings": [
+      "Rain within 8 hours"
+    ],
+    "alternatives": [
+      "Urea",
+      "Ammonium Nitrate"
+    ],
+    "organic_alternative": "Limestone"
+  },
+  {
+    "fertilizer_id": "FT008",
+    "fertilizer_name": "Zinc Sulfate",
+    "tamil_name": "துத்தநாக சல்பேட்",
+    "type": "Micronutrient",
+    "n_p_k": "0-0-0",
+    "form": "Powder",
+    "application_method": [
+      "Soil",
+      "Foliar"
+    ],
+    "best_time": "Before flowering",
+    "crops": [
+      "Rice",
+      "Maize",
+      "Citrus"
+    ],
+    "application_rate": "10-25 kg/acre",
+    "precautions": [
+      "Do not mix with phosphate",
+      "Apply at deficiency signs",
+      "Test soil first"
+    ],
+    "weather_warnings": [
+      "Rain expected"
+    ],
+    "alternatives": [
+      "Zinc EDTA",
+      "Zinc Oxide"
+    ],
+    "organic_alternative": "Zinc-rich compost"
+  },
+  {
+    "fertilizer_id": "FT009",
+    "fertilizer_name": "Boron",
+    "tamil_name": "போரான்",
+    "type": "Micronutrient",
+    "n_p_k": "0-0-0",
+    "form": "Powder",
+    "application_method": [
+      "Soil",
+      "Foliar"
+    ],
+    "best_time": "Flowering stage",
+    "crops": [
+      "Oilseeds",
+      "Pulses",
+      "Fruits"
+    ],
+    "application_rate": "1-2 kg/acre",
+    "precautions": [
+      "Toxic in high doses",
+      "Apply precisely",
+      "Mix well with soil"
+    ],
+    "weather_warnings": [],
+    "alternatives": [
+      "Borax",
+      "Boric Acid"
+    ],
+    "organic_alternative": "Seaweed extract"
+  },
+  {
+    "fertilizer_id": "FT010",
+    "fertilizer_name": "Gypsum",
+    "tamil_name": "ஜிப்சம்",
+    "type": "Soil Amendment",
+    "n_p_k": "0-0-0",
+    "form": "Powder",
+    "application_method": [
+      "Basal"
+    ],
+    "best_time": "Before sowing",
+    "crops": [
+      "Groundnut",
+      "Rice",
+      "Cotton"
+    ],
+    "application_rate": "200-400 kg/acre",
+    "precautions": [
+      "For sodic soils",
+      "Improves soil structure",
+      "Apply before monsoon"
+    ],
+    "weather_warnings": [],
+    "alternatives": [
+      "Lime",
+      "Dolomite"
+    ],
+    "organic_alternative": "Organic matter"
+  },
+  {
+    "fertilizer_id": "FT011",
+    "fertilizer_name": "Biofertilizer Consortium",
+    "tamil_name": "Biofertilizer Consortium",
+    "type": "Organic",
+    "n_p_k": "0-0-0",
+    "form": "Powder",
+    "application_method": [
+      "Basal",
+      "Drip"
+    ],
+    "best_time": "At sowing and early vegetative stage",
+    "crops": [
+      "Rice",
+      "Vegetables",
+      "Banana",
+      "Chilli"
+    ],
+    "application_rate": "5-8 kg/acre",
+    "precautions": [
+      "Store in shade",
+      "Do not mix with chemical fungicides"
+    ],
+    "weather_warnings": [],
+    "alternatives": [
+      "Vermicompost"
+    ],
+    "organic_alternative": "Farmyard manure"
+  },
+  {
+    "fertilizer_id": "FT012",
+    "fertilizer_name": "Humic Acid",
+    "tamil_name": "Humic Acid",
+    "type": "Soil Conditioner",
+    "n_p_k": "0-0-0",
+    "form": "Liquid",
+    "application_method": [
+      "Foliar",
+      "Drip"
+    ],
+    "best_time": "Evening",
+    "crops": [
+      "Tomato",
+      "Chilli",
+      "Onion",
+      "Banana"
+    ],
+    "application_rate": "1-2 liters/acre",
+    "precautions": [
+      "Use recommended dilution",
+      "Do not spray in strong sunlight"
+    ],
+    "weather_warnings": [
+      "Rain expected within 4 hours"
+    ],
+    "alternatives": [
+      "Seaweed extract"
+    ],
+    "organic_alternative": "Compost tea"
+  }
+]

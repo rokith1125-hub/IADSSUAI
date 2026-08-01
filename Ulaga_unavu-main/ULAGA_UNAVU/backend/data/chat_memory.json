@@ -1,0 +1,159 @@
+[
+  {
+    "user_id": "u_test",
+    "_id": "dc812d7ee0604cf79f2400af",
+    "created_at": "2026-02-26T16:29:11.894155",
+    "updated_at": "2026-02-26T16:29:11.915931",
+    "memory": {
+      "last_intent": "soil_testing",
+      "language_preference": "english",
+      "updated_at": "2026-02-26T16:29:11.915931"
+    }
+  },
+  {
+    "user_id": "u_ctx",
+    "_id": "b52b87793084497dbc0f32a1",
+    "created_at": "2026-02-26T16:31:01.899683",
+    "updated_at": "2026-02-26T16:31:28.167703",
+    "memory": {
+      "last_intent": "weather_check",
+      "language_preference": "english",
+      "updated_at": "2026-02-26T16:31:28.166707"
+    }
+  },
+  {
+    "user_id": "Agri_23",
+    "_id": "de95159423bd44c2a4b9b0da",
+    "created_at": "2026-02-26T16:51:26.463878",
+    "updated_at": "2026-02-27T07:27:28.001746",
+    "memory": {
+      "last_intent": "market_price",
+      "language_preference": "tanglish",
+      "last_location": "Villupuram",
+      "updated_at": "2026-02-27T07:27:28.001746",
+      "last_state": "Tamil Nadu",
+      "last_district": "Villupuram",
+      "last_crop": "Rice"
+    }
+  },
+  {
+    "user_id": "Agri_24",
+    "_id": "f9caf5d0485f4c0799b0e9ff",
+    "created_at": "2026-02-27T07:29:15.632421",
+    "updated_at": "2026-02-27T07:40:30.881110",
+    "memory": {
+      "last_intent": "weather_check",
+      "language_preference": "tanglish",
+      "last_location": "Our Region",
+      "updated_at": "2026-02-27T07:40:30.881110",
+      "last_district": "Our Region",
+      "last_crop": "Vegetables"
+    }
+  },
+  {
+    "user_id": "Agri_26",
+    "_id": "f5192ac1680d4147b0fe6f5d",
+    "created_at": "2026-02-28T12:10:24.248349",
+    "updated_at": "2026-02-28T12:11:34.366086",
+    "memory": {
+      "last_intent": "soil_testing",
+      "language_preference": "english",
+      "updated_at": "2026-02-28T12:11:34.366086"
+    }
+  },
+  {
+    "user_id": "Agri_12",
+    "_id": "894e63fb084243e7a4139bf1",
+    "created_at": "2026-02-28T15:10:30.162451",
+    "updated_at": "2026-03-07T17:17:39.790394",
+    "memory": {
+      "last_intent": "fertilizer_advice",
+      "language_preference": "english",
+      "updated_at": "2026-03-07T17:17:39.790394",
+      "last_location": "Villupuram",
+      "last_crop": "Tomato",
+      "last_state": "Tamil Nadu"
+    }
+  },
+  {
+    "user_id": "Agri_29",
+    "_id": "15db11a9f6764745a946dce9",
+    "created_at": "2026-03-07T14:22:43.599608",
+    "updated_at": "2026-03-07T14:22:43.599608",
+    "memory": {
+      "last_intent": "crop_info",
+      "language_preference": "tanglish",
+      "last_crop": "tomato",
+      "updated_at": "2026-03-07T14:22:43.599608"
+    }
+  },
+  {
+    "user_id": "Agri_25",
+    "_id": "15ec74d86ebd4822a0d3e9dc",
+    "created_at": "2026-03-07T17:42:53.656581",
+    "updated_at": "2026-03-10T17:14:45.704476",
+    "memory": {
+      "last_intent": "best_crop",
+      "language_preference": "english",
+      "last_location": "Tiruchirappalli",
+      "updated_at": "2026-03-10T17:14:45.699975",
+      "last_crop": "Potato",
+      "last_state": "Tamil Nadu",
+      "last_district": "Tiruchirappalli"
+    }
+  },
+  {
+    "user_id": "Agri_32",
+    "_id": "836397f67358407fb345d15b",
+    "created_at": "2026-03-10T16:13:53.987736",
+    "updated_at": "2026-03-10T16:13:53.987736",
+    "memory": {
+      "last_intent": "fertilizer_advice",
+      "language_preference": "english",
+      "last_crop": "paddy",
+      "last_location": "Paddy",
+      "last_district": "Paddy",
+      "updated_at": "2026-03-10T16:13:53.987736"
+    }
+  },
+  {
+    "user_id": "Agri_33",
+    "_id": "9ad6075c9c3f433eaeb7959f",
+    "created_at": "2026-03-10T16:32:17.360588",
+    "updated_at": "2026-03-10T16:32:17.360588",
+    "memory": {
+      "last_intent": "greeting",
+      "language_preference": "tanglish",
+      "last_crop": "Rice",
+      "last_location": "Chennai",
+      "updated_at": "2026-03-10T16:32:17.360588"
+    }
+  },
+  {
+    "user_id": "Agri_1",
+    "_id": "edb2664d8ae64abaa6112d75",
+    "created_at": "2026-03-10T17:25:11.928739",
+    "updated_at": "2026-03-10T18:56:18.502801",
+    "memory": {
+      "last_intent": "crop_info",
+      "language_preference": "english",
+      "last_crop": "Wheat",
+      "last_location": "My",
+      "last_district": "My",
+      "updated_at": "2026-03-10T18:56:18.502801"
+    }
+  },
+  {
+    "user_id": "Agri_35",
+    "_id": "d8b0a741f3584058b7e17ec5",
+    "created_at": "2026-03-16T16:44:08.044663",
+    "updated_at": "2026-04-10T05:05:13.091533",
+    "memory": {
+      "last_intent": "best_crop",
+      "language_preference": "english",
+      "last_location": "villupuram",
+      "updated_at": "2026-04-10T05:05:13.090316",
+      "last_crop": "Wheat"
+    }
+  }
+]

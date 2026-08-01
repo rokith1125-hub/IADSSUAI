@@ -1,0 +1,494 @@
+[
+  {
+    "crop_name": "Rice",
+    "variety": "Ponni",
+    "market_grade": "Grade A",
+    "base_price": 2280,
+    "typical_season": "November-April",
+    "price_trend": {
+      "avg_jan_feb": 2200,
+      "avg_mar_apr": 2100,
+      "avg_may_jun": 2300,
+      "avg_jul_aug": 2400,
+      "avg_sep_oct": 2500,
+      "avg_nov_dec": 2200
+    },
+    "demand_peak": [
+      "September",
+      "October"
+    ],
+    "supply_peak": [
+      "January",
+      "February"
+    ],
+    "storage_life": "6-12 months",
+    "storage_conditions": "Dry, 14% moisture, cool",
+    "transport_cost_per_km": 2.5,
+    "major_mandis": [
+      "Chennai",
+      "Madurai",
+      "Coimbatore"
+    ],
+    "quality_parameters": [
+      "Grain length",
+      "Broken percentage",
+      "Whiteness"
+    ],
+    "price_factors": [
+      "Monsoon pattern",
+      "Stock levels",
+      "Import policy"
+    ]
+  },
+  {
+    "crop_name": "Wheat",
+    "variety": "Sharbati",
+    "market_grade": "Medium",
+    "base_price": 2075,
+    "typical_season": "March-June",
+    "price_trend": {
+      "avg_jan_feb": 2000,
+      "avg_mar_apr": 2100,
+      "avg_may_jun": 2200,
+      "avg_jul_aug": 2150,
+      "avg_sep_oct": 2050,
+      "avg_nov_dec": 1950
+    },
+    "demand_peak": [
+      "May",
+      "June"
+    ],
+    "supply_peak": [
+      "April",
+      "May"
+    ],
+    "storage_life": "8-12 months",
+    "storage_conditions": "Dry, 12% moisture",
+    "transport_cost_per_km": 2.0,
+    "major_mandis": [
+      "Delhi",
+      "Punjab",
+      "Haryana"
+    ],
+    "quality_parameters": [
+      "Protein content",
+      "Gluten",
+      "Moisture"
+    ],
+    "price_factors": [
+      "Government MSP",
+      "International prices",
+      "Festival demand"
+    ]
+  },
+  {
+    "crop_name": "Cotton",
+    "variety": "MCU-5",
+    "market_grade": "Medium Staple",
+    "base_price": 6530,
+    "typical_season": "December-March",
+    "price_trend": {
+      "avg_jan_feb": 6500,
+      "avg_mar_apr": 6400,
+      "avg_may_jun": 6300,
+      "avg_jul_aug": 6200,
+      "avg_sep_oct": 6800,
+      "avg_nov_dec": 7000
+    },
+    "demand_peak": [
+      "October",
+      "November"
+    ],
+    "supply_peak": [
+      "January",
+      "February"
+    ],
+    "storage_life": "Indefinite (dry)",
+    "storage_conditions": "Dry, avoid moisture",
+    "transport_cost_per_km": 3.0,
+    "major_mandis": [
+      "Mumbai",
+      "Ahmedabad",
+      "Coimbatore"
+    ],
+    "quality_parameters": [
+      "Staple length",
+      "Micronaire",
+      "Strength"
+    ],
+    "price_factors": [
+      "Textile demand",
+      "Export policy",
+      "China imports"
+    ]
+  },
+  {
+    "crop_name": "Sugarcane",
+    "variety": "Co-86032",
+    "market_grade": "Factory grade",
+    "base_price": 3000,
+    "typical_season": "October-March",
+    "price_trend": {
+      "avg_jan_feb": 3000,
+      "avg_mar_apr": 2950,
+      "avg_may_jun": 2900,
+      "avg_jul_aug": 2850,
+      "avg_sep_oct": 3100,
+      "avg_nov_dec": 3200
+    },
+    "demand_peak": [
+      "November",
+      "December"
+    ],
+    "supply_peak": [
+      "February",
+      "March"
+    ],
+    "storage_life": "1-2 days (fresh)",
+    "storage_conditions": "Immediate processing",
+    "transport_cost_per_km": 4.0,
+    "major_mandis": [
+      "UP",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "quality_parameters": [
+      "Sucrose content",
+      "Purity",
+      "Fiber"
+    ],
+    "price_factors": [
+      "Sugar prices",
+      "Government FRP",
+      "Crushing season"
+    ]
+  },
+  {
+    "crop_name": "Groundnut",
+    "variety": "TMV-2",
+    "market_grade": "Bold",
+    "base_price": 5670,
+    "typical_season": "January-March",
+    "price_trend": {
+      "avg_jan_feb": 5500,
+      "avg_mar_apr": 5400,
+      "avg_may_jun": 5600,
+      "avg_jul_aug": 5800,
+      "avg_sep_oct": 6000,
+      "avg_nov_dec": 5700
+    },
+    "demand_peak": [
+      "September",
+      "October"
+    ],
+    "supply_peak": [
+      "February",
+      "March"
+    ],
+    "storage_life": "4-6 months",
+    "storage_conditions": "Dry, 7% moisture",
+    "transport_cost_per_km": 2.5,
+    "major_mandis": [
+      "Gujarat",
+      "Tamil Nadu",
+      "Andhra"
+    ],
+    "quality_parameters": [
+      "Kernel size",
+      "Oil content",
+      "Aflatoxin"
+    ],
+    "price_factors": [
+      "Oil prices",
+      "Festival demand",
+      "Import duty"
+    ]
+  },
+  {
+    "crop_name": "Tomato",
+    "variety": "Hybrid",
+    "market_grade": "Fresh",
+    "base_price": 1670,
+    "typical_season": "Year-round",
+    "price_trend": {
+      "avg_jan_feb": 1200,
+      "avg_mar_apr": 1000,
+      "avg_may_jun": 800,
+      "avg_jul_aug": 1500,
+      "avg_sep_oct": 3000,
+      "avg_nov_dec": 2500
+    },
+    "demand_peak": [
+      "September",
+      "October"
+    ],
+    "supply_peak": [
+      "May",
+      "June"
+    ],
+    "storage_life": "7-10 days",
+    "storage_conditions": "Cool, 10-15°C",
+    "transport_cost_per_km": 5.0,
+    "major_mandis": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "quality_parameters": [
+      "Color",
+      "Firmness",
+      "Size"
+    ],
+    "price_factors": [
+      "Seasonal glut",
+      "Transport strike",
+      "Weather damage"
+    ]
+  },
+  {
+    "crop_name": "Maize",
+    "variety": "Hybrid",
+    "market_grade": "Feed grade",
+    "base_price": 1930,
+    "typical_season": "June-September",
+    "price_trend": {
+      "avg_jan_feb": 1900,
+      "avg_mar_apr": 1850,
+      "avg_may_jun": 1800,
+      "avg_jul_aug": 1950,
+      "avg_sep_oct": 2100,
+      "avg_nov_dec": 2000
+    },
+    "demand_peak": [
+      "August",
+      "September"
+    ],
+    "supply_peak": [
+      "July",
+      "August"
+    ],
+    "storage_life": "6-9 months",
+    "storage_conditions": "Dry, 14% moisture",
+    "transport_cost_per_km": 2.0,
+    "major_mandis": [
+      "Nizamabad",
+      "Indore",
+      "Karimnagar"
+    ],
+    "quality_parameters": [
+      "Test weight",
+      "Broken grains",
+      "Aflatoxin"
+    ],
+    "price_factors": [
+      "Poultry demand",
+      "Starch industry",
+      "International prices"
+    ]
+  },
+  {
+    "crop_name": "Onion",
+    "variety": "Nasik Red",
+    "market_grade": "Medium",
+    "base_price": 2420,
+    "typical_season": "January-March",
+    "price_trend": {
+      "avg_jan_feb": 1500,
+      "avg_mar_apr": 1200,
+      "avg_may_jun": 800,
+      "avg_jul_aug": 2000,
+      "avg_sep_oct": 5000,
+      "avg_nov_dec": 4000
+    },
+    "demand_peak": [
+      "September",
+      "October"
+    ],
+    "supply_peak": [
+      "January",
+      "February"
+    ],
+    "storage_life": "2-3 months",
+    "storage_conditions": "Cool, dry, ventilated",
+    "transport_cost_per_km": 4.0,
+    "major_mandis": [
+      "Lasalgaon",
+      "Pune",
+      "Bangalore"
+    ],
+    "quality_parameters": [
+      "Size",
+      "Color",
+      "Firmness"
+    ],
+    "price_factors": [
+      "Monsoon damage",
+      "Hoarding",
+      "Export ban"
+    ]
+  },
+  {
+    "crop_name": "Potato",
+    "variety": "Kufri Jyoti",
+    "market_grade": "Table",
+    "base_price": 1075,
+    "typical_season": "January-March",
+    "price_trend": {
+      "avg_jan_feb": 900,
+      "avg_mar_apr": 850,
+      "avg_may_jun": 1000,
+      "avg_jul_aug": 1200,
+      "avg_sep_oct": 1400,
+      "avg_nov_dec": 1100
+    },
+    "demand_peak": [
+      "September",
+      "October"
+    ],
+    "supply_peak": [
+      "February",
+      "March"
+    ],
+    "storage_life": "3-4 months (cold storage)",
+    "storage_conditions": "4°C, 90% humidity",
+    "transport_cost_per_km": 3.5,
+    "major_mandis": [
+      "Agra",
+      "Hooghly",
+      "Deesa"
+    ],
+    "quality_parameters": [
+      "Size",
+      "Shape",
+      "Dry matter"
+    ],
+    "price_factors": [
+      "Cold storage charges",
+      "Chip industry demand",
+      "Weather"
+    ]
+  },
+  {
+    "crop_name": "Millets",
+    "variety": "Ragi",
+    "market_grade": "Food grade",
+    "base_price": 3550,
+    "typical_season": "October-December",
+    "price_trend": {
+      "avg_jan_feb": 3500,
+      "avg_mar_apr": 3400,
+      "avg_may_jun": 3300,
+      "avg_jul_aug": 3600,
+      "avg_sep_oct": 3800,
+      "avg_nov_dec": 3700
+    },
+    "demand_peak": [
+      "September",
+      "October"
+    ],
+    "supply_peak": [
+      "November",
+      "December"
+    ],
+    "storage_life": "6-12 months",
+    "storage_conditions": "Dry, 10% moisture",
+    "transport_cost_per_km": 2.0,
+    "major_mandis": [
+      "Bangalore",
+      "Coimbatore",
+      "Chennai"
+    ],
+    "quality_parameters": [
+      "Grain color",
+      "Foreign matter",
+      "Nutrition"
+    ],
+    "price_factors": [
+      "Health trend",
+      "Government promotion",
+      "Festival demand"
+    ]
+  },
+  {
+    "crop_name": "Banana",
+    "variety": "Nendran",
+    "market_grade": "Fresh",
+    "base_price": 2450,
+    "typical_season": "Year-round",
+    "price_trend": {
+      "avg_jan_feb": 2200,
+      "avg_mar_apr": 2100,
+      "avg_may_jun": 2300,
+      "avg_jul_aug": 2600,
+      "avg_sep_oct": 2800,
+      "avg_nov_dec": 2500
+    },
+    "demand_peak": [
+      "September",
+      "October"
+    ],
+    "supply_peak": [
+      "January",
+      "February"
+    ],
+    "storage_life": "10-14 days",
+    "storage_conditions": "13-15C, ventilated",
+    "transport_cost_per_km": 4.5,
+    "major_mandis": [
+      "Coimbatore",
+      "Trichy",
+      "Chennai"
+    ],
+    "quality_parameters": [
+      "Fruit size",
+      "Uniform color",
+      "Firmness"
+    ],
+    "price_factors": [
+      "Festival demand",
+      "Transport cost",
+      "Rainfall pattern"
+    ]
+  },
+  {
+    "crop_name": "Chilli",
+    "variety": "Guntur",
+    "market_grade": "Dry",
+    "base_price": 9600,
+    "typical_season": "December-March",
+    "price_trend": {
+      "avg_jan_feb": 9100,
+      "avg_mar_apr": 8800,
+      "avg_may_jun": 9300,
+      "avg_jul_aug": 9900,
+      "avg_sep_oct": 10400,
+      "avg_nov_dec": 9700
+    },
+    "demand_peak": [
+      "August",
+      "September"
+    ],
+    "supply_peak": [
+      "February",
+      "March"
+    ],
+    "storage_life": "4-6 months",
+    "storage_conditions": "Dry, low humidity",
+    "transport_cost_per_km": 3.0,
+    "major_mandis": [
+      "Guntur",
+      "Virudhunagar",
+      "Erode"
+    ],
+    "quality_parameters": [
+      "Pungency",
+      "Color value",
+      "Moisture"
+    ],
+    "price_factors": [
+      "Export demand",
+      "Stock holding",
+      "Quality grade"
+    ]
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "crop_name": "Rice",
+    "stages": [
+      {
+        "stage": "Germination",
+        "tamil_name": "முளைப்பு",
+        "duration_days": 7,
+        "critical_actions": [
+          "Land preparation",
+          "Seed treatment"
+        ],
+        "irrigation": "Maintain moist soil",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Seedling emergence"
+      },
+      {
+        "stage": "Seedling",
+        "tamil_name": "நாற்று",
+        "duration_days": 21,
+        "critical_actions": [
+          "Nursery management",
+          "Weed control"
+        ],
+        "irrigation": "Shallow water",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Root development"
+      },
+      {
+        "stage": "Tillering",
+        "tamil_name": "கதிர் உருவாக்கம்",
+        "duration_days": 28,
+        "critical_actions": [
+          "Nitrogen application",
+          "Water management"
+        ],
+        "irrigation": "2-5 cm standing water",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Tiller count"
+      },
+      {
+        "stage": "Flowering",
+        "tamil_name": "மலர்ச்சி",
+        "duration_days": 14,
+        "critical_actions": [
+          "Avoid water stress",
+          "Pest monitoring"
+        ],
+        "irrigation": "Maintain water level",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Panicle development"
+      },
+      {
+        "stage": "Ripening",
+        "tamil_name": "பக்குவமாதல்",
+        "duration_days": 20,
+        "critical_actions": [
+          "Drain field",
+          "Bird scare"
+        ],
+        "irrigation": "Gradual drying",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Grain filling"
+      }
+    ],
+    "total_growth_days": 90,
+    "harvest_indicators": [
+      "85% grains golden yellow",
+      "Grains hard"
+    ],
+    "post_harvest": [
+      "Dry to 14% moisture",
+      "Store in dry place"
+    ]
+  },
+  {
+    "crop_name": "Wheat",
+    "stages": [
+      {
+        "stage": "Germination",
+        "tamil_name": "முளைப்பு",
+        "duration_days": 7,
+        "critical_actions": [
+          "Seed treatment",
+          "Sowing depth 5cm"
+        ],
+        "irrigation": "Light irrigation",
+        "temperature": "15-20°C",
+        "monitoring_focus": "Uniform emergence"
+      },
+      {
+        "stage": "Tillering",
+        "tamil_name": "கிளைத்தல்",
+        "duration_days": 30,
+        "critical_actions": [
+          "First top dressing",
+          "Weed control"
+        ],
+        "irrigation": "Crown root irrigation",
+        "temperature": "15-20°C",
+        "monitoring_focus": "Tiller formation"
+      },
+      {
+        "stage": "Stem Extension",
+        "tamil_name": "தண்டு வளர்ச்சி",
+        "duration_days": 35,
+        "critical_actions": [
+          "Second top dressing",
+          "Disease control"
+        ],
+        "irrigation": "Critical stage irrigation",
+        "temperature": "15-20°C",
+        "monitoring_focus": "Stem strength"
+      },
+      {
+        "stage": "Heading",
+        "tamil_name": "தலை உருவாக்கம்",
+        "duration_days": 28,
+        "critical_actions": [
+          "Avoid water stress",
+          "Pest control"
+        ],
+        "irrigation": "Light frequent irrigation",
+        "temperature": "15-25°C",
+        "monitoring_focus": "Spike development"
+      },
+      {
+        "stage": "Ripening",
+        "tamil_name": "பக்குவமாதல்",
+        "duration_days": 20,
+        "critical_actions": [
+          "Stop irrigation",
+          "Bird protection"
+        ],
+        "irrigation": "No irrigation",
+        "temperature": "20-25°C",
+        "monitoring_focus": "Grain hardness"
+      }
+    ],
+    "total_growth_days": 120,
+    "harvest_indicators": [
+      "Grains hard, thumb nail test",
+      "Straw yellow"
+    ],
+    "post_harvest": [
+      "Dry to 12% moisture",
+      "Clean storage"
+    ]
+  },
+  {
+    "crop_name": "Tomato",
+    "stages": [
+      {
+        "stage": "Germination",
+        "tamil_name": "முளைப்பு",
+        "duration_days": 10,
+        "critical_actions": [
+          "Nursery preparation",
+          "Temperature control"
+        ],
+        "irrigation": "Mist irrigation",
+        "temperature": "20-25°C",
+        "monitoring_focus": "Seedling emergence"
+      },
+      {
+        "stage": "Seedling",
+        "tamil_name": "நாற்று",
+        "duration_days": 20,
+        "critical_actions": [
+          "Transplanting",
+          "Hardening"
+        ],
+        "irrigation": "Light irrigation",
+        "temperature": "18-25°C",
+        "monitoring_focus": "Root establishment"
+      },
+      {
+        "stage": "Vegetative",
+        "tamil_name": "தழை வளர்ச்சி",
+        "duration_days": 30,
+        "critical_actions": [
+          "Staking",
+          "Nitrogen application"
+        ],
+        "irrigation": "Regular irrigation",
+        "temperature": "20-28°C",
+        "monitoring_focus": "Leaf growth"
+      },
+      {
+        "stage": "Flowering",
+        "tamil_name": "மலர்ச்சி",
+        "duration_days": 15,
+        "critical_actions": [
+          "Calcium spray",
+          "Pollination support"
+        ],
+        "irrigation": "Avoid water stress",
+        "temperature": "18-25°C",
+        "monitoring_focus": "Flower setting"
+      },
+      {
+        "stage": "Fruiting",
+        "tamil_name": "காய் கட்டுதல்",
+        "duration_days": 15,
+        "critical_actions": [
+          "Potassium application",
+          "Pest control"
+        ],
+        "irrigation": "Regular irrigation",
+        "temperature": "20-25°C",
+        "monitoring_focus": "Fruit size"
+      }
+    ],
+    "total_growth_days": 90,
+    "harvest_indicators": [
+      "Firm, fully colored",
+      "Easily separates"
+    ],
+    "post_harvest": [
+      "Grade by size",
+      "Cool storage"
+    ]
+  },
+  {
+    "crop_name": "Cotton",
+    "stages": [
+      {
+        "stage": "Germination",
+        "tamil_name": "முளைப்பு",
+        "duration_days": 7,
+        "critical_actions": [
+          "Soil moisture",
+          "Seed treatment"
+        ],
+        "irrigation": "Pre-sowing irrigation",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Uniform emergence"
+      },
+      {
+        "stage": "Seedling",
+        "tamil_name": "நாற்று",
+        "duration_days": 21,
+        "critical_actions": [
+          "Thinning",
+          "Weed control"
+        ],
+        "irrigation": "Light irrigation",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Stand establishment"
+      },
+      {
+        "stage": "Square Formation",
+        "tamil_name": "சதுர உருவாக்கம்",
+        "duration_days": 42,
+        "critical_actions": [
+          "Nitrogen application",
+          "Pest monitoring"
+        ],
+        "irrigation": "Regular irrigation",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Square development"
+      },
+      {
+        "stage": "Flowering",
+        "tamil_name": "மலர்ச்சி",
+        "duration_days": 35,
+        "critical_actions": [
+          "Potassium application",
+          "Avoid water stress"
+        ],
+        "irrigation": "Critical irrigation",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Boll setting"
+      },
+      {
+        "stage": "Boll Development",
+        "tamil_name": "கொட்டை வளர்ச்சி",
+        "duration_days": 45,
+        "critical_actions": [
+          "Stop irrigation",
+          "Defoliation"
+        ],
+        "irrigation": "Reduce irrigation",
+        "temperature": "25-30°C",
+        "monitoring_focus": "Boll opening"
+      }
+    ],
+    "total_growth_days": 150,
+    "harvest_indicators": [
+      "60-70% bolls open",
+      "Leaves shed"
+    ],
+    "post_harvest": [
+      "Pick dry bolls",
+      "Grade by staple length"
+    ]
+  },
+  {
+    "crop_name": "Maize",
+    "stages": [
+      {
+        "stage": "Germination",
+        "tamil_name": "முளைப்பு",
+        "duration_days": 7,
+        "critical_actions": [
+          "Seed treatment",
+          "Proper depth"
+        ],
+        "irrigation": "Light irrigation",
+        "temperature": "18-25°C",
+        "monitoring_focus": "Emergence rate"
+      },
+      {
+        "stage": "Vegetative",
+        "tamil_name": "தழை வளர்ச்சி",
+        "duration_days": 35,
+        "critical_actions": [
+          "Nitrogen application",
+          "Weed control"
+        ],
+        "irrigation": "Regular irrigation",
+        "temperature": "20-28°C",
+        "monitoring_focus": "Leaf area"
+      },
+      {
+        "stage": "Tasseling",
+        "tamil_name": "தலை உருவாக்கம்",
+        "duration_days": 21,
+        "critical_actions": [
+          "Avoid water stress",
+          "Pest control"
+        ],
+        "irrigation": "Critical irrigation",
+        "temperature": "20-25°C",
+        "monitoring_focus": "Tassel emergence"
+      },
+      {
+        "stage": "Silking",
+        "tamil_name": "பூ முடிச்சல்",
+        "duration_days": 14,
+        "critical_actions": [
+          "Pollination",
+          "Potassium application"
+        ],
+        "irrigation": "Maintain moisture",
+        "temperature": "20-25°C",
+        "monitoring_focus": "Silk emergence"
+      },
+      {
+        "stage": "Maturity",
+        "tamil_name": "பக்குவமாதல்",
+        "duration_days": 13,
+        "critical_actions": [
+          "Stop irrigation",
+          "Bird control"
+        ],
+        "irrigation": "No irrigation",
+        "temperature": "20-25°C",
+        "monitoring_focus": "Kernel hardness"
+      }
+    ],
+    "total_growth_days": 90,
+    "harvest_indicators": [
+      "Black layer formation",
+      "Husk dry"
+    ],
+    "post_harvest": [
+      "Dry to 14% moisture",
+      "Shelling"
+    ]
+  },
+  {
+    "crop_name": "Banana",
+    "stages": [
+      {
+        "stage": "Planting",
+        "tamil_name": "Planting",
+        "duration_days": 20,
+        "critical_actions": [
+          "Pit preparation",
+          "Sucker treatment"
+        ],
+        "irrigation": "Initial settling irrigation",
+        "temperature": "24-32C",
+        "monitoring_focus": "Root establishment"
+      },
+      {
+        "stage": "Vegetative",
+        "tamil_name": "Vegetative",
+        "duration_days": 120,
+        "critical_actions": [
+          "Nutrient split doses",
+          "Desuckering"
+        ],
+        "irrigation": "Regular irrigation",
+        "temperature": "25-34C",
+        "monitoring_focus": "Leaf growth and pseudostem vigor"
+      },
+      {
+        "stage": "Flowering",
+        "tamil_name": "Flowering",
+        "duration_days": 80,
+        "critical_actions": [
+          "Potassium feeding",
+          "Propping support"
+        ],
+        "irrigation": "Moist soil",
+        "temperature": "22-30C",
+        "monitoring_focus": "Flower emergence"
+      },
+      {
+        "stage": "Bunch Development",
+        "tamil_name": "Bunch Development",
+        "duration_days": 80,
+        "critical_actions": [
+          "Bunch cover",
+          "Pest watch"
+        ],
+        "irrigation": "Consistent irrigation",
+        "temperature": "20-30C",
+        "monitoring_focus": "Finger filling"
+      }
+    ],
+    "total_growth_days": 300,
+    "harvest_indicators": [
+      "Angular fruits become round",
+      "Dry floral remnants"
+    ],
+    "post_harvest": [
+      "Cut bunch carefully",
+      "Avoid fruit bruising",
+      "Move to shade quickly"
+    ]
+  },
+  {
+    "crop_name": "Chilli",
+    "stages": [
+      {
+        "stage": "Germination",
+        "tamil_name": "Germination",
+        "duration_days": 10,
+        "critical_actions": [
+          "Seed treatment",
+          "Nursery moisture"
+        ],
+        "irrigation": "Light mist",
+        "temperature": "22-30C",
+        "monitoring_focus": "Uniform emergence"
+      },
+      {
+        "stage": "Seedling",
+        "tamil_name": "Seedling",
+        "duration_days": 25,
+        "critical_actions": [
+          "Hardening",
+          "Transplanting"
+        ],
+        "irrigation": "Light irrigation",
+        "temperature": "20-30C",
+        "monitoring_focus": "Root establishment"
+      },
+      {
+        "stage": "Vegetative",
+        "tamil_name": "Vegetative",
+        "duration_days": 45,
+        "critical_actions": [
+          "Nitrogen split",
+          "Weed control"
+        ],
+        "irrigation": "Moderate irrigation",
+        "temperature": "22-32C",
+        "monitoring_focus": "Branch growth"
+      },
+      {
+        "stage": "Flowering",
+        "tamil_name": "Flowering",
+        "duration_days": 30,
+        "critical_actions": [
+          "Micronutrient spray",
+          "Pest scouting"
+        ],
+        "irrigation": "Avoid stress",
+        "temperature": "20-30C",
+        "monitoring_focus": "Flower retention"
+      },
+      {
+        "stage": "Fruiting",
+        "tamil_name": "Fruiting",
+        "duration_days": 40,
+        "critical_actions": [
+          "Potash feeding",
+          "Fruit borer control"
+        ],
+        "irrigation": "Regular light irrigation",
+        "temperature": "20-32C",
+        "monitoring_focus": "Fruit size and color"
+      }
+    ],
+    "total_growth_days": 150,
+    "harvest_indicators": [
+      "Fruits attain market color",
+      "Firm fruit skin"
+    ],
+    "post_harvest": [
+      "Harvest in cool hours",
+      "Sort by size and color",
+      "Avoid over-stacking"
+    ]
+  }
+]

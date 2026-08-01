@@ -1,0 +1,127 @@
+"""
+Localization helper for ULAGA_UNAVU
+Supports Tamil and English
+"""
+
+MESSAGES = {
+    "en": {
+        "auth_failed": "Authentication failed",
+        "header_required": "Authorization header required",
+        "token_invalid": "Invalid token provided",
+        "user_not_found": "User profile not found",
+        "user_deactivated": "User account is deactivated",
+        "no_data": "No data available",
+        "db_error": "Database connection error. Please try again later.",
+        "success": "Success",
+        "profile_updated": "Profile updated successfully",
+        "reg_success": "User registered successfully",
+        "login_success": "Login successful",
+        "invalid_email": "Invalid email format",
+        "invalid_password": "Password must be at least 6 characters",
+        "missing_fields": "Required fields are missing",
+        "weather_favorable": "Weather conditions are favorable for farming",
+        "heavy_rain_warning": "Heavy rain expected. Avoid spraying and fertilizer application.",
+        "rain_likely_warning": "Rain likely. Plan activities accordingly.",
+        "high_temp_warning": "High temperature. Ensure proper irrigation.",
+        "no_soil_data": "No soil analysis done yet",
+        "analyze_soil_action": "Analyze your soil to get recommendations",
+        "soil_high_fertility": "{soil_name} soil has high fertility",
+        "soil_medium_fertility": "{soil_name} soil has medium fertility",
+        "soil_low_fertility": "{soil_name} soil has low fertility. Consider soil amendments.",
+        "no_crop_data": "No crop selected yet",
+        "select_crop_action": "Select a crop to get farming plan",
+        "crop_stage_msg": "{crop_name} is in {stage} stage",
+        "no_disease_data": "No disease detected recently",
+        "disease_detected_high": "⚠️ {disease_name} detected. Immediate action needed.",
+        "disease_detected_medium": "{disease_name} detected. Monitor and take preventive measures.",
+        "disease_detected_low": "{disease_name} detected. Low risk.",
+        "no_fertilizer_data": "No fertilizer schedule available",
+        "next_fertilizer_msg": "Next fertilizer application: {fertilizer}",
+        "fertilizer_due": "Due on {date}",
+        "no_growth_data": "No growth tracking available",
+        "growth_progress_msg": "Crop is in {stage} stage ({progress}% complete)",
+        "market_wait": "WAIT",
+        "market_sell": "SELL",
+        "market_price_msg": "Current Price: ₹{price}/quintal",
+        "market_trend_stable": "Stable",
+        "market_trend_up": "Rising",
+        "market_trend_down": "Falling",
+        "market_advice_wait": "Good time to hold {crop_name} for better price",
+        "market_advice_sell": "Prices are high. Good time to sell {crop_name}.",
+        "news_headlines_label": "Latest Headlines",
+        "no_news_data": "No news available at the moment",
+        "custom_crop_explanation": "Select your own crop if not listed",
+        "crop_select_success": "Crop selected successfully",
+        "crop_not_found": "Crop '{crop_name}' not found in database",
+        "plan_next_step": "Proceed to fertilizer schedule",
+        "healthy_plant_msg": "Plant is healthy. Continue regular care.",
+        "disease_detect_success": "Disease detection completed",
+        "weather_suitable_spray": "Weather suitable for treatment"
+    },
+    "ta": {
+        "auth_failed": "அங்கீகாரம் தோல்வியடைந்தது",
+        "header_required": "அங்கீகார ஹெடர் தேவை",
+        "token_invalid": "தவறான டோக்கன் வழங்கப்பட்டது",
+        "user_not_found": "பயனர் சுயவிவரம் காணப்படவில்லை",
+        "user_deactivated": "பயனர் கணக்கு முடக்கப்பட்டுள்ளது",
+        "no_data": "தகவல் இல்லை",
+        "db_error": "தரவுத்தள இணைப்புப் பிழை. பின்னர் மீண்டும் முயற்சிக்கவும்.",
+        "success": "வெற்றி",
+        "profile_updated": "சுயவிவரம் வெற்றிகரமாக புதுப்பிக்கப்பட்டது",
+        "reg_success": "பயனர் வெற்றிகரமாக பதிவு செய்யப்பட்டார்",
+        "login_success": "உள்நுழைவு வெற்றிகரமாக முடிந்தது",
+        "invalid_email": "தவறான மின்னஞ்சல் வடிவம்",
+        "invalid_password": "கடவுச்சொல் குறைந்தது 6 எழுத்துகள் இருக்க வேண்டும்",
+        "missing_fields": "தேவையான புலங்கள் விடுபட்டுள்ளன",
+        "weather_favorable": "வானிலை விவசாயத்திற்கு சாதகமாக உள்ளது",
+        "heavy_rain_warning": "கனமழை எதிர்பார்க்கப்படுகிறது. மருந்து தெளிப்பதையும் உரம் போடுவதையும் தவிர்க்கவும்.",
+        "rain_likely_warning": "மழை பெய்ய வாய்ப்புள்ளது. அதற்கேற்ப நடவடிக்கைகளை திட்டமிடுங்கள்.",
+        "high_temp_warning": "அதிக வெப்பநிலை. சரியான பாசனத்தை உறுதி செய்யவும்.",
+        "no_soil_data": "இன்னும் மண் பரிசோதனை செய்யப்படவில்லை",
+        "analyze_soil_action": "பரிந்துரைகளைப் பெற உங்கள் மண்ணைப் பரிசோதிக்கவும்",
+        "soil_high_fertility": "{soil_name} மண் அதிக வளத்தைக் கொண்டுள்ளது",
+        "soil_medium_fertility": "{soil_name} மண் நடுத்தர வளத்தைக் கொண்டுள்ளது",
+        "soil_low_fertility": "{soil_name} மண் குறைந்த வளத்தைக் கொண்டுள்ளது. மண் திருத்தங்களைக் கவனியுங்கள்.",
+        "no_crop_data": "இன்னும் பயிர் தேர்ந்தெடுக்கப்படவில்லை",
+        "select_crop_action": "விவசாயத் திட்டத்தைப் பெற ஒரு பயிரைத் தேர்ந்தெடுக்கவும்",
+        "crop_stage_msg": "{crop_name} {stage} நிலையில் உள்ளது",
+        "no_disease_data": "சமீபத்தில் எந்த நோயும் கண்டறியப்படவில்லை",
+        "disease_detected_high": "⚠️ {disease_name} கண்டறியப்பட்டது. உடனடி நடவடிக்கை தேவை.",
+        "disease_detected_medium": "{disease_name} கண்டறியப்பட்டது. கண்காணித்து தடுப்பு நடவடிக்கை எடுக்கவும்.",
+        "disease_detected_low": "{disease_name} கண்டறியப்பட்டது. குறைந்த அபாயம்.",
+        "no_fertilizer_data": "உரம் போடும் அட்டவணை இல்லை",
+        "next_fertilizer_msg": "அடுத்த உரப் பயன்பாடு: {fertilizer}",
+        "fertilizer_due": "தேதி: {date}",
+        "no_growth_data": "வளர்ச்சி கண்காணிப்பு இல்லை",
+        "growth_progress_msg": "பயிர் {stage} நிலையில் உள்ளது ({progress}% முடிந்தது)",
+        "market_wait": "காத்திருக்கவும்",
+        "market_sell": "விற்கவும்",
+        "market_price_msg": "தற்போதைய விலை: ₹{price}/குவிண்டால்",
+        "market_trend_stable": "நிலையானது",
+        "market_trend_up": "ஏறுகிறது",
+        "market_trend_down": "இறங்குகிறது",
+        "market_advice_wait": "{crop_name} சிறந்த விலைக்கு காத்திருக்க நல்ல நேரம்",
+        "market_advice_sell": "விலை அதிகமாக உள்ளது. {crop_name} விற்க நல்ல நேரம்.",
+        "news_headlines_label": "முக்கிய செய்திகள்",
+        "no_news_data": "தற்போது செய்திகள் எதுவும் இல்லை",
+        "custom_crop_explanation": "பட்டியலிடப்படவில்லை எனில் உங்கள் சொந்த பயிரைத் தேர்ந்தெடுக்கவும்",
+        "crop_select_success": "பயிர் வெற்றிகரமாக தேர்ந்தெடுக்கப்பட்டது",
+        "crop_not_found": "பயிர் '{crop_name}' தரவுத்தளத்தில் இல்லை",
+        "plan_next_step": "உரத் திட்டத்திற்குச் செல்லவும்",
+        "healthy_plant_msg": "பயிர் ஆரோக்கியமாக உள்ளது. வழக்கமான பராமரிப்பைத் தொடரவும்.",
+        "disease_detect_success": "நோய் கண்டறிதல் முடிந்தது",
+        "weather_suitable_spray": "சிகிச்சைக்கு வானிலை சாதகமாக உள்ளது"
+    }
+}
+
+def get_message(key, lang="en"):
+    """Get localized message by key and language"""
+    # Default to English if language not supported
+    if lang not in MESSAGES:
+        lang = "en"
+    
+    return MESSAGES[lang].get(key, MESSAGES["en"].get(key, key))
+
+def get_all_labels(lang="en"):
+    """Get all labels for frontend sync"""
+    return MESSAGES.get(lang, MESSAGES["en"])

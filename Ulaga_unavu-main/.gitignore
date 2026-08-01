@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+ULAGA_UNAVU/backend/ulagaunavu-firebase-adminsdk-fbsvc-7195d378c3.json
