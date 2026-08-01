@@ -202,7 +202,7 @@ AI Engineer • Machine Learning Engineer • Full-Stack Developer
 
 💼 **LinkedIn**
 
-linkedin.com/in/rokith-m
+[LinkedIn](https://www.linkedin.com/in/rokith-m/)
 
 🐙 **GitHub**
 
